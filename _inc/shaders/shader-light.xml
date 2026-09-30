@@ -1,0 +1,12 @@
+<theme>
+   <formatVersion>7</formatVersion>
+<view name="system, basic, detailed, video, grid, gamecarousel">
+ <image name="art4" extra="true">
+      <pos>0 0</pos>
+      <size>1 1</size>
+         <path>./_inc/shaders/light.png</path>
+         <zIndex>380</zIndex>
+      <color>090000</color>
+    </image>
+</view>
+   </theme>

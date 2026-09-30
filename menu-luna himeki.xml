@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>  
+      <view name="system">
+<carousel name="systemcarousel">
+<zIndex>69</zIndex>	      
+<type>horizontal</type>
+<pos>0.001 -0.44</pos>
+<size>1  1</size>
+<logoScale>1</logoScale>
+<logoSize>0.195 0.195</logoSize>
+<color>00000000</color>
+<maxLogoCount>5.3</maxLogoCount>
+<logoRotation>1</logoRotation>
+<logoRotationOrigin>2.9 0.5</logoRotationOrigin>
+<logoAlignment>center</logoAlignment>       
+</carousel> 
+	<image name="cliente" extra="true">
+		<pos>0.83 0.18</pos>
+		<maxSize>0.06 0.06</maxSize>
+		<color>ffffff</color>
+		<path>./_inc/assets/cliente.png</path>
+		<zIndex>999</zIndex>
+	  </image> 
+<image name="pointer02">
+<pos>0.381 0.06</pos>
+<origin>0.5 0.5</origin>
+<size>0.075 0.13</size>
+<color>ffffff</color>
+<path>./art/sistemas/pointerl/default.png</path>
+<path>./art/sistemas/pointerl/${system.theme}.png</path>
+<zIndex>70</zIndex> 
+        </image>
+<image name="pointer01">
+<pos>0.62 0.06</pos>
+<origin>0.5 0.5</origin>
+<size>0.075 0.13</size>
+<color>ffffff</color>
+<path>./art/sistemas/pointer/default.png</path>
+<path>./art/sistemas/pointer/${system.theme}.png</path>
+<zIndex>70</zIndex> 
+        </image>
+     <image name="thumb0005" extra="true">
+        <origin>0 0</origin>
+		<pos>0.82 0.31</pos>
+         <size>0.067 0.2</size>
+		<color>ffffff</color>
+		<path>./_inc/nothumb.png</path>
+	   <path>./${system.theme}/_inc/char3.png</path>  
+		<zIndex>36</zIndex>
+	  </image>	
+   <video name="backgroundvideo" extra="true">
+<default>./default/_inc/noise.mp4</default>
+<visible>true</visible>
+<effect>none</effect>
+<path>{random}</path>                  
+         <pos>0.543 0.286</pos>
+         <size>0.215 0.242</size>
+<origin>0 0</origin>
+<delay>0.03</delay>
+<showSnapshotNoVideo>true</showSnapshotNoVideo>
+<showSnapshotDelay>true</showSnapshotDelay>
+<color>FFFFFF</color>   
+<zIndex>24</zIndex>
+</video>
+	      <helpsystem name="help">
+	  <color>ffffff</color>
+     <fontSize>0.02</fontSize>
+     <origin>0 0</origin>
+     <pos>0.05 0.973</pos>
+       <fontPath>./_inc/Super Comic.ttf</fontPath>
+     </helpsystem>
+<text name="systemInfo">
+	    <glowColor>000000</glowColor>
+     <color>ffca18</color>
+        <fontPath>./_inc/Super Comic.ttf</fontPath>
+     <pos>-0.33 0.835</pos>
+     <fontSize>0.028</fontSize>
+        <zIndex>70</zIndex>
+      </text>  
+       <image name="art003" extra="true">
+		 <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>  
+         <path>./_inc/hyper004a.png</path>
+         <zIndex>35</zIndex>
+      </image>
+      <image name="art004" extra="true">
+		 <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>  
+         <path>./_inc/hyper004.png</path>
+         <zIndex>22</zIndex>
+      </image>
+      <image name="art005" extra="true">
+		 <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>  
+         <path>./_inc/hyper004-b.png</path>
+         <zIndex>422</zIndex>
+      </image>
+      <image name="art006" extra="true">
+		 <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>  
+         <path>./_inc/roxo-a.png</path>
+         <zIndex>600</zIndex>
+      </image>
+ <video name="video2" extra="true">
+         <origin>0 0</origin>
+		<pos>0.0 0.0</pos>
+	    <maxSize>1 0.4</maxSize>
+         <path>./_inc/video2.mp4</path>
+		 <zIndex>68</zIndex>
+      </video>
+<image name="consoles001" extra="true">
+		<pos>0.12 0.67</pos>
+	    <maxSize>0.1 0.1</maxSize>
+		<color>ffffff</color>
+		<path>./_inc/retro/default.png</path>
+		<path>./_inc/retro/${system.theme}.svg</path>
+		<path>./_inc/retro/${system.theme}.png</path>
+		<zIndex>60</zIndex>
+	  </image>
+<image name="consoles002" extra="true">
+		<pos>0.37 0.6</pos>
+	    <maxSize>0.1 0.1</maxSize>
+		<color>ffffff</color>
+		<path>./_inc/consoles/default.png</path>
+		<path>./_inc/consoles/${system.theme}.svg</path>
+		<path>./_inc/consoles/${system.theme}.png</path>
+		<zIndex>60</zIndex>
+	  </image>
+<image name="fondoblack" extra="true">
+         <origin>0 0</origin>
+         <pos>0. 0.001</pos>
+         <size>1 1</size>
+<path>./_inc/black004.png</path>
+<zIndex>23</zIndex>         
+      </image>
+	    <image name="marqueta1" extra="true">
+<pos>0.599 0.167</pos>
+<maxSize>0.12 0.12</maxSize>
+	<origin>0 0</origin>
+	  <color>ffffff</color>
+       <path>./_inc/logo.png</path>
+       <path>./_inc/logos/${system.theme}.png</path>
+	  <zIndex>25</zIndex>
+	</image>
+	 	        <image name="borde" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>        
+         <path>./_inc/borde.png</path>
+         <zIndex>999</zIndex>          
+      </image>
+	 <image name="character07" extra="true">
+		<pos>0.955 0.5</pos>
+		<maxSize>0.2 0.2</maxSize>
+		<color>ffffff</color>
+	    <rotation>-0</rotation>    
+		<path>./_inc/chars/char232.gif</path>
+		<zIndex>300</zIndex>
+	  </image>
+	 <image name="character5" extra="true">
+		<pos>0.065 0.169</pos>
+		<maxSize>0.17 0.17</maxSize>
+		<color>ffffff</color>
+		<path>./_inc/chars/char239.gif</path>
+		<zIndex>30</zIndex>
+	  </image>
+	 <image name="character3" extra="true">
+		<pos>0.08 0.305</pos>
+		<maxSize>0.6 0.6</maxSize>
+		<color>ffffff</color>
+		<path>./_inc/chars/char171.gif</path>
+		<zIndex>33</zIndex>
+	  </image>
+	 <image name="character02a" extra="true">
+		<zIndex>310</zIndex>
+		<pos>1 0.3</pos>
+		<maxSize>0.7 0.7</maxSize>
+		<color>ffffff</color>
+		<path>./_inc/chars/char26.gif</path>
+	  </image>
+	 <image name="character02" extra="true">
+		<zIndex>310</zIndex>
+		<pos>-3  0.3</pos>
+		<maxSize>0.7 0.7</maxSize>
+		<color>ffffff</color>
+		<path>./_inc/chars/char26a.gif</path>
+	  </image>
+	 <image name="character08" extra="true">
+		<pos>0.81 0.58</pos>
+		<maxSize>0.3 0.3</maxSize>
+		<color>ffffff</color>
+	    <rotation>-0</rotation>    
+		<path>./_inc/chars/char237a.gif</path>
+		<zIndex>300</zIndex>
+	  </image>
+	 <image name="character06" extra="true">
+		<pos>-0.2 0.22</pos>
+		<maxSize>0.2 0.2</maxSize>
+		<color>ffffff</color>
+	    <rotation>05</rotation>    
+		<path>./_inc/chars/char231.png</path>
+		<zIndex>314</zIndex>
+	  </image>
+ </view>
+</theme>

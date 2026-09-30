@@ -1,0 +1,36 @@
+<theme>
+   <formatVersion>7</formatVersion>
+
+
+<view name="system, systemcarousel">
+
+
+
+     <image name="logo">
+       <linearSmooth>true</linearSmooth>
+	   <path>./default/_inc/system1.png</path>
+	   <path>./${system.theme}/_inc/system1.png</path>
+	   </image>
+
+         <image name="pointer02" extra="true">
+         </image>
+
+         <image name="pointer01" extra="true">
+         </image>
+
+
+
+       </view>
+
+<view name="basic, detailed, video, grid, gamecarousel">
+
+         <image name="pointer02" extra="true">
+         </image>
+
+         <image name="pointer01" extra="true">
+         </image>
+
+
+	</view>
+
+</theme>

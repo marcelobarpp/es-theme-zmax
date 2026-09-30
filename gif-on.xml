@@ -1,0 +1,110 @@
+<theme>
+   <formatVersion>7</formatVersion>
+
+<view name="system">
+
+
+
+
+	 <image name="character03a" extra="true">
+	    <storyboard>
+        <animation property="opacity" from="0" to="1" duration="350" mode="linear"/>
+        <animation property="x" from="-4" begin="1" duration="30000" autoreverse="false" repeat="0" mode="easyInOut"/>
+	 </storyboard>
+	  </image>
+	 <image name="character03" extra="true">
+	    <storyboard>
+        <animation property="opacity" from="0" to="1" duration="350" mode="linear"/>
+        <animation property="x" from="2" begin="1" duration="30000" autoreverse="false" repeat="0" mode="easyInOut"/>
+	 </storyboard>
+	  </image>
+	 <image name="character02a" extra="true">
+	    <storyboard>
+        <animation property="opacity" from="0" to="1" duration="350" mode="linear"/>
+        <animation property="x" from="-4" begin="0" duration="30000" autoreverse="false" repeat="0" mode="easyInOut"/>
+	 </storyboard>
+	  </image>
+	 <image name="character02" extra="true">
+	    <storyboard>
+        <animation property="opacity" from="0" to="1" duration="350" mode="linear"/>
+        <animation property="x" from="2" begin="0" duration="30000" autoreverse="false" repeat="0" mode="easyInOut"/>
+	 </storyboard>
+	  </image>
+	  <image name="character01a" extra="true">  
+	    <storyboard>
+        <animation property="opacity" from="0" to="1" duration="350" mode="linear"/>
+        <animation property="x" from="-4" begin="1" duration="30000" autoreverse="false" repeat="0" mode="easyInOut"/>
+	 </storyboard>
+      </image>
+	  <image name="character01" extra="true">  
+	    <storyboard>
+        <animation property="opacity" from="0" to="1" duration="350" mode="linear"/>
+        <animation property="x" from="2" begin="1" duration="30000" autoreverse="false" repeat="0" mode="easyInOut"/>
+	 </storyboard>
+     </image>
+	  <image name="character11" extra="true">  
+		<storyboard> 
+        <animation property="opacity" from="0" to="1" duration="350" mode="linear"/>
+        <animation property="y" from="0.12" begin="0.5" duration="2000" autoreverse="true" repeat="0" mode="easyInOut"/>
+		</storyboard>
+     </image> 
+
+
+</view>
+
+
+
+<view name="basic, detailed, video, grid, gamecarousel">
+	
+
+
+
+	 <image name="character03a" extra="true">
+	    <storyboard>
+        <animation property="opacity" from="0" to="1" duration="350" mode="linear"/>
+        <animation property="x" from="-4" begin="1" duration="30000" autoreverse="false" repeat="0" mode="easyInOut"/>
+	 </storyboard>
+	  </image>
+	 <image name="character03" extra="true">
+	    <storyboard>
+        <animation property="opacity" from="0" to="1" duration="350" mode="linear"/>
+        <animation property="x" from="2" begin="1" duration="30000" autoreverse="false" repeat="0" mode="easyInOut"/>
+	 </storyboard>
+	  </image>
+	 <image name="character02a" extra="true">
+	    <storyboard>
+        <animation property="opacity" from="0" to="1" duration="350" mode="linear"/>
+        <animation property="x" from="-4" begin="0" duration="30000" autoreverse="false" repeat="0" mode="easyInOut"/>
+	 </storyboard>
+	  </image>
+	 <image name="character02" extra="true">
+	    <storyboard>
+        <animation property="opacity" from="0" to="1" duration="350" mode="linear"/>
+        <animation property="x" from="2" begin="0" duration="30000" autoreverse="false" repeat="0" mode="easyInOut"/>
+	 </storyboard>
+	  </image>
+	  <image name="character01a" extra="true">  
+	    <storyboard>
+        <animation property="opacity" from="0" to="1" duration="350" mode="linear"/>
+        <animation property="x" from="-4" begin="1" duration="30000" autoreverse="false" repeat="0" mode="easyInOut"/>
+	 </storyboard>
+      </image>
+	  <image name="character01" extra="true">  
+	    <storyboard>
+        <animation property="opacity" from="0" to="1" duration="350" mode="linear"/>
+        <animation property="x" from="2" begin="1" duration="30000" autoreverse="false" repeat="0" mode="easyInOut"/>
+	 </storyboard>
+     </image>
+	  <image name="character11" extra="true">  
+		<storyboard> 
+        <animation property="opacity" from="0" to="1" duration="350" mode="linear"/>
+        <animation property="y" from="0.12" begin="0.5" duration="2000" autoreverse="true" repeat="0" mode="easyInOut"/>
+		</storyboard>
+     </image> 
+
+
+	  
+	</view>
+
+
+</theme>
