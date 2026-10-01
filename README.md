@@ -32,7 +32,7 @@ The previous 84 changes date back from 9th Aug 2024 to 11th May 2025
 and may be added here at some point for reference....
 
 All updates/commits can be seen here:
-https://github.com/marcelobarpp/es-theme-zmax-Retrobat-and-batocera.git
+https://github.com/marcelobarpp/es-theme-zmax.git
 
 ## Install
 
