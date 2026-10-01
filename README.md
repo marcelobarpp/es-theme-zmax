@@ -2,17 +2,20 @@
 
 
 <p>
+<img align="right" width="200px" src="https://i.imgur.com/eCZPBDE.png">
 Emulationstation Theme for Batocera and RetroBat.<br/>
 <br/>
 <br/>
 </p>
 <p>
 </p>
+Screenshots
+		
+![](https://imgur.com/DPiKhn9)	![](https://imgur.com/GrQdO1q)	![](https://imgur.com/RGptHmB)
+![](https://imgur.com/ZifRZBB)	![](https://imgur.com/JBytesN)	![](https://imgur.com/4RLLZlf)
+![](https://imgur.com/1sHbNNF)	![](https://imgur.com/06HSivk)	![](https://imgur.com/VCERu9l)
+Info
 
-## Screenshots
-
-|                                    |                                    |                                    |
-| :--------------------------------: | :--------------------------------: | :--------------------------------: |
 
 
 ## Info
@@ -29,7 +32,7 @@ The previous 84 changes date back from 9th Aug 2024 to 11th May 2025
 and may be added here at some point for reference....
 
 All updates/commits can be seen here:
-https://github.com/marcelobarpp/es-theme-zmax-Retrobat-and-batocera.git
+https://github.com/marcelobarpp/es-theme-zmax.git
 
 ## Install
 
