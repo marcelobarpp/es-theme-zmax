@@ -14,6 +14,7 @@ Screenshots
 ![](https://i.imgur.com/DPiKhn9.png)	![](https://i.imgur.com/GrQdO1q.png)	![](https://i.imgur.com/RGptHmB.png)
 ![](https://i.imgur.com/ZifRZBB.png)	![](https://i.imgur.com/1sHbNNF.png)	![](https://i.imgur.com/06HSivk.png)
 ![](https://i.imgur.com/JBytesN.png)	![](https://i.imgur.com/4RLLZlf.png)	![](https://i.imgur.com/VCERu9l.jpeg)
+![](https://i.imgur.com/WNXFfjM.png)
 Info
 
 
