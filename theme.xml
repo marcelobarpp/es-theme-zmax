@@ -36,6 +36,7 @@
 
    <include subset="Menu" name="Hatsune Miku">./menu-hatsune miku.xml</include>
    <include subset="Menu" name="kuno">./menu-kuno.xml</include>
+   <include subset="Menu" name="skully">./menu-skully.xml</include>
    <include subset="Menu" name="john wick">./menu-john-wick.xml</include>
    <include subset="Menu" name="metal gear">./menu-metal gear.xml</include>
 
@@ -285,6 +286,7 @@
 
    <include name="carousel Hatsune Miku">./gamecarousel22.xml</include>
    <include name="carousel kuno">./gamecarousel23.xml</include>
+   <include name="carousel skully">./gamecarousel26.xml</include>
    <include name="carousel john wick">./gamecarousel24.xml</include>
    <include name="carousel metal gear">./gamecarousel25.xml</include>
 
