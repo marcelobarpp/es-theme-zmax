@@ -10,9 +10,11 @@ Emulationstation Theme for Batocera and RetroBat.<br/>
 </p>
 
 ## Screenshots
+		
+![](https://imgur.com/DPiKhn9)	![](https://imgur.com/GrQdO1q)	![](https://imgur.com/RGptHmB)
+![](https://imgur.com/ZifRZBB)	![](https://imgur.com/JBytesN)	![](https://imgur.com/4RLLZlf)
+![](https://imgur.com/1sHbNNF)	![](https://imgur.com/06HSivk)	![](https://imgur.com/VCERu9l)
 
-|                                    |                                    |                                    |
-| :--------------------------------: | :--------------------------------: | :--------------------------------: |
 
 
 ## Info
