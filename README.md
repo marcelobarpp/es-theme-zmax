@@ -80,7 +80,7 @@ RetroBat:
 
 Both:
 
-Within the themes folder you should end up with a folder called Z-Max and inside that all the theme files including the main theme.xml
+Within the themes folder you should end up with a folder called HyperMax-Plus-PixN and inside that all the theme files including the main theme.xml
 
 ## Credits
 

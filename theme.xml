@@ -40,8 +40,15 @@
    <include subset="Menu" name="john wick">./menu-john-wick.xml</include>
    <include subset="Menu" name="metal gear">./menu-metal gear.xml</include>
 
+
+   <include subset="Menu" name="perita">./menu-perita.xml</include>
+   <include subset="Menu" name="saw">./menu-saw.xml</include>
+   <include subset="Menu" name="rabbit">./menu-rabbit.xml</include>
+   <include subset="Menu" name="harley quinn">./menu-harley quinn.xml</include>
+   <include subset="Menu" name="michael myers">./menu-michael myers.xml</include>
+
    <include subset="Menu" name="batman">./menu-nran2.xml</include>
-   <include subset="Menu" name="BlazBlue">./menu-nran3.xml</include>
+   <include subset="Menu" name="blazBlue">./menu-nran3.xml</include>
    <include subset="Menu" name="kof fighers">./menu-nran5.xml</include>
 
    <include subset="Menu" name="carousel jury-vert">./menu-jury-vert.xml</include>
@@ -289,6 +296,13 @@
    <include name="carousel skully">./gamecarousel26.xml</include>
    <include name="carousel john wick">./gamecarousel24.xml</include>
    <include name="carousel metal gear">./gamecarousel25.xml</include>
+
+
+   <include name="carousel perita">./gamecarousel27.xml</include>
+   <include name="carousel saw">./gamecarousel28.xml</include>
+   <include name="carousel rabbit">./gamecarousel29.xml</include>
+   <include name="carousel harley quinn">./gamecarousel30.xml</include>
+   <include name="carousel michael myers">./gamecarousel31.xml</include>
 
 
    <include name="carousel nran1">./gamecarousel16.xml</include>
