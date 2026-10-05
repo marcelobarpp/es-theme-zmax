@@ -29,6 +29,13 @@
          <path>./_inc/borde.png</path>
          <zIndex>999</zIndex>          
       </image> 
+      <image name="art006" extra="true">
+		 <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>  
+         <path>./_inc/roxo-a.png</path>
+         <zIndex>600</zIndex>
+      </image>
     <image name="wallpaper0005" extra="true">
         <origin>0 0</origin>
          <pos>0.7211 0.145</pos>
@@ -49,7 +56,7 @@
 	  </image>
      <image name="thumb0005" extra="true">
         <origin>0 0</origin>
-         <pos>0.572 0.153</pos>
+         <pos>0.572 0.13</pos>
          <size>0.065 0.2</size>
 		<color>ffffff</color>
 		<path>./_inc/nothumb.png</path>
@@ -78,8 +85,8 @@
 		 <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size> 
-         <path>./_inc/hyper003.png</path>
-         <zIndex>12</zIndex>
+         <path>./_inc/hyper003a.png</path>
+         <zIndex>20</zIndex>
       </image>
 <image name="consoles001" extra="true">
 		<pos>0.03 0.78</pos>
@@ -89,7 +96,7 @@
 		<path>./_inc/consoles/${system.theme}.svg</path>
 		<path>./_inc/consoles/${system.theme}.png</path>
 		<zIndex>60</zIndex>
-	  </image>
+	  </image> 
 <image name="consoles002" extra="true">
 		<pos>0.84 0.77</pos>
 	    <maxSize>0.1 0.1</maxSize>
@@ -104,21 +111,21 @@
          <pos>0 0</pos>
          <size>1 1</size>
 <path>./_inc/black003.png</path>
-<zIndex>7</zIndex>         
+<zIndex>15</zIndex>         
       </image> 	
    <video name="backgroundvideo" extra="true">
 <default>./default/_inc/noise.mp4</default>
 <visible>true</visible>
 <effect>none</effect>
 <path>{random}</path>                  
-<pos>0.421 0.456</pos>
-<size>0.167 0.187</size>
+<pos>0.396 0.457</pos>
+<size>0.205 0.195</size>
 <origin>0 0</origin>
 <delay>0.03</delay>
 <showSnapshotNoVideo>true</showSnapshotNoVideo>
 <showSnapshotDelay>true</showSnapshotDelay>
 <color>FFFFFF</color>   
-<zIndex>10</zIndex>
+<zIndex>18</zIndex>
 </video>
 	      <helpsystem name="help">
 	  <color>ffffff</color>
@@ -128,38 +135,38 @@
        <fontPath>./_inc/Super Comic.ttf</fontPath>
      </helpsystem>
 	    <image name="marqueta1" extra="true">
-<pos>0.45 0.35</pos>
-<maxSize>0.12 0.12</maxSize>
+<pos>0.4505 0.353</pos>
+<maxSize>0.11 0.11</maxSize>
 	<origin>0 0</origin>
 	  <color>ffffff</color>
        <path>./_inc/logo.png</path>
        <path>./_inc/logos/${system.theme}.png</path>
-	  <zIndex>11</zIndex>
+	  <zIndex>18</zIndex>
 	</image>
  <video name="video1" extra="true">
          <origin>0 0</origin>
          <pos>0. 0.</pos>
          <size>1 1</size>
          <path>./_inc/video0.mp4</path>
-		 <zIndex>5</zIndex>
+		 <zIndex>10</zIndex>
       </video>
 <text name="systemInfo">
 	    <glowColor>ffff00</glowColor>
         <color>3f075b</color>
         <fontPath>./_inc/Super Comic.ttf</fontPath>
-	<pos>0.38 0.87</pos>
-	 <fontSize>0.045</fontSize>
+	<pos>-0.04 0.14</pos>
+	 <fontSize>0.03</fontSize>
         <zIndex>60</zIndex>
       </text> 
 	 <image name="character1" extra="true">
-		<pos>0.24 0.375</pos>
+		<pos>0.175 0.375</pos>
 		<maxSize>0.63 0.63</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/chars/char5.gif</path>
 		<zIndex>50</zIndex>
 	  </image>
 	 <image name="character2" extra="true">
-		<pos>0.57 0.41</pos>
+		<pos>0.625 0.41</pos>
 		<maxSize>0.565 0.565</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/chars/char79a.gif</path>

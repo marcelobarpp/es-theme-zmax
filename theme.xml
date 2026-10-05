@@ -47,17 +47,12 @@
    <include subset="Menu" name="harley quinn">./menu-harley quinn.xml</include>
    <include subset="Menu" name="michael myers">./menu-michael myers.xml</include>
 
-   <include subset="Menu" name="batman">./menu-nran2.xml</include>
-   <include subset="Menu" name="blazBlue">./menu-nran3.xml</include>
-   <include subset="Menu" name="kof fighers">./menu-nran5.xml</include>
 
    <include subset="Menu" name="carousel jury-vert">./menu-jury-vert.xml</include>
    <include subset="Menu" name="carousel subzero-vert">./menu-subzero-vert.xml</include>
 
 
-
      
- 
    <include subset="Color" name="Red">./_inc/color/red.xml</include>
    <include subset="Color" name="Default">./_inc/color/Default.xml</include>
    <include subset="Color" name="Dark">./_inc/color/Dark.xml</include>
@@ -305,7 +300,7 @@
    <include name="carousel michael myers">./gamecarousel31.xml</include>
 
 
-   <include name="carousel nran1">./gamecarousel16.xml</include>
+
    <include name="carousel nran2">./gamecarousel17.xml</include>
    <include name="carousel nran3">./gamecarousel19.xml</include>
 

@@ -182,17 +182,17 @@
 	  </image>
 	 <image name="character02a" extra="true">
 		<zIndex>310</zIndex>
-		<pos>1 0.34</pos>
-		<maxSize>0.6 0.6</maxSize>
+		<pos>1 0.3</pos>
+		<maxSize>0.65 0.65</maxSize>
 		<color>ffffff</color>
-		<path>./_inc/chars/char243.gif</path>
+		<path>./_inc/chars/char251.gif</path>
 	  </image>
 	 <image name="character02" extra="true">
 		<zIndex>310</zIndex>
-		<pos>-3  0.34</pos>
-		<maxSize>0.6 0.6</maxSize>
+		<pos>-3  0.3</pos>
+		<maxSize>0.65 0.65</maxSize>
 		<color>ffffff</color>
-		<path>./_inc/chars/char243a.gif</path>
+		<path>./_inc/chars/char251a.gif</path>
 	  </image>
 	 <image name="character08" extra="true">
 		<pos>0.805 0.45</pos>

@@ -183,31 +183,17 @@
 		<path>./_inc/chars/char239.gif</path>
 		<zIndex>30</zIndex>
 	  </image>
-	 <image name="character02a" extra="true">
-		<zIndex>310</zIndex>
-		<pos>2 0.67</pos>
-		<maxSize>0.35 0.35</maxSize>
-		<color>ffffff</color>
-		<path>./_inc/chars/char85.gif</path>
-	  </image>
-	 <image name="character02" extra="true">
-		<zIndex>310</zIndex>
-		<pos>-4  0.67</pos>
-		<maxSize>0.35 0.35</maxSize>
-		<color>ffffff</color>
-		<path>./_inc/chars/char85a.gif</path>
-	  </image>
 	 <image name="character03a" extra="true">
 		<zIndex>310</zIndex>
-		<pos>3 0.52</pos>
-		<maxSize>0.4 0.4</maxSize>
+		<pos>3 0.57</pos>
+		<maxSize>0.65 0.65</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/chars/char238a.gif</path>
 	  </image>
 	 <image name="character03" extra="true">
 		<zIndex>310</zIndex>
-		<pos>-6  0.52</pos>
-		<maxSize>0.4 0.4</maxSize>
+		<pos>-6  0.57</pos>
+		<maxSize>0.65 0.65</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/chars/char238.gif</path>
 	  </image>
