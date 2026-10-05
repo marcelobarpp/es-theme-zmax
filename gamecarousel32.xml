@@ -4,7 +4,7 @@
 
    <!---------------------------custom--------------------------------------->
 
-<customView name="kuno" inherits="gamecarousel">
+<customView name="rox" inherits="gamecarousel">
 <image name="pointer02">
 <pos>0.381 0.06</pos>
 <origin>0.5 0.5</origin>
@@ -159,25 +159,25 @@
 		<zIndex>30</zIndex>
 	  </image>
 	 <image name="character3" extra="true">
-		<pos>0.25 0.28</pos>
+		<pos>0.27 0.28</pos>
 		<maxSize>0.63 0.63</maxSize>
 		<color>ffffff</color>
-		<path>./_inc/chars/char83.gif</path>
+		<path>./_inc/chars/char250.gif</path>
 		<zIndex>35</zIndex>
 	  </image>
 	 <image name="character02a" extra="true">
 		<zIndex>310</zIndex>
-		<pos>1 0.26</pos>
+		<pos>1 0.28</pos>
 		<maxSize>0.7 0.7</maxSize>
 		<color>ffffff</color>
-		<path>./_inc/chars/char57.gif</path>
+		<path>./_inc/chars/char37.gif</path>
 	  </image>
 	 <image name="character02" extra="true">
 		<zIndex>310</zIndex>
-		<pos>-3  0.26</pos>
+		<pos>-3  0.28</pos>
 		<maxSize>0.7 0.7</maxSize>
 		<color>ffffff</color>
-		<path>./_inc/chars/char57a.gif</path>
+		<path>./_inc/chars/char37a.gif</path>
 	  </image>
 	    <image name="logo" extra="true">
 <visible>false</visible> 

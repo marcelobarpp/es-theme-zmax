@@ -21,6 +21,10 @@
 		<path>./_inc/assets/cliente.png</path>
 		<zIndex>999</zIndex>
 	  </image>
+
+	   <image name="char0001" extra="true">
+<visible>false</visible>
+      </image>
 	  
      <helpsystem name="help">
 	 <iconColor>FFFFFF</iconColor>

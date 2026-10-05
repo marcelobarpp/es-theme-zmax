@@ -14,6 +14,9 @@
          <forceUppercase>1</forceUppercase>
          <alignment>center</alignment>      
       </textlist>
+	   <image name="char0001" extra="true">
+<visible>false</visible>
+      </image>
 	  
 	  	<image name="cliente" extra="true">
 		<pos>0.91 0.01</pos>

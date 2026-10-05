@@ -139,25 +139,25 @@
 		<zIndex>30</zIndex>
 	  </image>
 	 <image name="character3" extra="true">
-		<pos>0.13 0.0</pos>
-		<maxSize>0.96 0.96</maxSize>
+		<pos>0.27 0.28</pos>
+		<maxSize>0.63 0.63</maxSize>
 		<color>ffffff</color>
-		<path>./_inc/chars/char247.gif</path>
+		<path>./_inc/chars/char250.gif</path>
 		<zIndex>35</zIndex>
 	  </image>
-	 <image name="character01a" extra="true">
+	 <image name="character02a" extra="true">
 		<zIndex>310</zIndex>
-		<pos>2 0.32</pos>
-		<maxSize>0.63 0.63</maxSize>
+		<pos>1 0.28</pos>
+		<maxSize>0.7 0.7</maxSize>
 		<color>ffffff</color>
-		<path>./_inc/chars/char254.gif</path>
+		<path>./_inc/chars/char37.gif</path>
 	  </image>
-	 <image name="character01" extra="true">
+	 <image name="character02" extra="true">
 		<zIndex>310</zIndex>
-		<pos>-4  0.32</pos>
-		<maxSize>0.63 0.63</maxSize>
+		<pos>-3  0.28</pos>
+		<maxSize>0.7 0.7</maxSize>
 		<color>ffffff</color>
-		<path>./_inc/chars/char254a.gif</path>
+		<path>./_inc/chars/char37a.gif</path>
 	  </image>
  </view>
 </theme>
