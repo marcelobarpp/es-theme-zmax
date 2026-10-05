@@ -107,6 +107,9 @@
 	    <rotation>-90</rotation>   
 	    <zIndex>999</zIndex>
     </text>
+	   <image name="char0001" extra="true">
+<visible>false</visible>
+      </image>
 </view>
    
    </theme>

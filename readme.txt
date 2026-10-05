@@ -1,1 +1,0 @@
-seu HD:\RetroBat\emulationstation\.emulationstation\themes

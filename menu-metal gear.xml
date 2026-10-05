@@ -167,19 +167,19 @@
 		<path>./_inc/chars/char152.gif</path>
 		<zIndex>33</zIndex>
 	  </image>
-	 <image name="character02a" extra="true">
+	 <image name="character01a" extra="true">
 		<zIndex>310</zIndex>
-		<pos>1 0.34</pos>
-		<maxSize>0.6 0.6</maxSize>
+		<pos>2 0.31</pos>
+		<maxSize>0.64 0.64</maxSize>
 		<color>ffffff</color>
-		<path>./_inc/chars/char243.gif</path>
+		<path>./_inc/chars/char164.gif</path>
 	  </image>
-	 <image name="character02" extra="true">
+	 <image name="character01" extra="true">
 		<zIndex>310</zIndex>
-		<pos>-3  0.34</pos>
-		<maxSize>0.6 0.6</maxSize>
+		<pos>-4  0.31</pos>
+		<maxSize>0.64 0.64</maxSize>
 		<color>ffffff</color>
-		<path>./_inc/chars/char243a.gif</path>
+		<path>./_inc/chars/char164a.gif</path>
 	  </image>
 	 <image name="character08" extra="true">
 		<pos>0.81 0.58</pos>
