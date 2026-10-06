@@ -17,39 +17,39 @@
 
 
 
-   <include subset="Menu games" name="carousel subzero">./menu-subzero.xml</include>
-   <include subset="Menu games" name="carousel sakura">./menu-sakura.xml</include>
-   <include subset="Menu games" name="carousel robux">./menu-robux.xml</include>
-   <include subset="Menu games" name="carousel jury">./menu-jury.xml</include>
+   <include subset="Menu games" name="carousel subzero">./_inc/menus/menu-subzero.xml</include>
+   <include subset="Menu games" name="carousel sakura">./_inc/menus/menu-sakura.xml</include>
+   <include subset="Menu games" name="carousel robux">./_inc/menus/menu-robux.xml</include>
+   <include subset="Menu games" name="carousel jury">./_inc/menus/menu-jury.xml</include>
 
-   <include subset="Menu games" name="mortal kombat">./menu-mortal kombat.xml</include>
-   <include subset="Menu games" name="street fighter">./menu-street fighter.xml</include>
-   <include subset="Menu games" name="katie and person">./menu-katie and person.xml</include>
-   <include subset="Menu games" name="girls">./menu-bot girl.xml</include>
+   <include subset="Menu games" name="mortal kombat">./_inc/menus/menu-mortal kombat.xml</include>
+   <include subset="Menu games" name="street fighter">./_inc/menus/menu-street fighter.xml</include>
+   <include subset="Menu games" name="katie and person">./_inc/menus/menu-katie and person.xml</include>
+   <include subset="Menu games" name="girls">./_inc/menus/menu-bot girl.xml</include>
 
-   <include subset="Menu games" name="axe low">./menu-lan-axe low.xml</include>
-   <include subset="Menu games" name="dinossaurs">./menu-lan-boy.xml</include>
-   <include subset="Menu games" name="luna sexy">./menu-luna himeki.xml</include>
-   <include subset="Menu games" name="metal slug">./menu-metal slug.xml</include>
+   <include subset="Menu games" name="axe low">./_inc/menus/menu-lan-axe low.xml</include>
+   <include subset="Menu games" name="dinossaurs">./_inc/menus/menu-lan-boy.xml</include>
+   <include subset="Menu games" name="luna sexy">./_inc/menus/menu-luna himeki.xml</include>
+   <include subset="Menu games" name="metal slug">./_inc/menus/menu-metal slug.xml</include>
 
-   <include subset="Menu games" name="Hatsune Miku">./menu-hatsune miku.xml</include>
-   <include subset="Menu games" name="skully">./menu-skully.xml</include>
-   <include subset="Menu games" name="john wick">./menu-john-wick.xml</include>
-   <include subset="Menu games" name="metal gear">./menu-metal gear.xml</include>
+   <include subset="Menu games" name="hatsune miku">./_inc/menus/menu-hatsune miku.xml</include>
+   <include subset="Menu games" name="skully">./_inc/menus/menu-skully.xml</include>
+   <include subset="Menu games" name="john wick">./_inc/menus/menu-john-wick.xml</include>
+   <include subset="Menu games" name="metal gear">./_inc/menus/menu-metal gear.xml</include>
 
-   <include subset="Menu games" name="kuno">./menu-kuno.xml</include>
-   <include subset="Menu games" name="rox">./menu-rox.xml</include>
-   <include subset="Menu games" name="harley quinn">./menu-harley quinn.xml</include>
-   <include subset="Menu games" name="perita">./menu-perita.xml</include>
-   <include subset="Menu games" name="saw">./menu-saw.xml</include>
+   <include subset="Menu games" name="kuno">./_inc/menus/menu-kuno.xml</include>
+   <include subset="Menu games" name="rox">./_inc/menus/menu-rox.xml</include>
+   <include subset="Menu games" name="harley quinn">./_inc/menus/menu-harley quinn.xml</include>
+   <include subset="Menu games" name="perita">./_inc/menus/menu-perita.xml</include>
+   <include subset="Menu games" name="saw">./_inc/menus/menu-saw.xml</include>
 
-   <include subset="Menu games" name="dizzy">./menu-dizzy.xml</include>
-   <include subset="Menu games" name="scorpion">./menu-scorpion.xml</include>
-   <include subset="Menu games" name="rabbit">./menu-rabbit.xml</include>
-   <include subset="Menu games" name="michael myers">./menu-michael myers.xml</include>
+   <include subset="Menu games" name="dizzy">./_inc/menus/menu-dizzy.xml</include>
+   <include subset="Menu games" name="scorpion">./_inc/menus/menu-scorpion.xml</include>
+   <include subset="Menu games" name="rabbit">./_inc/menus/menu-rabbit.xml</include>
+   <include subset="Menu games" name="michael myers">./_inc/menus/menu-michael myers.xml</include>
 
-   <include subset="Menu games" name="carousel jury-vert">./menu-jury-vert.xml</include>
-   <include subset="Menu games" name="carousel subzero-vert">./menu-subzero-vert.xml</include>
+   <include subset="Menu games" name="carousel jury-vert">./_inc/menus/menu-jury-vert.xml</include>
+   <include subset="Menu games" name="carousel subzero-vert">./_inc/menus/menu-subzero-vert.xml</include>
 
 
      
