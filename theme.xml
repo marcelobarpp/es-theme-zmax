@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<theme defaultView="carousel subzero">
+<theme defaultView="gamecarousel">
 <formatVersion>7</formatVersion>
 
  <feature supported="carousel">
@@ -17,39 +17,39 @@
 
 
 
-   <include subset="Menu" name="carousel subzero">./menu-subzero.xml</include>
-   <include subset="Menu" name="carousel sakura">./menu-sakura.xml</include>
-   <include subset="Menu" name="carousel robux">./menu-robux.xml</include>
-   <include subset="Menu" name="carousel jury">./menu-jury.xml</include>
+   <include subset="Menu games" name="carousel subzero">./menu-subzero.xml</include>
+   <include subset="Menu games" name="carousel sakura">./menu-sakura.xml</include>
+   <include subset="Menu games" name="carousel robux">./menu-robux.xml</include>
+   <include subset="Menu games" name="carousel jury">./menu-jury.xml</include>
 
-   <include subset="Menu" name="mortal kombat">./menu-mortal kombat.xml</include>
-   <include subset="Menu" name="street fighter">./menu-street fighter.xml</include>
-   <include subset="Menu" name="katie and person">./menu-katie and person.xml</include>
-   <include subset="Menu" name="girls">./menu-bot girl.xml</include>
+   <include subset="Menu games" name="mortal kombat">./menu-mortal kombat.xml</include>
+   <include subset="Menu games" name="street fighter">./menu-street fighter.xml</include>
+   <include subset="Menu games" name="katie and person">./menu-katie and person.xml</include>
+   <include subset="Menu games" name="girls">./menu-bot girl.xml</include>
 
-   <include subset="Menu" name="axe low">./menu-lan-axe low.xml</include>
-   <include subset="Menu" name="dinossaurs">./menu-lan-boy.xml</include>
-   <include subset="Menu" name="luna sexy">./menu-luna himeki.xml</include>
-   <include subset="Menu" name="metal slug">./menu-metal slug.xml</include>
+   <include subset="Menu games" name="axe low">./menu-lan-axe low.xml</include>
+   <include subset="Menu games" name="dinossaurs">./menu-lan-boy.xml</include>
+   <include subset="Menu games" name="luna sexy">./menu-luna himeki.xml</include>
+   <include subset="Menu games" name="metal slug">./menu-metal slug.xml</include>
 
-   <include subset="Menu" name="Hatsune Miku">./menu-hatsune miku.xml</include>
-   <include subset="Menu" name="skully">./menu-skully.xml</include>
-   <include subset="Menu" name="john wick">./menu-john-wick.xml</include>
-   <include subset="Menu" name="metal gear">./menu-metal gear.xml</include>
+   <include subset="Menu games" name="Hatsune Miku">./menu-hatsune miku.xml</include>
+   <include subset="Menu games" name="skully">./menu-skully.xml</include>
+   <include subset="Menu games" name="john wick">./menu-john-wick.xml</include>
+   <include subset="Menu games" name="metal gear">./menu-metal gear.xml</include>
 
-   <include subset="Menu" name="kuno">./menu-kuno.xml</include>
-   <include subset="Menu" name="rox">./menu-rox.xml</include>
-   <include subset="Menu" name="harley quinn">./menu-harley quinn.xml</include>
-   <include subset="Menu" name="perita">./menu-perita.xml</include>
-   <include subset="Menu" name="saw">./menu-saw.xml</include>
+   <include subset="Menu games" name="kuno">./menu-kuno.xml</include>
+   <include subset="Menu games" name="rox">./menu-rox.xml</include>
+   <include subset="Menu games" name="harley quinn">./menu-harley quinn.xml</include>
+   <include subset="Menu games" name="perita">./menu-perita.xml</include>
+   <include subset="Menu games" name="saw">./menu-saw.xml</include>
 
-   <include subset="Menu" name="dizzy">./menu-dizzy.xml</include>
-   <include subset="Menu" name="scorpion">./menu-scorpion.xml</include>
-   <include subset="Menu" name="rabbit">./menu-rabbit.xml</include>
-   <include subset="Menu" name="michael myers">./menu-michael myers.xml</include>
+   <include subset="Menu games" name="dizzy">./menu-dizzy.xml</include>
+   <include subset="Menu games" name="scorpion">./menu-scorpion.xml</include>
+   <include subset="Menu games" name="rabbit">./menu-rabbit.xml</include>
+   <include subset="Menu games" name="michael myers">./menu-michael myers.xml</include>
 
-   <include subset="Menu" name="carousel jury-vert">./menu-jury-vert.xml</include>
-   <include subset="Menu" name="carousel subzero-vert">./menu-subzero-vert.xml</include>
+   <include subset="Menu games" name="carousel jury-vert">./menu-jury-vert.xml</include>
+   <include subset="Menu games" name="carousel subzero-vert">./menu-subzero-vert.xml</include>
 
 
      
@@ -263,6 +263,8 @@
 
 <!---------------------------gamelist--------------------------------->
 
+
+   <include name="escolha esse!!!!">./gamecarousel2.xml</include>
   <include name="Basic">./basic.xml</include>
    <include name="detailed">./detailed.xml</include>
    <include name="Video">./video.xml</include>
@@ -270,41 +272,7 @@
    <include name="Gamecarousel">./gamecarousel.xml</include>
 
 
-   <include name="carousel subzero">./gamecarousel4.xml</include>
-   <include name="carousel sakura">./gamecarousel6.xml</include>
-   <include name="carousel robux">./gamecarousel7.xml</include>
-   <include name="carousel jury">./gamecarousel2.xml</include>
 
-   <include name="carousel nra mortal kombat">./gamecarousel8.xml</include>
-   <include name="carousel nra street fighter">./gamecarousel9.xml</include>
-   <include name="carousel nra katie and person">./gamecarousel10.xml</include>
-   <include name="carousel nra bot girl">./gamecarousel11.xml</include>
 
-   <include name="carousel lan-axe low">./gamecarousel14.xml</include>
-   <include name="carousel lan-boy">./gamecarousel15.xml</include>
-   <include name="carousel lan-luna">./gamecarousel20.xml</include>
-   <include name="carousel lan-metal">./gamecarousel21.xml</include>
-
-   <include name="carousel Hatsune Miku">./gamecarousel22.xml</include>
-   <include name="carousel skully">./gamecarousel26.xml</include>
-   <include name="carousel john wick">./gamecarousel24.xml</include>
-   <include name="carousel metal gear">./gamecarousel25.xml</include>
-
-   <include name="carousel kuno">./gamecarousel23.xml</include>
-   <include name="carousel rox">./gamecarousel32.xml</include>
-   <include name="carousel harley quinn">./gamecarousel30.xml</include>
-   <include name="carousel perita">./gamecarousel27.xml</include>
-   <include name="carousel saw">./gamecarousel28.xml</include>
-
-   <include name="carousel dizzy">./gamecarousel33.xml</include>
-   <include name="carousel scorpion">./gamecarousel34.xml</include>
-   <include name="carousel rabbit">./gamecarousel29.xml</include>
-   <include name="carousel michael myers">./gamecarousel31.xml</include>
-
-   <include name="carousel nran2">./gamecarousel17.xml</include>
-   <include name="carousel nran3">./gamecarousel19.xml</include>
-
-   <include name="carousel jury vert">./gamecarousel2-1.xml</include>
-   <include name="carousel subzero vert">./gamecarousel4-1.xml</include>
 
 </theme>

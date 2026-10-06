@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <theme>
-<formatVersion>7</formatVersion>  
-      <view name="system">
+   <formatVersion>7</formatVersion>
+<view name="system">
 <carousel name="systemcarousel">
 <zIndex>20</zIndex>	      
 <type>horizontal</type>
@@ -113,20 +112,13 @@
 <path>./_inc/black003.png</path>
 <zIndex>15</zIndex>         
       </image> 	
-   <video name="backgroundvideo" extra="true">
-<default>./default/_inc/noise.mp4</default>
-<visible>true</visible>
-<effect>none</effect>
-<path>{random}</path>                  
+ <video name="video2" extra="true">
+         <origin>0 0</origin>
+<path>{random}</path>                 
 <pos>0.396 0.457</pos>
 <size>0.205 0.195</size>
-<origin>0 0</origin>
-<delay>0.03</delay>
-<showSnapshotNoVideo>true</showSnapshotNoVideo>
-<showSnapshotDelay>true</showSnapshotDelay>
-<color>FFFFFF</color>   
-<zIndex>18</zIndex>
-</video>
+		 <zIndex>18</zIndex>
+      </video>
 	      <helpsystem name="help">
 	  <color>ffffff</color>
      <fontSize>0.02</fontSize>
@@ -172,5 +164,236 @@
 		<path>./_inc/chars/char7.gif</path>
 		<zIndex>50</zIndex>
 	  </image>
- </view>
-</theme>
+</view>
+
+<view name=" gamecarousel">
+<image name="pointer02">
+<pos>0.381 0.06</pos>
+<origin>0.5 0.5</origin>
+<size>0.075 0.13</size>
+<color>ffffff</color>
+<path>./art/sistemas/pointerl/default.png</path>
+<path>./art/sistemas/pointerl/${system.theme}.png</path>
+<zIndex>70</zIndex> 
+        </image>
+<image name="pointer01">
+<pos>0.62 0.06</pos>
+<origin>0.5 0.5</origin>
+<size>0.075 0.13</size>
+<color>ffffff</color>
+<path>./art/sistemas/pointer/default.png</path>
+<path>./art/sistemas/pointer/${system.theme}.png</path>
+<zIndex>70</zIndex> 
+        </image>
+<image name="consoles001" extra="true">
+		<pos>0.03 0.78</pos>
+	    <maxSize>0.15 0.15</maxSize>
+		<color>ffffff</color>
+		<path>./_inc/consoles/default.png</path>
+		<path>./_inc/consoles/${system.theme}.svg</path>
+		<path>./_inc/consoles/${system.theme}.png</path>
+		<zIndex>60</zIndex>
+	  </image> 
+<image name="consoles002" extra="true">
+		<pos>0.84 0.77</pos>
+	    <maxSize>0.1 0.1</maxSize>
+		<color>ffffff</color>
+		<path>./_inc/retro/default.png</path>
+		<path>./_inc/retro/${system.theme}.svg</path>
+		<path>./_inc/retro/${system.theme}.png</path>
+		<zIndex>60</zIndex>
+	  </image>
+ <video name="video1" extra="true">
+         <origin>0 0</origin>
+         <pos>0. 0.</pos>
+         <size>1 1</size>
+         <path>./_inc/video0.mp4</path>
+		 <zIndex>10</zIndex>
+      </video>
+	 <image name="borde" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>        
+         <path>./_inc/borde.png</path>
+         <zIndex>999</zIndex>          
+      </image>  
+      <image name="art006" extra="true">
+		 <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>  
+         <path>./_inc/roxo-a.png</path>
+         <zIndex>600</zIndex>
+      </image> 
+     <image name="md_image" extra="true">
+        <origin>0 0</origin>
+         <pos>0.7211 0.145</pos>
+         <size>0.23 0.21</size>
+		<color>ffffff</color>
+		<path>./_inc/wall1.jpg</path>
+		<zIndex>12</zIndex>
+	  </image>
+     <image name="wallpaper0002" extra="true">
+        <origin>0 0</origin>
+         <pos>0.0505 0.1465</pos>
+         <size>0.233 0.211</size>
+		<color>ffffff</color>
+		<path>./_inc/wall.jpg</path>
+		<path>./_inc/fanart/${system.theme}.jpg</path>
+		<zIndex>12</zIndex>
+	  </image>
+	    <image name="md_marquee" extra="true">
+<pos>0.501 0.06</pos>
+<maxSize>0.222 0.222</maxSize>
+<origin>0.5 0.5</origin>
+	  <color>ffffff</color>
+<zIndex>19</zIndex>
+</image>
+    <image name="md_thumbnail"> 
+		<pos>0.6085 0.254</pos>
+	    <maxSize>0.2 0.19</maxSize>
+		<linearSmooth>true</linearSmooth>
+		<zIndex>20</zIndex> 
+    </image>
+    <image name="sombra" extra="true">
+<visible>false</visible> 
+    </image> 
+      <image name="thumbnail">
+<visible>true</visible> 
+      </image>
+      <image name="thumbnail-hypermax">
+<visible>false</visible> 
+      </image>
+      <text name="md_name">
+<visible>true</visible> 
+      </text>
+      <text name="md_description">
+<visible>false</visible> 
+      </text>	  	  
+  <text name="md_developer">
+<visible>false</visible> 
+    </text>	
+  <image name="character" extra="true">
+<visible>true</visible>
+      </image> 	  
+<image name="system-background" extra="true">
+<visible>false</visible>
+    </image> 	
+<image name="pointer" extra="true">
+<visible>false</visible> 
+</image>	
+<text name="md_lbl_rating">
+<visible>false</visible>
+    </text>
+<rating name="md_rating">
+<visible>false</visible>
+    </rating>	
+<gamecarousel name="gamecarousel">
+<zIndex>15</zIndex>	      
+<type>horizontal</type>
+<pos>0.001 -0.43972</pos>
+<size>1  1</size>
+<logoScale>1</logoScale>
+<logoSize>0.195 0.195</logoSize>
+<color>00000000</color>
+<maxLogoCount>5.3</maxLogoCount>
+<logoRotation>1</logoRotation>
+<logoRotationOrigin>2.9 0.5</logoRotationOrigin>
+<logoAlignment>center</logoAlignment> 
+<gameImage>./_inc/game.png</gameImage>
+<imageSource>marquee</imageSource>
+</gamecarousel>
+  <text name="gamecarouselLogoText">
+		<color>FFFFFFFF</color>
+		<glowColor>00000050</glowColor>
+		<glowSize>3</glowSize>
+		<glowOffset>3</glowOffset>
+		<lineSpacing>1.0</lineSpacing>
+        <fontPath>./_assets/${x.font.main}</fontPath>
+        <fontSize>0.030</fontSize>
+    </text>	
+	   <video name="md_video">
+<pos>0.396 0.457</pos>
+<size>0.205 0.195</size>
+<origin>0 0</origin>
+        <showSnapshotNoVideo>true</showSnapshotNoVideo>
+        <showSnapshotDelay>true</showSnapshotDelay>
+		<delay>0</delay>
+		<effect>none</effect> 
+		<zIndex>18</zIndex>  
+      </video> 
+	<text name="logoText">
+      <visible>false</visible> 
+    </text>
+	<image name="shadowcover01" extra="true">
+      <visible>false</visible> 
+	</image>
+	      <helpsystem name="help">
+	 <iconColor>FFFFFF</iconColor>
+     <fontSize>0.02</fontSize>
+     <origin>0 0</origin>
+     <pos>0.05 0.973</pos>
+       <fontPath>./_inc/Super Comic.ttf</fontPath>
+     </helpsystem>
+ 	<image name="md_marquee" extra="true">
+<visible>true</visible> 
+</image>
+  	<image name="logo03" extra="true">
+<visible>false</visible> 
+	</image>
+<image name="fondoblack" extra="true">
+	<origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+<path>./_inc/black003.png</path>
+<zIndex>15</zIndex>         
+      </image> 	   
+     <image name="md_fanart" extra="true">
+<visible>false</visible> 
+	  </image> 
+<image name="art3" extra="true">
+	<origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size> 
+         <path>./_inc/hyper003a.png</path>
+         <zIndex>20</zIndex>
+      </image>
+      <text name="md_name">
+        <backgroundColor>00000000</backgroundColor>
+	    <glowColor>ffff00</glowColor>
+        <color>3f075b</color>
+     <fontSize>0.028</fontSize>
+     <origin>0 0</origin>
+     <pos>0.35 0.14</pos>
+       <fontPath>./_inc/Super Comic.ttf</fontPath>
+         <zIndex>60</zIndex>
+      </text>
+	    <image name="marqueta1" extra="true">
+<pos>0.4505 0.353</pos>
+<maxSize>0.11 0.11</maxSize>
+	<origin>0 0</origin>
+	  <color>ffffff</color>
+       <path>./_inc/logo.png</path>
+       <path>./_inc/logos/${system.theme}.png</path>
+	  <zIndex>18</zIndex>
+	</image>
+	 <image name="character1" extra="true">
+		<pos>0.195 0.39</pos>
+		<maxSize>0.57 0.57</maxSize>
+		<color>ffffff</color>
+		<path>./_inc/chars/char9.gif</path>
+		<zIndex>50</zIndex>
+	  </image>
+	 <image name="character2" extra="true">
+		<pos>0.615 0.39</pos>
+		<maxSize>0.58 0.58</maxSize>
+		<color>ffffff</color>
+		<path>./_inc/chars/char7.gif</path>
+		<zIndex>50</zIndex>
+	  </image>	
+</view>
+   </theme>
+
+
+
+
+
