@@ -112,14 +112,21 @@
          <size>1 1</size>
 <path>./_inc/black003.png</path>
 <zIndex>15</zIndex>         
-      </image> 	
- <video name="video2" extra="true">
-         <origin>0 0</origin>
-<path>{random}</path>                 
+      </image> 
+   <video name="backgroundvideo" extra="true">
+<default>./default/_inc/noise.mp4</default>
+<visible>true</visible>
+<effect>none</effect>
+<path>{random}</path>                  
 <pos>0.396 0.457</pos>
 <size>0.205 0.195</size>
-		 <zIndex>18</zIndex>
-      </video>
+<origin>0 0</origin>
+<delay>0</delay>
+<showSnapshotNoVideo>true</showSnapshotNoVideo>
+<showSnapshotDelay>true</showSnapshotDelay>
+<color>FFFFFF</color>   
+<zIndex>24</zIndex>
+</video>	
 	      <helpsystem name="help">
 	  <color>ffffff</color>
      <fontSize>0.02</fontSize>
