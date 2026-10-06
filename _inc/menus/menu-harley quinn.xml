@@ -47,7 +47,7 @@
 		<color>ffffff</color>
 		<path>./_inc/nothumb.png</path>
 	   <path>./${system.theme}/_inc/char3.png</path>  
-		<zIndex>11</zIndex>
+		<zIndex>12</zIndex>
 	  </image>	
    <video name="backgroundvideo" extra="true">
 <default>./default/_inc/noise.mp4</default>
@@ -78,6 +78,13 @@
      <fontSize>0.028</fontSize>
         <zIndex>22</zIndex>
       </text> 
+      <image name="art003" extra="true">
+		 <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>  
+         <path>./_inc/hyper009a.png</path>
+         <zIndex>11</zIndex>
+      </image>
       <image name="art004" extra="true">
 		 <origin>0 0</origin>
          <pos>0 0</pos>
@@ -158,6 +165,22 @@
 		<maxSize>0.7 0.7</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/chars/char57a.gif</path>
+	  </image>
+	 <image name="character07" extra="true">
+		<pos>0.9505 0.5</pos>
+		<maxSize>0.2 0.2</maxSize>
+		<color>ffffff</color>
+	    <rotation>-0</rotation>    
+		<path>./_inc/chars/char232.gif</path>
+		<zIndex>300</zIndex>
+	  </image>
+	 <image name="character06" extra="true">
+		<pos>-0.2 0.22</pos>
+		<maxSize>0.2 0.2</maxSize>
+		<color>ffffff</color>
+	    <rotation>05</rotation>    
+		<path>./_inc/chars/char231.png</path>
+		<zIndex>314</zIndex>
 	  </image>
  </view>
 <view name=" gamecarousel">
@@ -268,7 +291,14 @@
         <showSnapshotDelay>false</showSnapshotDelay>
 		<effect>none</effect> 
 		<zIndex>19</zIndex>  
-      </video> 
+      </video>
+      <image name="art003" extra="true">
+		 <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>  
+         <path>./_inc/hyper009a.png</path>
+         <zIndex>11</zIndex>
+      </image> 
       <image name="art004" extra="true">
 		 <origin>0 0</origin>
          <pos>0 0</pos>
@@ -334,6 +364,22 @@
 		<maxSize>0.7 0.7</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/chars/char57a.gif</path>
+	  </image>
+	 <image name="character07" extra="true">
+		<pos>0.9505 0.5</pos>
+		<maxSize>0.2 0.2</maxSize>
+		<color>ffffff</color>
+	    <rotation>-0</rotation>    
+		<path>./_inc/chars/char232.gif</path>
+		<zIndex>300</zIndex>
+	  </image>
+	 <image name="character06" extra="true">
+		<pos>-0.2 0.22</pos>
+		<maxSize>0.2 0.2</maxSize>
+		<color>ffffff</color>
+	    <rotation>05</rotation>    
+		<path>./_inc/chars/char231.png</path>
+		<zIndex>314</zIndex>
 	  </image>
 	    <image name="logo" extra="true">
 <visible>false</visible> 

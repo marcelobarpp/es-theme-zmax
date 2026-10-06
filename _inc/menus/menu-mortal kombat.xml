@@ -80,6 +80,7 @@
 <path>./art/sistemas/pointer/${system.theme}.png</path>
 <zIndex>70</zIndex> 
         </image>
+
 <image name="art3" extra="true">
 		 <origin>0 0</origin>
          <pos>0 0</pos>
