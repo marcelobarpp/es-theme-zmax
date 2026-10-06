@@ -74,7 +74,7 @@
 	    <glowColor>000000</glowColor>
      <color>ffca18</color>
         <fontPath>./_inc/Super Comic.ttf</fontPath>
-     <pos>-0.372 0.41</pos>
+     <pos>-0.372 0.13</pos>
      <fontSize>0.028</fontSize>
         <zIndex>22</zIndex>
       </text>  
@@ -89,7 +89,7 @@
 		 <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>  
-         <path>./_inc/hyper004.png</path>
+         <path>./_inc/hyper0041.png</path>
          <zIndex>21</zIndex>
       </image>
       <image name="art005" extra="true">
@@ -113,8 +113,15 @@
          <path>./_inc/video2.mp4</path>
 		 <zIndex>68</zIndex>
       </video>
+ <video name="video3" extra="true">
+         <origin>0 0</origin>
+         <pos>0.076 0.363</pos>
+         <size>0.1373 0.163</size>
+         <path>./_inc/video05.mp4</path>
+		 <zIndex>18</zIndex>
+      </video>
 <image name="consoles001" extra="true">
-		<pos>0.09 0.32</pos>
+		<pos>0.83 0.62</pos>
 	    <maxSize>0.1 0.1</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/retro/default.png</path>
@@ -153,13 +160,6 @@
 		<path>./_inc/chars/char232.gif</path>
 		<zIndex>300</zIndex>
 	  </image>
-	 <image name="character5" extra="true">
-		<pos>0.065 0.169</pos>
-		<maxSize>0.17 0.17</maxSize>
-		<color>ffffff</color>
-		<path>./_inc/chars/char239a.gif</path>
-		<zIndex>30</zIndex>
-	  </image>
 	 <image name="character3" extra="true">
 		<pos>0.24 0.34</pos>
 		<maxSize>0.58 0.58</maxSize>
@@ -181,22 +181,6 @@
 		<color>ffffff</color>
 		<path>./_inc/chars/char164a.gif</path>
 	  </image>
-	 <image name="character08" extra="true">
-		<pos>0.81 0.58</pos>
-		<maxSize>0.3 0.3</maxSize>
-		<color>ffffff</color>
-	    <rotation>-0</rotation>    
-		<path>./_inc/chars/char237a.gif</path>
-		<zIndex>300</zIndex>
-	  </image>
-	 <image name="character011" extra="true">
-		<pos>0.067 0.47</pos>
-		<maxSize>0.4 0.4</maxSize>
-		<color>ffffff</color>
-	    <rotation>-0</rotation>    
-		<path>./_inc/chars/char244.gif</path>
-		<zIndex>34</zIndex>
-	  </image>
 	 <image name="character06" extra="true">
 		<pos>-0.2 0.22</pos>
 		<maxSize>0.2 0.2</maxSize>
@@ -206,6 +190,7 @@
 		<zIndex>314</zIndex>
 	  </image>
  </view>
+
 <view name=" gamecarousel">
 <image name="pointer02">
 <pos>0.381 0.06</pos>
@@ -246,7 +231,7 @@
 		<zIndex>36</zIndex>
 	      </image> 
 <image name="consoles001" extra="true">
-		<pos>0.09 0.32</pos>
+		<pos>0.83 0.62</pos>
 	    <maxSize>0.1 0.1</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/retro/default.png</path>
@@ -326,7 +311,7 @@
 		 <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>  
-         <path>./_inc/hyper004.png</path>
+         <path>./_inc/hyper0041.png</path>
          <zIndex>21</zIndex>
       </image>
       <image name="art005" extra="true">
@@ -357,11 +342,18 @@
          <path>./_inc/video2.mp4</path>
 		 <zIndex>68</zIndex>
       </video>
+ <video name="video3" extra="true">
+         <origin>0 0</origin>
+         <pos>0.076 0.363</pos>
+         <size>0.1373 0.163</size>
+         <path>./_inc/video05.mp4</path>
+		 <zIndex>18</zIndex>
+      </video>
       <text name="md_name">
         <backgroundColor>00000000</backgroundColor>
 	    <glowColor>000000</glowColor>
      <color>ffca18</color>
-     <pos>0.075 0.43</pos>
+     <pos>0.075 0.13</pos>
      <fontSize>0.028</fontSize>
      <origin>0 0</origin>
        <fontPath>./_inc/Super Comic.ttf</fontPath>
@@ -374,13 +366,6 @@
 	    <rotation>-0</rotation>    
 		<path>./_inc/chars/char232.gif</path>
 		<zIndex>300</zIndex>
-	  </image>
-	 <image name="character5" extra="true">
-		<pos>0.065 0.169</pos>
-		<maxSize>0.17 0.17</maxSize>
-		<color>ffffff</color>
-		<path>./_inc/chars/char239a.gif</path>
-		<zIndex>30</zIndex>
 	  </image>
 	 <image name="character3" extra="true">
 		<pos>0.24 0.34</pos>
@@ -402,22 +387,6 @@
 		<maxSize>0.64 0.64</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/chars/char164a.gif</path>
-	  </image>
-	 <image name="character08" extra="true">
-		<pos>0.81 0.58</pos>
-		<maxSize>0.3 0.3</maxSize>
-		<color>ffffff</color>
-	    <rotation>-0</rotation>    
-		<path>./_inc/chars/char237a.gif</path>
-		<zIndex>300</zIndex>
-	  </image>
-	 <image name="character011" extra="true">
-		<pos>0.067 0.47</pos>
-		<maxSize>0.4 0.4</maxSize>
-		<color>ffffff</color>
-	    <rotation>-0</rotation>    
-		<path>./_inc/chars/char244.gif</path>
-		<zIndex>34</zIndex>
 	  </image>
 	 <image name="character06" extra="true">
 		<pos>-0.2 0.22</pos>
