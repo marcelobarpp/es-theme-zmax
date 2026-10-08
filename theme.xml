@@ -66,7 +66,7 @@
    <include subset="menu color" name="Violet">./_inc/color/violet.xml</include>
    <include subset="menu color" name="Candy">./_inc/color/candy.xml</include>	
    
-   <include subset="font color" name="Default">./_inc/font color/Default.xml</include>
+   <include subset="font color" name="Default">./_inc/font color/default.xml</include>
    <include subset="font color" name="Aqua">./_inc/font color/blue.xml</include>
    <include subset="font color" name="Sky Blue">./_inc/font color/plus.xml</include>
    <include subset="font color" name="fire">./_inc/font color/fire.xml</include>

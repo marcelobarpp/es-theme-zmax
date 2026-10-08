@@ -2,18 +2,18 @@
    <formatVersion>7</formatVersion>
 <view name="system, systemcarousel">
 <text name="systemInfo">
-     <glowColor>ffffff</glowColor>
+     <glowColor>ececec</glowColor>
       </text> 
 	      <helpsystem name="help">
-     <glowColor>ffffff</glowColor>
+     <glowColor>ececec</glowColor>
      </helpsystem>
       </view>
 <view name=" gamecarousel">
       <text name="md_name">
-     <glowColor>ffffff</glowColor>
+     <glowColor>ececec</glowColor>
       </text>
 	      <helpsystem name="help">
-     <glowColor>ffffff</glowColor>
+     <glowColor>ececec</glowColor>
      </helpsystem>
    </view>
 </theme>
