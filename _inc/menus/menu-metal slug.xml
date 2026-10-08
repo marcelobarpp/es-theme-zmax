@@ -64,18 +64,11 @@
 <zIndex>24</zIndex>
 </video>
 	      <helpsystem name="help">
-	  <color>ffffff</color>
-     <fontSize>0.02</fontSize>
      <origin>0 0</origin>
      <pos>0.05 0.973</pos>
-       <fontPath>./_inc/Super Comic.ttf</fontPath>
      </helpsystem>
 <text name="systemInfo">
-	    <glowColor>000000</glowColor>
-     <color>ffca18</color>
-        <fontPath>./_inc/Super Comic.ttf</fontPath>
-     <pos>-0.33 0.835</pos>
-     <fontSize>0.028</fontSize>
+     <pos>-0.3 0.835</pos>
         <zIndex>70</zIndex>
       </text> 
        <image name="art003" extra="true">
@@ -98,13 +91,6 @@
          <size>1 1</size>  
          <path>./_inc/hyper004-b.png</path>
          <zIndex>422</zIndex>
-      </image>
-      <image name="art006" extra="true">
-		 <origin>0 0</origin>
-         <pos>0 0</pos>
-         <size>1 1</size>  
-         <path>./_inc/roxo-a.png</path>
-         <zIndex>600</zIndex>
       </image>
  <video name="video2" extra="true">
          <origin>0 0</origin>
@@ -280,11 +266,8 @@
 <zIndex>70</zIndex>
 </image>
 	      <helpsystem name="help">
-	  <color>ffffff</color>
-     <fontSize>0.02</fontSize>
      <origin>0 0</origin>
      <pos>0.05 0.973</pos>
-       <fontPath>./_inc/Super Comic.ttf</fontPath>
      </helpsystem>
       <text name="md_name">
 <visible>true</visible> 
@@ -354,13 +337,6 @@
          <path>./_inc/hyper004-b.png</path>
          <zIndex>422</zIndex>
       </image>
-      <image name="art006" extra="true">
-		 <origin>0 0</origin>
-         <pos>0 0</pos>
-         <size>1 1</size>  
-         <path>./_inc/roxo-a.png</path>
-         <zIndex>600</zIndex>
-      </image>
 <image name="fondoblack" extra="true">
          <origin>0 0</origin>
          <pos>0. 0.001</pos>
@@ -376,13 +352,8 @@
 		 <zIndex>68</zIndex>
       </video>
       <text name="md_name">
-        <backgroundColor>00000000</backgroundColor>
-	    <glowColor>000000</glowColor>
-     <color>ffca18</color>
-     <pos>0.12 0.845</pos>
-     <fontSize>0.028</fontSize>
+     <pos>0.12 0.837</pos>
      <origin>0 0</origin>
-       <fontPath>./_inc/Super Comic.ttf</fontPath>
          <zIndex>70</zIndex>
       </text>
 	 <image name="character07" extra="true">

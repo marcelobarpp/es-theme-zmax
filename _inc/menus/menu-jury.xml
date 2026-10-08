@@ -76,11 +76,8 @@
 <zIndex>19</zIndex>
 </video>
 	<helpsystem name="help">
-	 <iconColor>FFFFFF</iconColor>
-     <fontSize>0.02</fontSize>
      <origin>0 0</origin>
      <pos>0.05 0.973</pos>
-       <fontPath>./_inc/Super Comic.ttf</fontPath>
          <zIndex>150</zIndex>
      </helpsystem>
 	    <image name="logo3" extra="true">
@@ -119,18 +116,14 @@
 		 <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>  
-         <path>./_inc/roxo1.png</path>
+         <path>./_inc/hyper1a.png</path>
          <zIndex>50</zIndex>
       </image>
 <text name="systemInfo">
-	    <glowColor>ffffff</glowColor>
-        <color>FF0000</color>
-        <fontPath>./_inc/Super Comic.ttf</fontPath>
 	<pos>0.0 0.905</pos>
-	 <fontSize>0.04</fontSize>
         <zIndex>60</zIndex>
       </text> 
-	 	        <image name="borde" extra="true">
+	  <image name="borde" extra="true">
          <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>        
@@ -230,11 +223,8 @@
 		<zIndex>19</zIndex>  
       </video>  
 	      <helpsystem name="help">
-	 <iconColor>FFFFFF</iconColor>
-     <fontSize>0.02</fontSize>
      <origin>0 0</origin>
      <pos>0.05 0.973</pos>
-       <fontPath>./_inc/Super Comic.ttf</fontPath>
          <zIndex>150</zIndex> 
      </helpsystem>
 	    <image name="logo3" extra="true">
@@ -254,12 +244,9 @@
 <zIndex>18</zIndex>
 </image>
       <text name="md_name">
-	    <glowColor>ffffff</glowColor>
-        <color>FF0000</color>
-        <fontPath>./_inc/Super Comic.ttf</fontPath>
      <origin>0 0</origin>
      <fontSize>0.03</fontSize>
-     <pos>0.23 0.925</pos>
+     <pos>0.23 0.905</pos>
          <zIndex>60</zIndex>
       </text>
      <image name="md_fanart" extra="true">
@@ -282,7 +269,7 @@
 		 <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>  
-         <path>./_inc/roxo1.png</path>
+         <path>./_inc/hyper1a.png</path>
          <zIndex>50</zIndex>
       </image>
 	 <image name="borde" extra="true">
