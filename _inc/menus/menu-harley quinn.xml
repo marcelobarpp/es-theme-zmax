@@ -124,7 +124,7 @@
          <path>./_inc/borde.png</path>
          <zIndex>9999</zIndex>          
       </image>
-	 <image name="character5" extra="true">
+	 <image name="character10" extra="true">
 		<pos>0.24 0.35</pos>
 		<maxSize>0.25 0.25</maxSize>
 		<color>ffffff</color>
@@ -315,7 +315,7 @@
      <origin>0 0</origin>
          <zIndex>18</zIndex>
       </text>
-	 <image name="character5" extra="true">
+	 <image name="character10" extra="true">
 		<pos>0.24 0.35</pos>
 		<maxSize>0.25 0.25</maxSize>
 		<color>ffffff</color>
