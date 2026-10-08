@@ -49,11 +49,11 @@
    <include subset="systems and lists" name="carousel subzero-vert">./_inc/menus/menu-subzero-vert.xml</include>
 
 
-   <include subset="menu color" name="Default">./_inc/color/Default.xml</include> 
+   <include subset="menu color" name="Default">./_inc/color/default.xml</include> 
    <include subset="menu color" name="Red">./_inc/color/red.xml</include>
    <include subset="menu color" name="Fire">./_inc/color/fire.xml</include>
-   <include subset="menu color" name="White">./_inc/color/White.xml</include>
-   <include subset="menu color" name="Turquoise">./_inc/color/Turquoise.xml</include>
+   <include subset="menu color" name="White">./_inc/color/white.xml</include>
+   <include subset="menu color" name="Turquoise">./_inc/color/turquoise.xml</include>
    <include subset="menu color" name="Sky Blue">./_inc/color/plus.xml</include>
    <include subset="menu color" name="Purple">./_inc/color/purple.xml</include>
    <include subset="menu color" name="Aqua">./_inc/color/blue.xml</include>
