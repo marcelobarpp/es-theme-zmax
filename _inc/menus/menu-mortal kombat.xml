@@ -144,7 +144,7 @@
 	<pos>-0.07 0.14</pos>
         <zIndex>60</zIndex>
       </text> 
-	 <image name="character1" extra="true">
+	 <image name="character10" extra="true">
 		<pos>0.195 0.39</pos>
 		<maxSize>0.57 0.57</maxSize>
 		<color>ffffff</color>
@@ -355,7 +355,7 @@
        <path>./_inc/logos/${system.theme}.png</path>
 	  <zIndex>18</zIndex>
 	</image>
-	 <image name="character1" extra="true">
+	 <image name="character10" extra="true">
 		<pos>0.195 0.39</pos>
 		<maxSize>0.57 0.57</maxSize>
 		<color>ffffff</color>

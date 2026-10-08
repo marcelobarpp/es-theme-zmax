@@ -149,7 +149,7 @@
 		<path>./_inc/chars/char232.gif</path>
 		<zIndex>300</zIndex>
 	  </image>
-	 <image name="character3" extra="true">
+	 <image name="character10" extra="true">
 		<pos>0.1 0.3</pos>
 		<maxSize>0.6 0.6</maxSize>
 		<color>ffffff</color>
@@ -360,7 +360,7 @@
      <origin>0 0</origin>
          <zIndex>70</zIndex>
       </text>
-	 <image name="character3" extra="true">
+	 <image name="character10" extra="true">
 		<pos>0.1 0.3</pos>
 		<maxSize>0.6 0.6</maxSize>
 		<color>ffffff</color>

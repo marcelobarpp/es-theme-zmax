@@ -310,13 +310,6 @@
 <path>./_inc/black008.png</path>
 <zIndex>18</zIndex>         
       </image>
- <video name="video2" extra="true">
-         <origin>0 0</origin>
-		<pos>0.0 0.0</pos>
-	    <maxSize>1 0.4</maxSize>
-         <path>./_inc/video2.mp4</path>
-		 <zIndex>68</zIndex>
-      </video>
       <text name="md_name">
      <pos>0.1 0.117</pos>
      <origin>0 0</origin>

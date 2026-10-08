@@ -16,7 +16,7 @@
 <logoAlignment>center</logoAlignment>       
 </carousel> 
 	<image name="cliente" extra="true">
-		<pos>0.02 0.128</pos>
+		<pos>0.65 0.14</pos>
 		<maxSize>0.06 0.06</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/assets/cliente.png</path>
@@ -40,10 +40,10 @@
 <path>./art/sistemas/pointer/${system.theme}.png</path>
 <zIndex>70</zIndex> 
         </image>
-      <image name="thumb0004" extra="true">
+      <image name="thumb0005" extra="true">
         <origin>0 0</origin>
-		<pos>0.83 0.238</pos>
-         <size>0.06 0.15</size>
+		<pos>0.86 0.115</pos>
+         <size>0.05 0.12</size>
 		<color>ffffff</color>
 		<path>./_inc/nothumb.png</path>
 	   <path>./${system.theme}/_inc/char3.png</path>  
@@ -54,8 +54,8 @@
 <visible>true</visible>
 <effect>none</effect>
 <path>{random}</path>                  
-         <pos>0.5195 0.305</pos>
-         <size>0.225 0.242</size>
+         <pos>0.113 0.254</pos>
+         <size>0.192 0.235</size>
 <origin>0 0</origin>
 <delay>0.03</delay>
 <showSnapshotNoVideo>true</showSnapshotNoVideo>
@@ -68,21 +68,21 @@
      <pos>0.05 0.973</pos>
      </helpsystem>
 <text name="systemInfo">
-     <pos>-0.33 0.115</pos>
+     <pos>-0.08 0.15</pos>
         <zIndex>22</zIndex>
       </text> 
  <video name="video3" extra="true">
          <origin>0 0</origin>
-         <pos>0.116 0.305</pos>
-         <size>0.31 0.158</size> 
-         <path>./_inc/video04.mp4</path>
-		 <zIndex>18</zIndex>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./_inc/video6.mp4</path>
+		 <zIndex>10</zIndex>
       </video> 
        <image name="art004" extra="true">
 		 <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>  
-         <path>./_inc/hyper008.png</path>
+         <path>./_inc/hyper0010.png</path>
          <zIndex>21</zIndex>
       </image>
       <image name="art005" extra="true">
@@ -99,30 +99,23 @@
          <path>./_inc/video2.mp4</path>
 		 <zIndex>68</zIndex>
       </video>
-<image name="consoles003" extra="true">
-		<pos>0.82 0.5</pos>
-	    <maxSize>0.09 0.09</maxSize>
+<image name="consoles001" extra="true">
+		<pos>0.75 0.125</pos>
+	    <maxSize>0.08 0.08</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/retro/default.png</path>
 		<path>./_inc/retro/${system.theme}.svg</path>
 		<path>./_inc/retro/${system.theme}.png</path>
 		<zIndex>25</zIndex>
 	  </image>
-<image name="fondoblack" extra="true">
-         <origin>0 0</origin>
-         <pos>0. 0.001</pos>
-         <size>1 1</size>
-<path>./_inc/black008.png</path>
-<zIndex>18</zIndex>         
-      </image>
 	    <image name="marqueta1" extra="true">
-<pos>0.576 0.185</pos>
-<maxSize>0.12 0.12</maxSize>
+<pos>0.152 0.141</pos>
+<maxSize>0.11 0.11</maxSize>
 	<origin>0 0</origin>
 	  <color>ffffff</color>
        <path>./_inc/logo.png</path>
        <path>./_inc/logos/${system.theme}.png</path>
-	  <zIndex>20</zIndex>
+	  <zIndex>120</zIndex>
 	</image>
 	 	        <image name="borde" extra="true">
          <origin>0 0</origin>
@@ -149,23 +142,30 @@
 	  </image>
 	 <image name="character02a" extra="true">
 		<zIndex>310</zIndex>
-		<pos>1 0.23</pos>
-		<maxSize>0.75 0.75</maxSize>
+		<pos>1 0.3</pos>
+		<maxSize>0.65 0.65</maxSize>
 		<color>ffffff</color>
-		<path>./_inc/chars/char253.gif</path>
+		<path>./_inc/chars/char243.gif</path>
 	  </image>
 	 <image name="character02" extra="true">
 		<zIndex>310</zIndex>
-		<pos>-3  0.23</pos>
-		<maxSize>0.75 0.75</maxSize>
+		<pos>-3  0.3</pos>
+		<maxSize>0.65 0.65</maxSize>
 		<color>ffffff</color>
-		<path>./_inc/chars/char253a.gif</path>
+		<path>./_inc/chars/char243a.gif</path>
 	  </image>
 	 <image name="character3" extra="true">
-		<pos>0.18 0.26</pos>
-		<maxSize>0.63 0.63</maxSize>
+		<pos>0.33 0.21</pos>
+		<maxSize>0.61 0.61</maxSize>
 		<color>ffffff</color>
-		<path>./_inc/chars/char9.gif</path>
+		<path>./_inc/chars/char249.gif</path>
+		<zIndex>35</zIndex>
+	  </image>
+	 <image name="character10" extra="true">
+		<pos>0.61 0.21</pos>
+		<maxSize>0.61 0.61</maxSize>
+		<color>ffffff</color>
+		<path>./_inc/chars/char250.gif</path>
 		<zIndex>35</zIndex>
 	  </image>
  </view>
@@ -189,7 +189,7 @@
 <zIndex>71</zIndex> 
         </image>
 	<image name="cliente" extra="true">
-		<pos>0.02 0.128</pos>
+		<pos>0.65 0.14</pos>
 		<maxSize>0.06 0.06</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/assets/cliente.png</path>
@@ -204,8 +204,8 @@
       </image>
    <image name="md_thumbnail"> 
 		<origin>0 0</origin>
-		<pos>0.83 0.238</pos>
-         <size>0.06 0.14</size>
+		<pos>0.86 0.115</pos>
+         <size>0.05 0.12</size>
 		<zIndex>36</zIndex>
 	      </image> 
 	    <image name="md_marquee" extra="true">
@@ -223,13 +223,13 @@
 <visible>true</visible> 
       </text>
 	    <image name="marqueta1" extra="true">
-<pos>0.576 0.185</pos>
-<maxSize>0.12 0.12</maxSize>
+<pos>0.152 0.141</pos>
+<maxSize>0.11 0.11</maxSize>
 	<origin>0 0</origin>
 	  <color>ffffff</color>
        <path>./_inc/logo.png</path>
        <path>./_inc/logos/${system.theme}.png</path>
-	  <zIndex>20</zIndex>
+	  <zIndex>120</zIndex>
 	</image>
 <gamecarousel name="gamecarousel">
 <zIndex>69</zIndex>	      
@@ -257,27 +257,27 @@
     </text>	
 	   <video name="md_video">
          <origin>0. 0</origin>
-         <pos>0.5195 0.305</pos>
-         <size>0.225 0.242</size>
+         <pos>0.113 0.254</pos>
+         <size>0.192 0.235</size>
 		<delay>0</delay>
 		<path>./default/_inc/noise.mp4</path>
         <showSnapshotNoVideo>true</showSnapshotNoVideo>
         <showSnapshotDelay>false</showSnapshotDelay>
 		<effect>none</effect> 
-		<zIndex>23</zIndex>  
+		<zIndex>20</zIndex>  
       </video> 
-<video name="video3" extra="true">
+ <video name="video3" extra="true">
          <origin>0 0</origin>
-         <pos>0.116 0.305</pos>
-         <size>0.31 0.158</size> 
-         <path>./_inc/video04.mp4</path>
-		 <zIndex>18</zIndex>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./_inc/video6.mp4</path>
+		 <zIndex>10</zIndex>
       </video> 
        <image name="art004" extra="true">
 		 <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>  
-         <path>./_inc/hyper008.png</path>
+         <path>./_inc/hyper0010.png</path>
          <zIndex>21</zIndex>
       </image>
       <image name="art005" extra="true">
@@ -287,13 +287,6 @@
          <path>./_inc/hyper008a.png</path>
          <zIndex>422</zIndex>
       </image>
-<image name="fondoblack" extra="true">
-         <origin>0 0</origin>
-         <pos>0. 0.001</pos>
-         <size>1 1</size>
-<path>./_inc/black008.png</path>
-<zIndex>18</zIndex>         
-      </image>
  <video name="video2" extra="true">
          <origin>0 0</origin>
 		<pos>0.0 0.0</pos>
@@ -302,26 +295,18 @@
 		 <zIndex>68</zIndex>
       </video>
       <text name="md_name">
-     <pos>0.1 0.117</pos>
+     <pos>0.35 0.15</pos>
      <origin>0 0</origin>
          <zIndex>22</zIndex>
       </text>
-<image name="consoles003" extra="true">
-		<pos>0.82 0.5</pos>
-	    <maxSize>0.09 0.09</maxSize>
+<image name="consoles001" extra="true">
+		<pos>0.75 0.125</pos>
+	    <maxSize>0.08 0.08</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/retro/default.png</path>
 		<path>./_inc/retro/${system.theme}.svg</path>
 		<path>./_inc/retro/${system.theme}.png</path>
 		<zIndex>25</zIndex>
-	  </image>
-	 <image name="character06" extra="true">
-		<pos>-0.2 0.22</pos>
-		<maxSize>0.2 0.2</maxSize>
-		<color>ffffff</color>
-	    <rotation>05</rotation>    
-		<path>./_inc/chars/char231.png</path>
-		<zIndex>314</zIndex>
 	  </image>
 	 <image name="character07" extra="true">
 		<pos>0.9505 0.5</pos>
@@ -331,25 +316,40 @@
 		<path>./_inc/chars/char232.gif</path>
 		<zIndex>300</zIndex>
 	  </image>
+	 <image name="character06" extra="true">
+		<pos>-0.2 0.22</pos>
+		<maxSize>0.2 0.2</maxSize>
+		<color>ffffff</color>
+	    <rotation>05</rotation>    
+		<path>./_inc/chars/char231.png</path>
+		<zIndex>314</zIndex>
+	  </image>
 	 <image name="character02a" extra="true">
 		<zIndex>310</zIndex>
-		<pos>1 0.23</pos>
-		<maxSize>0.75 0.75</maxSize>
+		<pos>1 0.28</pos>
+		<maxSize>0.65 0.65</maxSize>
 		<color>ffffff</color>
-		<path>./_inc/chars/char253.gif</path>
+		<path>./_inc/chars/char243.gif</path>
 	  </image>
 	 <image name="character02" extra="true">
 		<zIndex>310</zIndex>
-		<pos>-3  0.23</pos>
-		<maxSize>0.75 0.75</maxSize>
+		<pos>-3  0.28</pos>
+		<maxSize>0.65 0.65</maxSize>
 		<color>ffffff</color>
-		<path>./_inc/chars/char253a.gif</path>
+		<path>./_inc/chars/char243a.gif</path>
 	  </image>
 	 <image name="character3" extra="true">
-		<pos>0.18 0.26</pos>
-		<maxSize>0.63 0.63</maxSize>
+		<pos>0.33 0.21</pos>
+		<maxSize>0.61 0.61</maxSize>
 		<color>ffffff</color>
-		<path>./_inc/chars/char9.gif</path>
+		<path>./_inc/chars/char249.gif</path>
+		<zIndex>35</zIndex>
+	  </image>
+	 <image name="character10" extra="true">
+		<pos>0.61 0.21</pos>
+		<maxSize>0.61 0.61</maxSize>
+		<color>ffffff</color>
+		<path>./_inc/chars/char250.gif</path>
 		<zIndex>35</zIndex>
 	  </image>
 	    <image name="logo" extra="true">

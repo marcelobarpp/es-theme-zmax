@@ -150,7 +150,7 @@
 		<path>./_inc/chars/char160.gif</path>
 		<zIndex>50</zIndex>
 	  </image>
-	 <image name="character2" extra="true">
+	 <image name="character10" extra="true">
 		<pos>0.53 0.44</pos>
 		<maxSize>0.55 0.55</maxSize>
 		<color>ffffff</color>
@@ -360,7 +360,7 @@
 		<path>./_inc/chars/char160.gif</path>
 		<zIndex>50</zIndex>
 	  </image>
-	 <image name="character2" extra="true">
+	 <image name="character10" extra="true">
 		<pos>0.53 0.44</pos>
 		<maxSize>0.55 0.55</maxSize>
 		<color>ffffff</color>
