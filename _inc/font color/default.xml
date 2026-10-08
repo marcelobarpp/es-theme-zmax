@@ -3,18 +3,18 @@
    <formatVersion>7</formatVersion>
 <view name="system, systemcarousel">
 <text name="systemInfo">
-     <color>ffffff</color>
+     <color>ec1c24</color>
       </text>
 	      <helpsystem name="help">
-	 <textColor>ffffff</textColor>
+	 <textColor>ec1c24</textColor>
      </helpsystem> 
       </view>
 <view name=" gamecarousel">
       <text name="md_name">
-     <color>ffffff</color>
+     <color>ec1c24</color>
       </text>
 	      <helpsystem name="help">
-	 <textColor>ffffff</textColor>
+	 <textColor>ec1c24</textColor>
      </helpsystem>
    </view>
 </theme>
