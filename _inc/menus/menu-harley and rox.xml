@@ -155,10 +155,10 @@
 		<path>./_inc/chars/char243a.gif</path>
 	  </image>
 	 <image name="character3" extra="true">
-		<pos>0.33 0.21</pos>
-		<maxSize>0.61 0.61</maxSize>
+		<pos>0.33 0.18</pos>
+		<maxSize>0.72 0.72</maxSize>
 		<color>ffffff</color>
-		<path>./_inc/chars/char249.gif</path>
+		<path>./_inc/chars/char249a.gif</path>
 		<zIndex>35</zIndex>
 	  </image>
 	 <image name="character10" extra="true">
