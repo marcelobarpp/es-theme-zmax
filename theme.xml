@@ -49,6 +49,7 @@
    <include subset="systems and lists" name="harley and rox">./_inc/menus/menu-harley and rox.xml</include>
    <include subset="systems and lists" name="perita and skully">./_inc/menus/menu-skully and perita.xml</include>
    <include subset="systems and lists" name="kuno and hatsune">./_inc/menus/menu-kuno and hatsune.xml</include>
+   <include subset="systems and lists" name="katia kart">./_inc/menus/menu-katia kart.xml</include>
 
    <include subset="systems and lists" name="carousel jury-vert">./_inc/menus/menu-jury-vert.xml</include>
    <include subset="systems and lists" name="carousel subzero-vert">./_inc/menus/menu-subzero-vert.xml</include>
