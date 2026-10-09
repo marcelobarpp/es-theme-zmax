@@ -1,0 +1,28 @@
+<theme>
+   <formatVersion>7</formatVersion>
+
+    <view name="basic, detailed, video, grid, gamecarousel, system">
+
+
+
+
+
+	   <image name="character10" extra="true">
+<visible>false</visible>
+      </image> 
+
+
+
+
+	
+
+
+
+
+
+
+	  
+	</view>
+
+
+</theme>
