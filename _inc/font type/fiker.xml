@@ -1,0 +1,19 @@
+<theme>
+   <formatVersion>7</formatVersion>
+<view name="system, systemcarousel">
+<text name="systemInfo">
+       <fontPath>./_inc/fonts/fiker.ttf</fontPath>
+      </text> 
+	 <helpsystem name="help">
+       <fontPath>./_inc/fonts/fiker.ttf</fontPath>
+     </helpsystem>
+</view>
+<view name=" gamecarousel">
+<text name="md_name">
+       <fontPath>./_inc/fonts/fiker.ttf</fontPath>
+      </text>
+	<helpsystem name="help">
+       <fontPath>./_inc/fonts/fiker.ttf</fontPath>
+     </helpsystem>
+ </view>
+</theme>
