@@ -1,0 +1,16 @@
+<theme>
+   <formatVersion>7</formatVersion>
+<view name="system, systemcarousel">
+<text name="systemInfo">
+      </text> 
+	      <helpsystem name="help">
+     </helpsystem>
+      </view>
+<view name=" gamecarousel">
+      <text name="md_name">
+     <glowColor>ffffff</glowColor>
+      </text>
+	      <helpsystem name="help">
+     </helpsystem>
+   </view>
+</theme>
