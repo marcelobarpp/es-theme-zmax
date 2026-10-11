@@ -103,8 +103,7 @@
    <include subset="font type" name="mario">./_inc/font type/mario.xml</include> 
    <include subset="font type" name="text">./_inc/font type/text.xml</include> 
    <include subset="font type" name="Doo">./_inc/font type/doo.xml</include> 
-   <include subset="font type" name="porkys">./_inc/font type/porkys.xml</include> 
-   <include subset="font type" name="rg">./_inc/font type/rg1.xml</include>  
+   <include subset="font type" name="porkys">./_inc/font type/porkys.xml</include>  
    <include subset="font type" name="barcade">./_inc/font type/barcade.xml</include>  
    <include subset="font type" name="fiker">./_inc/font type/fiker.xml</include> 
    <include subset="font type" name="light">./_inc/font type/light.xml</include> 
