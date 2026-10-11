@@ -102,23 +102,20 @@
 
    <include subset="font type" name="Default">./_inc/font type/bold.xml</include> 
    <include subset="font type" name="neon">./_inc/font type/neon.xml</include> 
-   <include subset="font type" name="mario">./_inc/font type/mario.xml</include> 
+   <include subset="font type" name="super mario galaxy">./_inc/font type/supermariogalaxy.xml</include> 
    <include subset="font type" name="text">./_inc/font type/text.xml</include> 
    <include subset="font type" name="doo">./_inc/font type/doo.xml</include> 
    <include subset="font type" name="porkys">./_inc/font type/porkys.xml</include>  
    <include subset="font type" name="barcade">./_inc/font type/barcade.xml</include>  
-   <include subset="font type" name="fiker">./_inc/font type/fiker.xml</include> 
+   <include subset="font type" name="orbitron medium">./_inc/font type/orbitron-medium.xml</include> 
    <include subset="font type" name="light">./_inc/font type/light.xml</include> 
    <include subset="font type" name="segoeuil">./_inc/font type/segoeuil.xml</include> 
    <include subset="font type" name="sketch3d">./_inc/font type/sketch3d.xml</include> 
-
    <include subset="font type" name="world of spell">./_inc/font type/world-of-spell.xml</include> 
    <include subset="font type" name="the led display">./_inc/font type/the-led-display.xml</include> 
    <include subset="font type" name="shaka pow">./_inc/font type/shaka_pow.xml</include> 
    <include subset="font type" name="sgt jhon o">./_inc/font type/sgt-Jhon-o.xml</include> 
    <include subset="font type" name="sf distant galaxy alternate">./_inc/font type/sf-distant-galaxy-alternate.xml</include> 
-   <include subset="font type" name="royalacid">./_inc/font type/royalacid.xml</include>  
-   <include subset="font type" name="neon club music bold">./_inc/font type/neon-club-music-bold.xml</include>  
    <include subset="font type" name="hog world">./_inc/font type/hog-world.xml</include> 
    <include subset="font type" name="henika">./_inc/font type/henika.xml</include> 
    <include subset="font type" name="grobold">./_inc/font type/grobold.xml</include> 
@@ -127,7 +124,20 @@
    <include subset="font type" name="clubland">./_inc/font type/clubland.xml</include> 
    <include subset="font type" name="cave stone">./_inc/font type/cave-stone.xml</include> 
    <include subset="font type" name="anthony">./_inc/font type/anthony.xml</include> 
-   <include subset="font type" name="alger">./_inc/font type/alger.xml</include> 
+   <include subset="font type" name="alger">./_inc/font type/alger.xml</include>
+   <include subset="font type" name="xtrusion">./_inc/font type/xtrusion.xml</include> 
+   <include subset="font type" name="agent orange">./_inc/font type/agent-orange.xml</include>
+   <include subset="font type" name="sofachrome italic">./_inc/font type/sofachrome-rg-it.xml</include> 
+   <include subset="font type" name="alphabet fantasie">./_inc/font type/alphabet-fantasie.xml</include>
+   <include subset="font type" name="bro 4d">./_inc/font type/bro_4d.xml</include>
+   <include subset="font type" name="mexcellent 3d">./_inc/font type/mexcellent3d.xml</include> 
+   <include subset="font type" name="montague">./_inc/font type/montague.xml</include>
+   <include subset="font type" name="one dance">./_inc/font type/one-dance.xml</include> 
+   <include subset="font type" name="orange juice 2.0">./_inc/font type/orange-juice-2.0.xml</include> 
+   <include subset="font type" name="planet be">./_inc/font type/planetbe.xml</include> 
+   <include subset="font type" name="wedgie regular">./_inc/font type/wedgie regular.xml</include>
+   <include subset="font type" name="sho card cap snf">./_inc/font type/sho-cardcapsnf.xml</include> 
+   <include subset="font type" name="stonb">./_inc/font type/stonb.xml</include> 
 
    <include subset="font size" name="Default">./_inc/font size/average.xml</include> 
    <include subset="font size" name="small">./_inc/font size/small.xml</include> 
