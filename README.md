@@ -11,6 +11,7 @@ Emulationstation Theme for Batocera and RetroBat.<br/>
 </p>
 Screenshots
 		
+![](https://i.imgur.com/HzbwZdO.png)	![](https://i.imgur.com/bEvT1Pr.png)
 ![](https://i.imgur.com/LMer1gk.png)	![](https://i.imgur.com/oy5pzoY.png)	![](https://i.imgur.com/13j40xX.png)
 ![](https://i.imgur.com/reTaVTF.png)	![](https://i.imgur.com/Dl6e9Rm.png)
 
