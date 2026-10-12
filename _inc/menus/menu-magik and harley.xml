@@ -144,10 +144,10 @@
 		<zIndex>35</zIndex>
 	  </image>
 	 <image name="character10" extra="true">
-		<pos>0.65 0.218</pos>
-		<maxSize>0.61 0.61</maxSize>
+		<pos>0.61 0.27</pos>
+		<maxSize>0.56 0.56</maxSize>
 		<color>ffffff</color>
-		<path>./_inc/chars/char249b.gif</path>
+		<path>./_inc/chars/char249a.gif</path>
 		<zIndex>35</zIndex>
 	  </image>
 </view>
@@ -270,13 +270,6 @@
          <path>./_inc/video2.mp4</path>
 		 <zIndex>68</zIndex>
       </video>
- <video name="video2" extra="true">
-         <origin>0 0</origin>
-		<pos>0.0 0.0</pos>
-	    <maxSize>1 0.4</maxSize>
-         <path>./_inc/video2.mp4</path>
-		 <zIndex>68</zIndex>
-      </video>
       <text name="md_name">
      <pos>0.35 0.15</pos>
      <origin>0 0</origin>
@@ -320,10 +313,10 @@
 		<zIndex>35</zIndex>
 	  </image>
 	 <image name="character10" extra="true">
-		<pos>0.65 0.218</pos>
-		<maxSize>0.61 0.61</maxSize>
+		<pos>0.61 0.27</pos>
+		<maxSize>0.56 0.56</maxSize>
 		<color>ffffff</color>
-		<path>./_inc/chars/char249b.gif</path>
+		<path>./_inc/chars/char249a.gif</path>
 		<zIndex>35</zIndex>
 	  </image>
 	    <image name="logo" extra="true">
