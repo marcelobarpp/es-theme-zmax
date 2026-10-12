@@ -11,9 +11,9 @@ Emulationstation Theme for Batocera and RetroBat.<br/>
 </p>
 Screenshots
 		
-![](https://i.imgur.com/Dl6e9Rm.png)	![](https://i.imgur.com/oy5pzoY.png)	![](https://i.imgur.com/13j40xX.png)
-![](https://i.imgur.com/reTaVTF.png)	
-!
+![](https://i.imgur.com/LMer1gk.png)	![](https://i.imgur.com/oy5pzoY.png)	![](https://i.imgur.com/13j40xX.png)
+![](https://i.imgur.com/reTaVTF.png)	![](https://i.imgur.com/Dl6e9Rm.png)
+
 Info
 
 
@@ -39,7 +39,7 @@ https://github.com/marcelobarpp/es-theme-zmax.git
 The Z-max theme is now available in the 'Themes Downloader' section of RetroBat and Batocera!
 
 A video of the theme in action and all it's various options and views can be found here:
-https://youtu.be/krDWGOvwqsA
+https://youtu.be/TAfx4P1SSlk
 
 How to manually add themes to Batocera and RetroBat:
 
