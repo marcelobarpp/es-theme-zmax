@@ -88,7 +88,7 @@ Within the themes folder you should end up with a folder called HyperMax-Plus-Pi
 
 ## Credits
 
-- Original Theme Author:
+- Original Theme Author: Marcelo estevam
 
 
 ## License
