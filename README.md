@@ -33,10 +33,6 @@ https://retrobat.forumgaming.fr/f4-themes
 
 
 
-
-All updates/commits can be seen here:
-https://github.com/marcelobarpp/es-theme-zmax.git
-
 ## Install
 
 The Z-max theme is now available in the 'Themes Downloader' section of RetroBat and Batocera!
