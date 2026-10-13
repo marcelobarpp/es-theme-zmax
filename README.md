@@ -15,7 +15,7 @@ Screenshots
 ![](https://i.imgur.com/LMer1gk.png)	![](https://i.imgur.com/oy5pzoY.png)	![](https://i.imgur.com/13j40xX.png)
 ![](https://i.imgur.com/reTaVTF.png)	![](https://i.imgur.com/Dl6e9Rm.png)
 
-## social network
+## Social Network
 
 https://www.facebook.com/groups/589221305443200?locale=pt_BR
 
