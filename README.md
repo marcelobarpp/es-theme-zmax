@@ -46,7 +46,7 @@ https://youtu.be/EzMBZzjmm-g
 
 https://www.facebook.com/groups/589221305443200?locale=pt_BR
 
-How to manually add themes to Batocera and RetroBat:
+## How to manually add themes to Batocera and RetroBat:
 
 Batocera:
 
