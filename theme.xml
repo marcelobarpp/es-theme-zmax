@@ -15,7 +15,7 @@
 
 
    <include subset="systems and lists" name="tutorial">./_inc/menus/menu-tutorial.xml</include>
-   <include subset="systems and lists" name="default">./_inc/menus/menu-subzero.xml</include>
+   <include subset="systems and lists" name="subzero">./_inc/menus/menu-subzero.xml</include>
    <include subset="systems and lists" name="sakura">./_inc/menus/menu-sakura.xml</include>
    <include subset="systems and lists" name="robux">./_inc/menus/menu-robux.xml</include>
    <include subset="systems and lists" name="jury">./_inc/menus/menu-jury.xml</include>
