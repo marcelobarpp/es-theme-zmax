@@ -64,7 +64,7 @@ Batocera:
 
 7. Restart your Batocera device for the changes to take effect.
 
-## Fórum Retrobar themes:
+## Fórum Retrobat themes:
 
 https://retrobat.forumgaming.fr/f4-themes
 
