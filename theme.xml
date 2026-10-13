@@ -146,7 +146,7 @@
    <include subset="Iconset" name="Default">./_inc/iconsets/default.xml</include>
    <include subset="Iconset" name="Xbox One">./_inc/iconsets/xboxone.xml</include>
    <include subset="Iconset" name="PSX">./_inc/iconsets/psx.xml</include>
-   <include subset="Iconset" name="PS2">./_inc/iconsets/ps2.xml</include>
+   <include subset="Iconset" name="PS3">./_inc/iconsets/ps2.xml</include>
    <include subset="Iconset" name="SNES">./_inc/iconsets/snes.xml</include>
    <include subset="Iconset" name="Xbox">./_inc/iconsets/xbox.xml</include>
    <include subset="Iconset" name="Arcade">./_inc/iconsets/arcade.xml</include>
