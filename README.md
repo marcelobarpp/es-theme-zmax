@@ -40,7 +40,7 @@ https://github.com/marcelobarpp/es-theme-zmax.git
 The Z-max theme is now available in the 'Themes Downloader' section of RetroBat and Batocera!
 
 A video of the theme in action and all it's various options and views can be found here:
-https://youtu.be/TAfx4P1SSlk
+https://youtu.be/EzMBZzjmm-g
 
 How to manually add themes to Batocera and RetroBat:
 
