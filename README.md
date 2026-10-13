@@ -29,16 +29,8 @@ https://retrobat.forumgaming.fr/f4-themes
 
 ## Info
 
-I take no credit for the original theme/code. I'm unsure who the original creator of the HyperMax theme is/was?
 
-I simply want to keep the theme alive and updated as it is still very popular!
 
-## Change Log ##
-
-**May 12th 2025**
-Moved the theme/code to it's new GitHub Repo.
-The previous 84 changes date back from 9th Aug 2024 to 11th May 2025
-and may be added here at some point for reference....
 
 All updates/commits can be seen here:
 https://github.com/marcelobarpp/es-theme-zmax.git
