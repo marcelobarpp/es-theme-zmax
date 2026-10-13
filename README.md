@@ -15,7 +15,15 @@ Screenshots
 ![](https://i.imgur.com/LMer1gk.png)	![](https://i.imgur.com/oy5pzoY.png)	![](https://i.imgur.com/13j40xX.png)
 ![](https://i.imgur.com/reTaVTF.png)	![](https://i.imgur.com/Dl6e9Rm.png)
 
-Info
+## social network
+
+https://www.facebook.com/groups/589221305443200?locale=pt_BR
+
+## RETROBAT fórum EmulationStation:
+
+https://retrobat.forumgaming.fr/f4-themes
+
+## Themes for Batocera-EmulationStation: https://batocera.org/themes.php
 
 
 
@@ -42,9 +50,6 @@ The Z-max theme is now available in the 'Themes Downloader' section of RetroBat 
 A video of the theme in action and all it's various options and views can be found here:
 https://youtu.be/EzMBZzjmm-g
 
-## social network
-
-https://www.facebook.com/groups/589221305443200?locale=pt_BR
 
 ## How to manually add themes to Batocera and RetroBat:
 
@@ -64,9 +69,6 @@ Batocera:
 
 7. Restart your Batocera device for the changes to take effect.
 
-## Fórum Retrobat themes:
-
-https://retrobat.forumgaming.fr/f4-themes
 
 
 RetroBat:
