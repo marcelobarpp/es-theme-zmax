@@ -42,6 +42,10 @@ The Z-max theme is now available in the 'Themes Downloader' section of RetroBat 
 A video of the theme in action and all it's various options and views can be found here:
 https://youtu.be/EzMBZzjmm-g
 
+## social network
+
+https://www.facebook.com/groups/589221305443200?locale=pt_BR
+
 How to manually add themes to Batocera and RetroBat:
 
 Batocera:
@@ -85,7 +89,7 @@ Within the themes folder you should end up with a folder called HyperMax-Plus-Pi
 ## Credits
 
 - Original Theme Author:
-  - tbc
+
 
 ## License
 
