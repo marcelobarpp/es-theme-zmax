@@ -143,15 +143,16 @@
    <include subset="taskbar" name="turquoise">./_inc/taskbar/turquoise.xml</include> 
    <include subset="taskbar" name="yellow">./_inc/taskbar/yellow.xml</include>  
 
-   <include subset="Iconset" name="Default">./iconsets/default.xml</include>
-   <include subset="Iconset" name="Xbox One">./iconsets/xboxone.xml</include>
-   <include subset="Iconset" name="PSX">./iconsets/psx.xml</include>
-   <include subset="Iconset" name="SNES">./iconsets/snes.xml</include>
-   <include subset="Iconset" name="Xbox">./iconsets/xbox.xml</include>
-   <include subset="Iconset" name="Arcade">./iconsets/arcade.xml</include>
-   <include subset="Iconset" name="Switch">./iconsets/switch.xml</include>
-   <include subset="Iconset" name="PSX Alt">./iconsets/psx1.xml</include>
-   <include subset="Iconset" name="SNES Alt">./iconsets/snesalt.xml</include>
+   <include subset="Iconset" name="Default">./_inc/iconsets/default.xml</include>
+   <include subset="Iconset" name="Xbox One">./_inc/iconsets/xboxone.xml</include>
+   <include subset="Iconset" name="PSX">./_inc/iconsets/psx.xml</include>
+   <include subset="Iconset" name="PS2">./_inc/iconsets/ps2.xml</include>
+   <include subset="Iconset" name="SNES">./_inc/iconsets/snes.xml</include>
+   <include subset="Iconset" name="Xbox">./_inc/iconsets/xbox.xml</include>
+   <include subset="Iconset" name="Arcade">./_inc/iconsets/arcade.xml</include>
+   <include subset="Iconset" name="Switch">./_inc/iconsets/switch.xml</include>
+   <include subset="Iconset" name="PSX Alt">./_inc/iconsets/psx1.xml</include>
+   <include subset="Iconset" name="SNES Alt">./_inc/iconsets/snesalt.xml</include>
 	
    <include subset="Sound" name="Default">./_inc/sound/1up.xml</include>
    <include subset="Sound" name="Off">./_inc/sound/off.xml</include>
@@ -253,23 +254,23 @@
    <view name="menu">
    
       <menuText name="menutitle">
-         <fontPath>./_inc/fonts/Digital-Serial-Bold.ttf</fontPath>
+         <fontPath>./_inc/fonts/digital-serial-bold.ttf</fontPath>
          <fontSize>0.04</fontSize>
       </menuText>
 	  
       <menuText name="menufooter">
-         <fontPath>./_inc/fonts/Digital-Serial-Bold.ttf</fontPath>
+         <fontPath>./_inc/fonts/digital-serial-bold.ttf</fontPath>
          <fontSize>0.023</fontSize>
       </menuText>
 	  
     <menuText name="menutext">
-      <fontPath>./_inc/fonts/Digital-Serial-Bold.ttf</fontPath>
+      <fontPath>./_inc/fonts/digital-serial-bold.ttf</fontPath>
       <fontSize>0.029</fontSize>
       <selectorGradientType>horizontal</selectorGradientType>
     </menuText>
 	
     <menuTextSmall name="menutextsmall">
-      <fontPath>./_inc/Digital-Serial-Bold.ttf</fontPath>
+      <fontPath>./_inc/digital-serial-bold.ttf</fontPath>
       <fontSize>0.022</fontSize>
     </menuTextSmall>
 	

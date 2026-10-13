@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	
+	<view name="menu, system, basic, detailed, video, grid, gamecarousel">
+		<helpsystem name="help">
+			<iconColor>FFFFFFFF</iconColor>
+			<iconUpDown>./ps2/updown.png</iconUpDown>
+			<iconLeftRight>./ps2/leftright.png</iconLeftRight>
+			<iconUpDownLeftRight>./ps21/all.png</iconUpDownLeftRight>
+			<iconA>./ps2/a.png</iconA>
+			<iconB>./ps2/b.png</iconB>
+			<iconX>./ps2/x.png</iconX>
+			<iconY>./ps2/y.png</iconY>
+			<iconL>./ps2/l.png</iconL>
+			<iconR>./ps2/r.png</iconR>
+			<iconStart>./ps2/start.png</iconStart>
+			<iconSelect>./ps2/select.png</iconSelect>
+		</helpsystem>		
+	</view>
+	
+</theme>
