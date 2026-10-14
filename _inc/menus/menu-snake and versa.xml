@@ -155,15 +155,15 @@
 		<path>./_inc/chars/char234a.gif</path>
 	  </image>
 	 <image name="character3" extra="true">
-		<pos>0.08 0.25</pos>
-		<maxSize>0.6 0.6</maxSize>
+		<pos>0.09 0.27</pos>
+		<maxSize>0.57 0.57</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/chars/char152.gif</path>
 		<zIndex>35</zIndex>
 	  </image>
 	 <image name="character10" extra="true">
-		<pos>0.68 0.26</pos>
-		<maxSize>0.54 0.54</maxSize>
+		<pos>0.7 0.3</pos>
+		<maxSize>0.52 0.52</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/chars/char262.gif</path>
 		<zIndex>35</zIndex>
@@ -348,15 +348,15 @@
 		<path>./_inc/chars/char234a.gif</path>
 	  </image>
 	 <image name="character3" extra="true">
-		<pos>0.08 0.25</pos>
-		<maxSize>0.6 0.6</maxSize>
+		<pos>0.09 0.27</pos>
+		<maxSize>0.57 0.57</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/chars/char152.gif</path>
 		<zIndex>35</zIndex>
 	  </image>
 	 <image name="character10" extra="true">
-		<pos>0.68 0.26</pos>
-		<maxSize>0.54 0.54</maxSize>
+		<pos>0.7 0.3</pos>
+		<maxSize>0.52 0.52</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/chars/char262.gif</path>
 		<zIndex>35</zIndex>
