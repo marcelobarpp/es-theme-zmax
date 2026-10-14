@@ -52,6 +52,7 @@
    <include subset="systems and lists" name="kuno and hatsune">./_inc/menus/menu-kuno and hatsune.xml</include>
    <include subset="systems and lists" name="katia kart">./_inc/menus/menu-katia kart.xml</include>
    <include subset="systems and lists" name="magik and harley">./_inc/menus/menu-magik and harley.xml</include>
+   <include subset="systems and lists" name="wick and maki">./_inc/menus/menu-wick and maki.xml</include>
 
 
    <include subset="systems and lists" name="harley and magik">./_inc/menus/menu-harley and magik.xml</include>
@@ -59,6 +60,7 @@
    <include subset="systems and lists" name="marshmello and demi">./_inc/menus/menu-marshmello and demi.xml</include>
    <include subset="systems and lists" name="ikonik and harley">./_inc/menus/menu-ikonik and harley.xml</include>
    <include subset="systems and lists" name="ruby and marshmello">./_inc/menus/menu-ruby and marshmello.xml</include>
+   <include subset="systems and lists" name="snake and versa">./_inc/menus/menu-snake and versa.xml</include>
 
    <include subset="systems and lists" name="carousel jury-vert">./_inc/menus/menu-jury-vert.xml</include>
    <include subset="systems and lists" name="carousel subzero-vert">./_inc/menus/menu-subzero-vert.xml</include>
@@ -299,10 +301,7 @@
 	  <iconEmuelec>./_inc/icons/Emuelec.png</iconEmuelec>
     </menuIcons>
 	
-    <menuTextEdit name="menutextedit">
-      <inactive>./_inc/textinput_ninepatch.png</inactive>
-      <active>./_inc/textinput_ninepatch_active.png</active>
-    </menuTextEdit>
+
 	
 </view> 
 

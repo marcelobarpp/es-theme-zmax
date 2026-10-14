@@ -162,8 +162,8 @@
 		<zIndex>35</zIndex>
 	  </image>
 	 <image name="character10" extra="true">
-		<pos>0.67 0.21</pos>
-		<maxSize>0.61 0.61</maxSize>
+		<pos>0.67 0.25</pos>
+		<maxSize>0.59 0.59</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/chars/char257.gif</path>
 		<zIndex>35</zIndex>
@@ -306,13 +306,6 @@
        <path>./_inc/logos/${system.theme}.png</path>
 	  <zIndex>19</zIndex>
 	</image>
- <video name="video2" extra="true">
-         <origin>0 0</origin>
-		<pos>0.0 0.0</pos>
-	    <maxSize>1 0.4</maxSize>
-         <path>./_inc/video2.mp4</path>
-		 <zIndex>68</zIndex>
-      </video>
    <image name="md_thumbnail"> 
 		<origin>0 0</origin>
 		<pos>0.885 0.21</pos>
@@ -362,8 +355,8 @@
 		<zIndex>35</zIndex>
 	  </image>
 	 <image name="character10" extra="true">
-		<pos>0.67 0.21</pos>
-		<maxSize>0.61 0.61</maxSize>
+		<pos>0.67 0.25</pos>
+		<maxSize>0.59 0.59</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/chars/char257.gif</path>
 		<zIndex>35</zIndex>
