@@ -142,14 +142,14 @@
 	  </image>
 	 <image name="character02a" extra="true">
 		<zIndex>310</zIndex>
-		<pos>1 0.3</pos>
+		<pos>1 0.32</pos>
 		<maxSize>0.62 0.62</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/chars/char265a.gif</path>
 	  </image>
 	 <image name="character02" extra="true">
 		<zIndex>310</zIndex>
-		<pos>-3  0.3</pos>
+		<pos>-3  0.32</pos>
 		<maxSize>0.62 0.62</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/chars/char265.gif</path>
@@ -335,14 +335,14 @@
 	  </image>
 	 <image name="character02a" extra="true">
 		<zIndex>310</zIndex>
-		<pos>1 0.3</pos>
+		<pos>1 0.32</pos>
 		<maxSize>0.62 0.62</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/chars/char265a.gif</path>
 	  </image>
 	 <image name="character02" extra="true">
 		<zIndex>310</zIndex>
-		<pos>-3  0.3</pos>
+		<pos>-3  0.32</pos>
 		<maxSize>0.62 0.62</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/chars/char265.gif</path>
