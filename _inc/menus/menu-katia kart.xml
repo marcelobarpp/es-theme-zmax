@@ -80,7 +80,7 @@
 		 <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>  
-         <path>./_inc/hyper008a.png</path>
+         <path>./_inc/hyper0010a.png</path>
          <zIndex>422</zIndex>
       </image>
  <video name="video2" extra="true">
@@ -253,7 +253,7 @@
 		 <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>  
-         <path>./_inc/hyper008a.png</path>
+         <path>./_inc/hyper0010a.png</path>
          <zIndex>422</zIndex>
       </image>
  <video name="video2" extra="true">
