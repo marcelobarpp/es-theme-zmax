@@ -30,7 +30,7 @@ https://retrobat.forumgaming.fr/f4-themes
 
 
 ## Info
-Using public domain resources and information—such as images and videos—found online, I developed this theme over the course of several updates, with the help of AI. It is now available in the download sections for both RetroBat and Batocera. I would like to thank the administration teams (lorenzolamas and getupor) for their warm welcome and for sharing this project, allowing everyone to enjoy it! If you come across any errors, please leave a comment so I can look into them; since I developed this entirely in my spare time without any financial support—and given the large number of files and settings involved—it is possible that something may have been overlooked. Thank you all for your understanding.
+Using public domain resources and information—such as images and videos—found online, I developed this theme over time through several updates, with the help of AI. It is now available in the download sections for both RetroBat and Batocera. I would like to thank the administration teams (lorenzolamas and getupor) for their warm welcome and for sharing this project, allowing everyone to enjoy it! If you come across any errors, please leave a comment so I can look into them; since I developed this entirely in my spare time without any financial support—and given the large number of files and settings involved—it is possible that something may have been overlooked. Thank you all for your understanding.
 
 ## Install
 
