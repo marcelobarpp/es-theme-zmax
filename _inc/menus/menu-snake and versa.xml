@@ -145,14 +145,14 @@
 		<pos>1 0.32</pos>
 		<maxSize>0.62 0.62</maxSize>
 		<color>ffffff</color>
-		<path>./_inc/chars/char265a.gif</path>
+		<path>./_inc/chars/char266a.gif</path>
 	  </image>
 	 <image name="character02" extra="true">
 		<zIndex>310</zIndex>
 		<pos>-3  0.32</pos>
 		<maxSize>0.62 0.62</maxSize>
 		<color>ffffff</color>
-		<path>./_inc/chars/char265.gif</path>
+		<path>./_inc/chars/char266.gif</path>
 	  </image>
 	 <image name="character3" extra="true">
 		<pos>0.09 0.27</pos>
@@ -338,14 +338,14 @@
 		<pos>1 0.32</pos>
 		<maxSize>0.62 0.62</maxSize>
 		<color>ffffff</color>
-		<path>./_inc/chars/char265a.gif</path>
+		<path>./_inc/chars/char266a.gif</path>
 	  </image>
 	 <image name="character02" extra="true">
 		<zIndex>310</zIndex>
 		<pos>-3  0.32</pos>
 		<maxSize>0.62 0.62</maxSize>
 		<color>ffffff</color>
-		<path>./_inc/chars/char265.gif</path>
+		<path>./_inc/chars/char266.gif</path>
 	  </image>
 	 <image name="character3" extra="true">
 		<pos>0.09 0.27</pos>
