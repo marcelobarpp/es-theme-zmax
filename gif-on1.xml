@@ -1,0 +1,37 @@
+<theme>
+   <formatVersion>7</formatVersion>
+
+<view name="system">
+
+
+
+
+	 <image name="character5" extra="true">
+
+
+
+
+     </image> 
+
+
+</view>
+
+
+
+<view name="basic, detailed, video, grid, gamecarousel">
+	
+
+
+
+	 <image name="character5" extra="true">
+
+
+
+     </image> 
+
+
+	  
+	</view>
+
+
+</theme>
