@@ -1,0 +1,20 @@
+<theme>
+   <formatVersion>7</formatVersion>
+<view name="system, systemcarousel">
+<text name="systemInfo">
+     <color>ff6600</color>
+      </text> 
+	      <helpsystem name="help">
+	 <textColor>ff6600</textColor>
+     </helpsystem>
+      </view>
+<view name=" gamecarousel">
+      <text name="md_name">
+     <color>ff6600</color>
+      </text>
+	      <helpsystem name="help">
+	 <textColor>ff6600</textColor>
+     </helpsystem>
+   </view>
+</theme>
+
