@@ -64,23 +64,23 @@
    <include subset="systems and lists" name="carousel jury-vert">./_inc/menus/menu-jury-vert.xml</include>
    <include subset="systems and lists" name="carousel subzero-vert">./_inc/menus/menu-subzero-vert.xml</include>
 
-   <include subset="gif motion" name="off">./gif-off.xml</include>
-   <include subset="gif motion" name="jotaro kujo">./_inc/char motions/jotaro kujo.xml</include>
-   <include subset="gif motion" name="batman">./_inc/char motions/batman.xml</include>
-   <include subset="gif motion" name="litchi faye-ling">./_inc/char motions/litchi faye-ling.xml</include>
-   <include subset="gif motion" name="ethan (take over)">./_inc/char motions/ethan (take over).xml</include>
-   <include subset="gif motion" name="ramlethal valentine">./_inc/char motions/ramlethal valentine.xml</include>
-   <include subset="gif motion" name="bridget">./_inc/char motions/bridget.xml</include>
-   <include subset="gif motion" name="scorpion">./_inc/char motions/scorpion.xml</include>
-   <include subset="gif motion" name="rachel alucard">./_inc/char motions/rachel alucard.xml</include>
-   <include subset="gif motion" name="jack-o valentine">./_inc/char motions/jack-o valentine.xml</include>
-   <include subset="gif motion" name="slayer">./_inc/char motions/slayer.xml</include>
-   <include subset="gif motion" name="r-shobu and arabian">./_inc/char motions/r-shobu and arabian.xml</include>
-   <include subset="gif motion" name="luna himek">./_inc/char motions/luna himek.xml</include>
-   <include subset="gif motion" name="cadillac and dinosaurs">./_inc/char motions/cadillac and dinosaurs.xml</include>
+   <include subset="bot motion" name="off">./gif-off.xml</include>
+   <include subset="bot motion" name="jotaro kujo">./_inc/char motions/jotaro kujo.xml</include>
+   <include subset="bot motion" name="batman">./_inc/char motions/batman.xml</include>
+   <include subset="bot motion" name="litchi faye-ling">./_inc/char motions/litchi faye-ling.xml</include>
+   <include subset="bot motion" name="ethan (take over)">./_inc/char motions/ethan (take over).xml</include>
+   <include subset="bot motion" name="ramlethal valentine">./_inc/char motions/ramlethal valentine.xml</include>
+   <include subset="bot motion" name="bridget">./_inc/char motions/bridget.xml</include>
+   <include subset="bot motion" name="scorpion">./_inc/char motions/scorpion.xml</include>
+   <include subset="bot motion" name="rachel alucard">./_inc/char motions/rachel alucard.xml</include>
+   <include subset="bot motion" name="jack-o valentine">./_inc/char motions/jack-o valentine.xml</include>
+   <include subset="bot motion" name="slayer">./_inc/char motions/slayer.xml</include>
+   <include subset="bot motion" name="r-shobu and arabian">./_inc/char motions/r-shobu and arabian.xml</include>
+   <include subset="bot motion" name="luna himek">./_inc/char motions/luna himek.xml</include>
+   <include subset="bot motion" name="cadillac and dinosaurs">./_inc/char motions/cadillac and dinosaurs.xml</include>
 
-   <include subset="gif additional" name="off">./gif-off1.xml</include>
-   <include subset="gif additional" name="on">./gif-on1.xml</include>
+   <include subset="bot additional" name="off">./gif-off1.xml</include>
+   <include subset="bot additional" name="on">./gif-on1.xml</include>
 
 
    <include subset="Animation" name="off">./Animation-off.xml</include>
