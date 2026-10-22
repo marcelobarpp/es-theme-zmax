@@ -141,7 +141,7 @@
       </image>
 	 <image name="character3" extra="true">
 		<pos>0.05 0.24</pos>
-		<maxSize>0.63 0.63</maxSize>
+		<maxSize>0.67 0.67</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/chars/char62.gif</path>
 		<zIndex>33</zIndex>
@@ -342,7 +342,7 @@
       </text>
 	 <image name="character3" extra="true">
 		<pos>0.05 0.24</pos>
-		<maxSize>0.63 0.63</maxSize>
+		<maxSize>0.67 0.67</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/chars/char62.gif</path>
 		<zIndex>33</zIndex>
