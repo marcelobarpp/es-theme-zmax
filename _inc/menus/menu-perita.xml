@@ -99,15 +99,6 @@
          <path>./_inc/video03.mp4</path>
 		 <zIndex>10</zIndex>
       </video>
-<image name="consoles001" extra="true">
-		<pos>0.73 0.73</pos>
-	    <maxSize>0.1 0.1</maxSize>
-		<color>ffffff</color>
-		<path>./_inc/retro/default.png</path>
-		<path>./_inc/retro/${system.theme}.svg</path>
-		<path>./_inc/retro/${system.theme}.png</path>
-		<zIndex>25</zIndex>
-	  </image>
 	    <image name="marqueta1" extra="true">
 <pos>0.72 0.158</pos>
 <maxSize>0.12 0.12</maxSize>
@@ -194,15 +185,6 @@
    	      <size>0.00 0.15</size>
 		<zIndex>11</zIndex>
 	      </image> 
-<image name="consoles001" extra="true">
-		<pos>0.73 0.73</pos>
-	    <maxSize>0.1 0.1</maxSize>
-		<color>ffffff</color>
-		<path>./_inc/retro/default.png</path>
-		<path>./_inc/retro/${system.theme}.svg</path>
-		<path>./_inc/retro/${system.theme}.png</path>
-		<zIndex>25</zIndex>
-	  </image>
 	    <image name="md_marquee" extra="true">
 <pos>0.501 0.06</pos>
 <maxSize>0.222 0.222</maxSize>
