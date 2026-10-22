@@ -67,6 +67,7 @@
    <include subset="bot motion" name="off">./gif-off.xml</include>
    <include subset="bot motion" name="jotaro kujo">./_inc/char motions/jotaro kujo.xml</include>
    <include subset="bot motion" name="batman">./_inc/char motions/batman.xml</include>
+   <include subset="bot motion" name="gordeau">./_inc/char motions/gordeau.xml</include>
    <include subset="bot motion" name="litchi faye-ling">./_inc/char motions/litchi faye-ling.xml</include>
    <include subset="bot motion" name="ethan (take over)">./_inc/char motions/ethan (take over).xml</include>
    <include subset="bot motion" name="ramlethal valentine">./_inc/char motions/ramlethal valentine.xml</include>
