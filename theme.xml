@@ -69,6 +69,7 @@
    <include subset="bot motion" name="jotaro kujo">./_inc/char motions/jotaro kujo.xml</include>
    <include subset="bot motion" name="batman">./_inc/char motions/batman.xml</include>
    <include subset="bot motion" name="gordeau">./_inc/char motions/gordeau.xml</include>
+   <include subset="bot motion" name="volverine">./_inc/char motions/volverine.xml</include>
    <include subset="bot motion" name="platinum the trinity">./_inc/char motions/platinum the trinity.xml</include>
    <include subset="bot motion" name="sonic">./_inc/char motions/sonic.xml</include>
    <include subset="bot motion" name="may (guilty Gear)">./_inc/char motions/may (guilty Gear).xml</include>
