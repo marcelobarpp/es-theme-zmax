@@ -29,6 +29,7 @@
    <include subset="systems and lists" name="poison">./_inc/menus/menu-poison.xml</include>
    <include subset="systems and lists" name="metal slug">./_inc/menus/menu-metal slug.xml</include>
 
+   <include subset="systems and lists" name="zangief">./_inc/menus/menu-zangief.xml</include>
    <include subset="systems and lists" name="ralf">./_inc/menus/menu-ralf.xml</include>
    <include subset="systems and lists" name="raiden">./_inc/menus/menu-raiden.xml</include>
    <include subset="systems and lists" name="blaze fielding">./_inc/menus/menu-blaze fielding.xml</include>
