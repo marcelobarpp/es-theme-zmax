@@ -76,6 +76,7 @@
    <include subset="bot motion" name="platinum the trinity">./_inc/char motions/platinum the trinity.xml</include>
    <include subset="bot motion" name="sonic">./_inc/char motions/sonic.xml</include>
    <include subset="bot motion" name="sonic and tails">./_inc/char motions/sonic and tails.xml</include>
+   <include subset="bot motion" name="tails">./_inc/char motions/tails.xml</include>
    <include subset="bot motion" name="may (guilty Gear)">./_inc/char motions/may (guilty Gear).xml</include>
    <include subset="bot motion" name="k'">./_inc/char motions/k.xml</include>
    <include subset="bot motion" name="litchi faye-ling">./_inc/char motions/litchi faye-ling.xml</include>

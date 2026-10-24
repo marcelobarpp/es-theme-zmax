@@ -297,10 +297,10 @@
 <visible>false</visible>
 	  </image>
 
-	 <image name="sonic and tails02" extra="true">
+	 <image name="tails02" extra="true">
 <visible>false</visible> 
 	  </image>
-	 <image name="sonic and tails02a" extra="true">
+	 <image name="tails02a" extra="true">
 <visible>false</visible>
 	  </image>	
 </view>  
