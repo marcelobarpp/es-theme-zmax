@@ -1,0 +1,63 @@
+<theme>
+   <formatVersion>7</formatVersion>
+
+<view name="system">
+
+	 <image name="k03a" extra="true">
+	    <storyboard>
+        <animation property="opacity" from="0" to="1" duration="350" mode="linear"/>
+        <animation property="x" from="-4" begin="0" duration="30000" autoreverse="false" repeat="0" mode="easyInOut"/>
+	 </storyboard>
+	  </image>
+	 <image name="k03" extra="true">
+	    <storyboard>
+        <animation property="opacity" from="0" to="1" duration="350" mode="linear"/>
+        <animation property="x" from="2" begin="0" duration="30000" autoreverse="false" repeat="0" mode="easyInOut"/>
+	 </storyboard>
+	  </image>
+	 <image name="k03a" extra="true">
+		<zIndex>310</zIndex>
+		<pos>1 0.38</pos>
+		<maxSize>0.56 0.56</maxSize>
+		<color>ffffff</color>
+		<path>./_inc/chars/char230.gif</path>
+	  </image>
+	 <image name="k03" extra="true">
+		<zIndex>310</zIndex>
+		<pos>-3  0.38</pos>
+		<maxSize>0.56 0.56</maxSize>
+		<color>ffffff</color>
+		<path>./_inc/chars/char230a.gif</path>
+	  </image>
+</view>
+
+<view name=" gamecarousel">
+
+	 <image name="k03a" extra="true">
+	    <storyboard>
+        <animation property="opacity" from="0" to="1" duration="350" mode="linear"/>
+        <animation property="x" from="-4" begin="0" duration="30000" autoreverse="false" repeat="0" mode="easyInOut"/>
+	 </storyboard>
+	  </image>
+	 <image name="k03" extra="true">
+	    <storyboard>
+        <animation property="opacity" from="0" to="1" duration="350" mode="linear"/>
+        <animation property="x" from="2" begin="0" duration="30000" autoreverse="false" repeat="0" mode="easyInOut"/>
+	 </storyboard>
+	  </image>
+	 <image name="k03a" extra="true">
+		<zIndex>310</zIndex>
+		<pos>1 0.38</pos>
+		<maxSize>0.56 0.56</maxSize>
+		<color>ffffff</color>
+		<path>./_inc/chars/char230.gif</path>
+	  </image>
+	 <image name="k03" extra="true">
+		<zIndex>310</zIndex>
+		<pos>-3  0.38</pos>
+		<maxSize>0.56 0.56</maxSize>
+		<color>ffffff</color>
+		<path>./_inc/chars/char230a.gif</path>
+	  </image>
+	</view>
+</theme>
