@@ -141,15 +141,15 @@
 		<zIndex>314</zIndex>
 	  </image>
 	 <image name="character3" extra="true">
-		<pos>0.12 0.3</pos>
-		<maxSize>0.55 0.55</maxSize>
+		<pos>0.12 0.25</pos>
+		<maxSize>0.6 0.6</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/chars/char169.gif</path>
 		<zIndex>35</zIndex>
 	  </image>
 	 <image name="character10" extra="true">
-		<pos>0.73 0.3</pos>
-		<maxSize>0.52 0.52</maxSize>
+		<pos>0.73 0.27</pos>
+		<maxSize>0.56 0.56</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/chars/char79a.gif</path>
 		<zIndex>35</zIndex>
@@ -320,15 +320,15 @@
 		<zIndex>314</zIndex>
 	  </image>
 	 <image name="character3" extra="true">
-		<pos>0.12 0.3</pos>
-		<maxSize>0.55 0.55</maxSize>
+		<pos>0.12 0.25</pos>
+		<maxSize>0.6 0.6</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/chars/char169.gif</path>
 		<zIndex>35</zIndex>
 	  </image>
 	 <image name="character10" extra="true">
-		<pos>0.73 0.3</pos>
-		<maxSize>0.52 0.52</maxSize>
+		<pos>0.73 0.27</pos>
+		<maxSize>0.56 0.56</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/chars/char79a.gif</path>
 		<zIndex>35</zIndex>
