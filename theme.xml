@@ -15,61 +15,61 @@
 
 
    <include subset="systems and lists" name="tutorial">./_inc/menus/menu-tutorial.xml</include>
-   <include subset="systems and lists" name="subzero">./_inc/menus/menu-subzero.xml</include>
-   <include subset="systems and lists" name="sakura">./_inc/menus/menu-sakura.xml</include>
-   <include subset="systems and lists" name="robux">./_inc/menus/menu-robux.xml</include>
-   <include subset="systems and lists" name="jury">./_inc/menus/menu-jury.xml</include>
+   <include subset="systems and lists" name="scene 1=subzero">./_inc/menus/menu-subzero.xml</include>
+   <include subset="systems and lists" name="scene 1=sakura">./_inc/menus/menu-sakura.xml</include>
+   <include subset="systems and lists" name="scene 1=robux">./_inc/menus/menu-robux.xml</include>
+   <include subset="systems and lists" name="scene 1=jury">./_inc/menus/menu-jury.xml</include>
 
-   <include subset="systems and lists" name="mortal kombat">./_inc/menus/menu-mortal kombat.xml</include>
-   <include subset="systems and lists" name="street fighter">./_inc/menus/menu-street fighter.xml</include>
-   <include subset="systems and lists" name="katie and person">./_inc/menus/menu-katie and person.xml</include>
-   <include subset="systems and lists" name="girls">./_inc/menus/menu-bot girl.xml</include>
+   <include subset="systems and lists" name="scene 2=mortal kombat">./_inc/menus/menu-mortal kombat.xml</include>
+   <include subset="systems and lists" name="scene 2=street fighter">./_inc/menus/menu-street fighter.xml</include>
+   <include subset="systems and lists" name="scene 2=katie and person">./_inc/menus/menu-katie and person.xml</include>
+   <include subset="systems and lists" name="scene 2=girls">./_inc/menus/menu-bot girl.xml</include>
 
-   <include subset="systems and lists" name="axe low">./_inc/menus/menu-axe low.xml</include>
-   <include subset="systems and lists" name="poison">./_inc/menus/menu-poison.xml</include>
-   <include subset="systems and lists" name="metal slug">./_inc/menus/menu-metal slug.xml</include>
+   <include subset="systems and lists" name="scene 3=axe low">./_inc/menus/menu-axe low.xml</include>
+   <include subset="systems and lists" name="scene 3=poison">./_inc/menus/menu-poison.xml</include>
+   <include subset="systems and lists" name="scene 3=metal slug">./_inc/menus/menu-metal slug.xml</include>
 
-   <include subset="systems and lists" name="zangief">./_inc/menus/menu-zangief.xml</include>
-   <include subset="systems and lists" name="ralf">./_inc/menus/menu-ralf.xml</include>
-   <include subset="systems and lists" name="raiden">./_inc/menus/menu-raiden.xml</include>
-   <include subset="systems and lists" name="blaze fielding">./_inc/menus/menu-blaze fielding.xml</include>
-   <include subset="systems and lists" name="yuuki terumi">./_inc/menus/menu-yuuki terumi.xml</include>
+   <include subset="systems and lists" name="scene 4=zangief">./_inc/menus/menu-zangief.xml</include>
+   <include subset="systems and lists" name="scene 4=ralf">./_inc/menus/menu-ralf.xml</include>
+   <include subset="systems and lists" name="scene 4=raiden">./_inc/menus/menu-raiden.xml</include>
+   <include subset="systems and lists" name="scene 4=blaze fielding">./_inc/menus/menu-blaze fielding.xml</include>
+   <include subset="systems and lists" name="scene 4=yuuki terumi">./_inc/menus/menu-yuuki terumi.xml</include>
 
-   <include subset="systems and lists" name="kuno">./_inc/menus/menu-kuno.xml</include>
-   <include subset="systems and lists" name="rox">./_inc/menus/menu-rox.xml</include>
-   <include subset="systems and lists" name="harley quinn">./_inc/menus/menu-harley quinn.xml</include>
-   <include subset="systems and lists" name="perita">./_inc/menus/menu-perita.xml</include>
-   <include subset="systems and lists" name="saw">./_inc/menus/menu-saw.xml</include>
+   <include subset="systems and lists" name="scene 5=kuno">./_inc/menus/menu-kuno.xml</include>
+   <include subset="systems and lists" name="scene 5=rox">./_inc/menus/menu-rox.xml</include>
+   <include subset="systems and lists" name="scene 5=harley quinn">./_inc/menus/menu-harley quinn.xml</include>
+   <include subset="systems and lists" name="scene 5=perita">./_inc/menus/menu-perita.xml</include>
+   <include subset="systems and lists" name="scene 5=saw">./_inc/menus/menu-saw.xml</include>
 
-   <include subset="systems and lists" name="dizzy">./_inc/menus/menu-dizzy.xml</include>
-   <include subset="systems and lists" name="ermac">./_inc/menus/menu-ermac.xml</include>
-   <include subset="systems and lists" name="rabbit">./_inc/menus/menu-rabbit.xml</include>
-   <include subset="systems and lists" name="michael myers">./_inc/menus/menu-michael myers.xml</include>
+   <include subset="systems and lists" name="scene 6=dizzy">./_inc/menus/menu-dizzy.xml</include>
+   <include subset="systems and lists" name="scene 6=ermac">./_inc/menus/menu-ermac.xml</include>
+   <include subset="systems and lists" name="scene 6=rabbit">./_inc/menus/menu-rabbit.xml</include>
+   <include subset="systems and lists" name="scene 6=michael myers">./_inc/menus/menu-michael myers.xml</include>
 
-   <include subset="systems and lists" name="robux and steve">./_inc/menus/menu-steve and robux.xml</include>
-   <include subset="systems and lists" name="jonesy and skull">./_inc/menus/menu-jonesy and skull.xml</include>
-   <include subset="systems and lists" name="harley and rox">./_inc/menus/menu-harley and rox.xml</include>
-   <include subset="systems and lists" name="perita and skully">./_inc/menus/menu-skully and perita.xml</include>
-   <include subset="systems and lists" name="kuno and hatsune">./_inc/menus/menu-kuno and hatsune.xml</include>
-   <include subset="systems and lists" name="katia kart">./_inc/menus/menu-katia kart.xml</include>
-   <include subset="systems and lists" name="magik and harley">./_inc/menus/menu-magik and harley.xml</include>
-   <include subset="systems and lists" name="john wick and maki">./_inc/menus/menu-wick and maki.xml</include>
+   <include subset="systems and lists" name="scene 7=robux and steve">./_inc/menus/menu-steve and robux.xml</include>
+   <include subset="systems and lists" name="scene 7=jonesy and skull">./_inc/menus/menu-jonesy and skull.xml</include>
+   <include subset="systems and lists" name="scene 7=harley and rox">./_inc/menus/menu-harley and rox.xml</include>
+   <include subset="systems and lists" name="scene 7=perita and skully">./_inc/menus/menu-skully and perita.xml</include>
+   <include subset="systems and lists" name="scene 7=kuno and hatsune">./_inc/menus/menu-kuno and hatsune.xml</include>
+   <include subset="systems and lists" name="scene 7=katia kart">./_inc/menus/menu-katia kart.xml</include>
+   <include subset="systems and lists" name="scene 7=magik and harley">./_inc/menus/menu-magik and harley.xml</include>
+   <include subset="systems and lists" name="scene 7=john wick and maki">./_inc/menus/menu-wick and maki.xml</include>
 
 
-   <include subset="systems and lists" name="harley and magik">./_inc/menus/menu-harley and magik.xml</include>
-   <include subset="systems and lists" name="demi and rox">./_inc/menus/menu-demi and rox.xml</include>
-   <include subset="systems and lists" name="sonic and amy rose">./_inc/menus/menu-sonic and amy rose.xml</include>
-   <include subset="systems and lists" name="marshmello and demi">./_inc/menus/menu-marshmello and demi.xml</include>
-   <include subset="systems and lists" name="ikonik and harley">./_inc/menus/menu-ikonik and harley.xml</include>
-   <include subset="systems and lists" name="ruby and marshmello">./_inc/menus/menu-ruby and marshmello.xml</include>
-   <include subset="systems and lists" name="snake and versa">./_inc/menus/menu-snake and versa.xml</include>
-   <include subset="systems and lists" name="jury and ryu">./_inc/menus/menu-jury and ryu.xml</include>
-   <include subset="systems and lists" name="poison and ken">./_inc/menus/menu-poison and ken.xml</include>
-   <include subset="systems and lists" name="sakura and dan">./_inc/menus/menu-sakura and dan.xml</include>
-   <include subset="systems and lists" name="zombies">./_inc/menus/menu-zombies.xml</include>
+   <include subset="systems and lists" name="scene 8=harley and magik">./_inc/menus/menu-harley and magik.xml</include>
+   <include subset="systems and lists" name="scene 8=demi and rox">./_inc/menus/menu-demi and rox.xml</include>
+   <include subset="systems and lists" name="scene 8=sonic and amy rose">./_inc/menus/menu-sonic and amy rose.xml</include>
+   <include subset="systems and lists" name="scene 8=marshmello and demi">./_inc/menus/menu-marshmello and demi.xml</include>
+   <include subset="systems and lists" name="scene 8=ikonik and harley">./_inc/menus/menu-ikonik and harley.xml</include>
+   <include subset="systems and lists" name="scene 8=ruby and marshmello">./_inc/menus/menu-ruby and marshmello.xml</include>
+   <include subset="systems and lists" name="scene 8=snake and versa">./_inc/menus/menu-snake and versa.xml</include>
+   <include subset="systems and lists" name="scene 8=jury and ryu">./_inc/menus/menu-jury and ryu.xml</include>
+   <include subset="systems and lists" name="scene 8=poison and ken">./_inc/menus/menu-poison and ken.xml</include>
+   <include subset="systems and lists" name="scene 8=sakura and dan">./_inc/menus/menu-sakura and dan.xml</include>
+   <include subset="systems and lists" name="scene 8=zombies">./_inc/menus/menu-zombies.xml</include>
 
-   <include subset="systems and lists" name="carousel jury-vert">./_inc/menus/menu-jury-vert.xml</include>
-   <include subset="systems and lists" name="carousel subzero-vert">./_inc/menus/menu-subzero-vert.xml</include>
+   <include subset="systems and lists" name="vertical screen=jury">./_inc/menus/menu-jury-vert.xml</include>
+   <include subset="systems and lists" name="vertical screen=subzero">./_inc/menus/menu-subzero-vert.xml</include>
 
    <include subset="bot motion" name="off">./gif-off.xml</include>
    <include subset="bot motion" name="jotaro kujo">./_inc/char motions/jotaro kujo.xml</include>
