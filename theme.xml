@@ -63,6 +63,9 @@
    <include subset="systems and lists" name="ikonik and harley">./_inc/menus/menu-ikonik and harley.xml</include>
    <include subset="systems and lists" name="ruby and marshmello">./_inc/menus/menu-ruby and marshmello.xml</include>
    <include subset="systems and lists" name="snake and versa">./_inc/menus/menu-snake and versa.xml</include>
+   <include subset="systems and lists" name="jury and ryu">./_inc/menus/menu-jury and ryu.xml</include>
+   <include subset="systems and lists" name="poison and ken">./_inc/menus/menu-poison and ken.xml</include>
+   <include subset="systems and lists" name="sakura and dan">./_inc/menus/menu-sakura and dan.xml</include>
    <include subset="systems and lists" name="zombies">./_inc/menus/menu-zombies.xml</include>
 
    <include subset="systems and lists" name="carousel jury-vert">./_inc/menus/menu-jury-vert.xml</include>
