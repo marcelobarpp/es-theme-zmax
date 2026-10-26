@@ -198,31 +198,31 @@
    <include subset="Iconset" name="ps5">./_inc/iconsets/dualsense.xml</include>
 
 	
-   <include subset="Sound" name="Default">./_inc/sound/1up.xml</include>
-   <include subset="Sound" name="Off">./_inc/sound/off.xml</include>
-   <include subset="Sound" name="Comic">./_inc/sound/comic.xml</include>
-   <include subset="Sound" name="Hyperspin">./_inc/sound/hyperspin.xml</include>
-   <include subset="Sound" name="Roleta">./_inc/sound/roleta.xml</include>
-   <include subset="Sound" name="Classic">./_inc/sound/classic.xml</include>
-   <include subset="Sound" name="Button">./_inc/sound/Button.xml</include>
-   <include subset="Sound" name="Cursor">./_inc/sound/cursor.xml</include>
-   <include subset="Sound" name="Golf">./_inc/sound/Golf.xml</include>
-   <include subset="Sound" name="Keiba">./_inc/sound/Keiba.xml</include>
-   <include subset="Sound" name="Mario">./_inc/sound/mario.xml</include>
-   <include subset="Sound" name="Message">./_inc/sound/Message.xml</include>
-   <include subset="Sound" name="Monopoly">./_inc/sound/Monopoly.xml</include>
-   <include subset="Sound" name="Phone">./_inc/sound/Phone.xml</include>
-   <include subset="Sound" name="Save">./_inc/sound/Save.xml</include>
-   <include subset="Sound" name="Slide">./_inc/sound/slide.xml</include>
-   <include subset="Sound" name="Spin">./_inc/sound/Spin.xml</include>
-   <include subset="Sound" name="Yoshi">./_inc/sound/Yoshi.xml</include>
-   <include subset="Sound" name="Moneda">./_inc/sound/Yoshi2.xml</include>
-   <include subset="Sound" name="Ring">./_inc/sound/ring.xml</include>
-   <include subset="Sound" name="Zumb">./_inc/sound/zumb.xml</include>
-   <include subset="Sound" name="Tone">./_inc/sound/tone.xml</include>
-   <include subset="Sound" name="Giata">./_inc/sound/giata.xml</include>
-   <include subset="Sound" name="Scroll">./_inc/sound/scroll.xml</include>
-   <include subset="Sound" name="Line">./_inc/sound/line.xml</include>
+   <include subset="Sound" name="off">./_inc/sound/off.xml</include>
+   <include subset="Sound" name="1up">./_inc/sound/1up.xml</include>
+   <include subset="Sound" name="comic">./_inc/sound/comic.xml</include>
+   <include subset="Sound" name="hyperspin">./_inc/sound/hyperspin.xml</include>
+   <include subset="Sound" name="roleta">./_inc/sound/roleta.xml</include>
+   <include subset="Sound" name="classic">./_inc/sound/classic.xml</include>
+   <include subset="Sound" name="button">./_inc/sound/button.xml</include>
+   <include subset="Sound" name="cursor">./_inc/sound/cursor.xml</include>
+   <include subset="Sound" name="golf">./_inc/sound/golf.xml</include>
+   <include subset="Sound" name="keiba">./_inc/sound/keiba.xml</include>
+   <include subset="Sound" name="mario">./_inc/sound/mario.xml</include>
+   <include subset="Sound" name="message">./_inc/sound/message.xml</include>
+   <include subset="Sound" name="monopoly">./_inc/sound/monopoly.xml</include>
+   <include subset="Sound" name="phone">./_inc/sound/phone.xml</include>
+   <include subset="Sound" name="save">./_inc/sound/save.xml</include>
+   <include subset="Sound" name="slide">./_inc/sound/slide.xml</include>
+   <include subset="Sound" name="spin">./_inc/sound/spin.xml</include>
+   <include subset="Sound" name="yoshi">./_inc/sound/yoshi.xml</include>
+   <include subset="Sound" name="yoshi2">./_inc/sound/yoshi2.xml</include>
+   <include subset="Sound" name="ring">./_inc/sound/ring.xml</include>
+   <include subset="Sound" name="zumb">./_inc/sound/zumb.xml</include>
+   <include subset="Sound" name="tone">./_inc/sound/tone.xml</include>
+   <include subset="Sound" name="giata">./_inc/sound/giata.xml</include>
+   <include subset="Sound" name="scroll">./_inc/sound/scroll.xml</include>
+   <include subset="Sound" name="line">./_inc/sound/line.xml</include>
    	
    <include subset="Shader" name="default">./art/sistemas/shader/off.xml</include>
    <include subset="Shader" name="CRT">./art/sistemas/shader/crt.xml</include>
