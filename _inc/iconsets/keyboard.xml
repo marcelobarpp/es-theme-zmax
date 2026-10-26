@@ -7,12 +7,12 @@
 			<iconUpDown>./keyboard/updown.png</iconUpDown>
 			<iconLeftRight>./keyboard/leftright.png</iconLeftRight>
 			<iconUpDownLeftRight>./keyboard/all.png</iconUpDownLeftRight>
-			<iconA>./keyboard/x.png</iconA>
-			<iconB>./keyboard/z.png</iconB>
-			<iconX>./keyboard/a.png</iconX>
+			<iconA>./keyboard/z.png</iconA>
+			<iconB>./keyboard/x.png</iconB>
+			<iconX>./keyboard/q.png</iconX>
 			<iconY>./keyboard/s.png</iconY>
 			<iconStart>./keyboard/enter.png</iconStart>
-			<iconSelect>./keyboard/rshift.png</iconSelect>
+			<iconSelect>./keyboard/back.png</iconSelect>
 		</helpsystem>		
 	</view>
 	
