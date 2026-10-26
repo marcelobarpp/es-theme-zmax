@@ -4,17 +4,11 @@
 <text name="systemInfo">
      <glowColor>fff200</glowColor>
       </text> 
-	      <helpsystem name="help">
-     <glowColor>fff200</glowColor>
-     </helpsystem>
       </view>
 <view name=" gamecarousel">
       <text name="md_name">
      <glowColor>fff200</glowColor>
       </text>
-	      <helpsystem name="help">
-     <glowColor>fff200</glowColor>
-     </helpsystem>
    </view>
 </theme>
 

@@ -3,13 +3,9 @@
 <view name="system, systemcarousel">
 <text name="systemInfo">
       </text> 
-	      <helpsystem name="help">
-     </helpsystem>
       </view>
 <view name=" gamecarousel">
       <text name="md_name">
       </text>
-	      <helpsystem name="help">
-     </helpsystem>
    </view>
 </theme>
