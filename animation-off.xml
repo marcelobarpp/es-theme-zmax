@@ -18,7 +18,12 @@
          <image name="pointer01" extra="true">
          </image>
 
-
+	 <image name="character06" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="character07" extra="true">
+<visible>false</visible> 
+	  </image>
 
        </view>
 
@@ -30,7 +35,12 @@
          <image name="pointer01" extra="true">
          </image>
 
-
+	 <image name="character06" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="character07" extra="true">
+<visible>false</visible> 
+	  </image>
 	</view>
 
 </theme>
