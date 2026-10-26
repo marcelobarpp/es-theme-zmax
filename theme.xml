@@ -34,6 +34,7 @@
    <include subset="systems and lists" name="scene 4=raiden">./_inc/menus/menu-raiden.xml</include>
    <include subset="systems and lists" name="scene 4=blaze fielding">./_inc/menus/menu-blaze fielding.xml</include>
    <include subset="systems and lists" name="scene 4=yuuki terumi">./_inc/menus/menu-yuuki terumi.xml</include>
+   <include subset="systems and lists" name="scene 4=chang koehan">./_inc/menus/menu-chang koehan.xml</include>
 
    <include subset="systems and lists" name="scene 5=kuno">./_inc/menus/menu-kuno.xml</include>
    <include subset="systems and lists" name="scene 5=rox">./_inc/menus/menu-rox.xml</include>
