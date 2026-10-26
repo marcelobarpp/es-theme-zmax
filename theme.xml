@@ -195,6 +195,9 @@
    <include subset="Iconset" name="PSX Alt">./_inc/iconsets/psx1.xml</include>
    <include subset="Iconset" name="SNES Alt">./_inc/iconsets/snesalt.xml</include>
    <include subset="Iconset" name="Keyboard">./_inc/iconsets/keyboard.xml</include>
+   <include subset="Iconset" name="oculus">./_inc/iconsets/oculus.xml</include>
+   <include subset="Iconset" name="ps5">./_inc/iconsets/dualsense.xml</include>
+
 	
    <include subset="Sound" name="Default">./_inc/sound/1up.xml</include>
    <include subset="Sound" name="Off">./_inc/sound/off.xml</include>

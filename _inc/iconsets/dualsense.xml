@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	
+	<view name="menu, system, basic, detailed, video, grid, gamecarousel">
+		<helpsystem name="help">
+			<iconColor>FFFFFFFF</iconColor>
+			<iconUpDown>./dualsense/updown.svg</iconUpDown>
+			<iconLeftRight>./dualsense/leftright.svg</iconLeftRight>
+			<iconUpDownLeftRight>./dualsense/all.svg</iconUpDownLeftRight>
+			<iconA>./dualsense/a.svg</iconA>
+			<iconB>./dualsense/b.svg</iconB>
+			<iconX>./dualsense/x.svg</iconX>
+			<iconY>./dualsense/y.svg</iconY>
+			<iconL>./dualsense/l.svg</iconL>
+			<iconR>./dualsense/r.svg</iconR>
+			<iconStart>./dualsense/start.svg</iconStart>
+			<iconSelect>./dualsense/select.svg</iconSelect>
+		</helpsystem>		
+	</view>
+	
+</theme>

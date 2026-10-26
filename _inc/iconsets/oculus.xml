@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	
+	<view name="menu, system, basic, detailed, video, grid, gamecarousel">
+		<helpsystem name="help">
+			<iconColor>FFFFFFFF</iconColor>
+			<iconUpDown>./oculus/updown.svg</iconUpDown>
+			<iconLeftRight>./oculus/leftright.svg</iconLeftRight>
+			<iconUpDownLeftRight>./oculus/all.svg</iconUpDownLeftRight>
+			<iconA>./oculus/a.svg</iconA>
+			<iconB>./oculus/b.svg</iconB>
+			<iconX>./oculus/x.svg</iconX>
+			<iconY>./oculus/y.svg</iconY>
+			<iconL>./oculus/l.svg</iconL>
+			<iconR>./oculus/r.svg</iconR>
+			<iconStart>./oculus/start.svg</iconStart>
+			<iconSelect>./oculus/select.svg</iconSelect>
+		</helpsystem>		
+	</view>
+	
+</theme>

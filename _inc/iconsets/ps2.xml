@@ -6,7 +6,7 @@
 			<iconColor>FFFFFFFF</iconColor>
 			<iconUpDown>./ps2/updown.png</iconUpDown>
 			<iconLeftRight>./ps2/leftright.png</iconLeftRight>
-			<iconUpDownLeftRight>./ps21/all.png</iconUpDownLeftRight>
+			<iconUpDownLeftRight>./ps2/all.png</iconUpDownLeftRight>
 			<iconA>./ps2/a.png</iconA>
 			<iconB>./ps2/b.png</iconB>
 			<iconX>./ps2/x.png</iconX>
