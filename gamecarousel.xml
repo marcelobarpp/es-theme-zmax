@@ -302,7 +302,36 @@
 	  </image>
 	 <image name="tails02a" extra="true">
 <visible>false</visible>
-	  </image>	
+	  </image>
+
+	 <image name="venom02" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="venom02a" extra="true">
+<visible>false</visible>
+	  </image>
+
+	 <image name="spider-man02" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="spider-man02a" extra="true">
+<visible>false</visible>
+	  </image>
+
+	 <image name="captain america02" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="captain america02a" extra="true">
+<visible>false</visible>
+	  </image>
+
+	 <image name="nemesis-t02" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="nemesis-t02a" extra="true">
+<visible>false</visible>
+	  </image>
+	
 </view>  
    
    </theme>
