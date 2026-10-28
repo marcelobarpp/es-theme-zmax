@@ -132,17 +132,17 @@
 		<zIndex>314</zIndex>
 	  </image>
 	 <image name="character3" extra="true">
-		<pos>0.33 0.21</pos>
-		<maxSize>0.61 0.61</maxSize>
+		<pos>0.35 0.18</pos>
+		<maxSize>0.67 0.67</maxSize>
 		<color>ffffff</color>
-		<path>./_inc/chars/char248.gif</path>
+		<path>./_inc/chars/char245.gif</path>
 		<zIndex>35</zIndex>
 	  </image>
 	 <image name="character10" extra="true">
-		<pos>0.63 0.17</pos>
-		<maxSize>0.65 0.65</maxSize>
+		<pos>0.61 0.2</pos>
+		<maxSize>0.58 0.58</maxSize>
 		<color>ffffff</color>
-		<path>./_inc/chars/char245.gif</path>
+		<path>./_inc/chars/char248.gif</path>
 		<zIndex>35</zIndex>
 	  </image>
 </view>
@@ -293,17 +293,17 @@
 		<zIndex>314</zIndex>
 	  </image>
 	 <image name="character3" extra="true">
-		<pos>0.33 0.21</pos>
-		<maxSize>0.61 0.61</maxSize>
+		<pos>0.35 0.18</pos>
+		<maxSize>0.67 0.67</maxSize>
 		<color>ffffff</color>
-		<path>./_inc/chars/char248.gif</path>
+		<path>./_inc/chars/char245.gif</path>
 		<zIndex>35</zIndex>
 	  </image>
 	 <image name="character10" extra="true">
-		<pos>0.63 0.17</pos>
-		<maxSize>0.65 0.65</maxSize>
+		<pos>0.61 0.2</pos>
+		<maxSize>0.58 0.58</maxSize>
 		<color>ffffff</color>
-		<path>./_inc/chars/char245.gif</path>
+		<path>./_inc/chars/char248.gif</path>
 		<zIndex>35</zIndex>
 	  </image>
 	    <image name="logo" extra="true">

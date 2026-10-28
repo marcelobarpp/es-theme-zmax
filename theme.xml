@@ -50,8 +50,8 @@
    <include subset="systems and lists" name="scene 7=robux and steve">./_inc/menus/menu-steve and robux.xml</include>
    <include subset="systems and lists" name="scene 7=jonesy and skull">./_inc/menus/menu-jonesy and skull.xml</include>
    <include subset="systems and lists" name="scene 7=harley and rox">./_inc/menus/menu-harley and rox.xml</include>
-   <include subset="systems and lists" name="scene 7=perita and skully">./_inc/menus/menu-skully and perita.xml</include>
-   <include subset="systems and lists" name="scene 7=kuno and hatsune">./_inc/menus/menu-kuno and hatsune.xml</include>
+   <include subset="systems and lists" name="scene 7=skully and perita">./_inc/menus/menu-skully and perita.xml</include>
+   <include subset="systems and lists" name="scene 7=hatsune and kuno">./_inc/menus/menu-kuno and hatsune.xml</include>
    <include subset="systems and lists" name="scene 7=katia kart">./_inc/menus/menu-katia kart.xml</include>
    <include subset="systems and lists" name="scene 7=magik and harley">./_inc/menus/menu-magik and harley.xml</include>
    <include subset="systems and lists" name="scene 7=john wick and maki">./_inc/menus/menu-wick and maki.xml</include>

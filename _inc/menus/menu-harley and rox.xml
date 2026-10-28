@@ -133,9 +133,9 @@
 	  </image>
 	 <image name="character3" extra="true">
 		<pos>0.33 0.21</pos>
-		<maxSize>0.64 0.64</maxSize>
+		<maxSize>0.7 0.7</maxSize>
 		<color>ffffff</color>
-		<path>./_inc/chars/char249a.gif</path>
+		<path>./_inc/chars/char249.gif</path>
 		<zIndex>35</zIndex>
 	  </image>
 	 <image name="character10" extra="true">
@@ -294,9 +294,9 @@
 	  </image>
 	 <image name="character3" extra="true">
 		<pos>0.33 0.21</pos>
-		<maxSize>0.64 0.64</maxSize>
+		<maxSize>0.7 0.7</maxSize>
 		<color>ffffff</color>
-		<path>./_inc/chars/char249a.gif</path>
+		<path>./_inc/chars/char249.gif</path>
 		<zIndex>35</zIndex>
 	  </image>
 	 <image name="character10" extra="true">
