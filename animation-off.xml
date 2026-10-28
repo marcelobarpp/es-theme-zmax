@@ -41,6 +41,12 @@
 	 <image name="character07" extra="true">
 <visible>false</visible> 
 	  </image>
+
+
+  	<image name="md_marquee" extra="true">
+<visible>false</visible> 
+	</image>
+
 	</view>
 
 </theme>
