@@ -254,7 +254,7 @@
 		<fontSize>0.024</fontSize>
 		<color>ffffff</color>
 		<fontPath>./_inc/fonts/digib.ttf</fontPath>
-		<pos>2 2</pos>
+		<pos>0.945 0.955</pos>
 		<size>0.05 0.058</size>
 		<verticalAlignment>center</verticalAlignment>
 		</text>
