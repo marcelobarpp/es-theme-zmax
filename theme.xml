@@ -201,7 +201,8 @@
    <include subset="Iconset" name="oculus">./_inc/iconsets/oculus.xml</include>
    <include subset="Iconset" name="ps5">./_inc/iconsets/dualsense.xml</include>
 
-   <include subset="Sound" name="Default">./_inc/sound/up.xml</include>	
+   <include subset="Sound" name="Default">./_inc/sound/wheel.xml</include>
+   <include subset="Sound" name="up">./_inc/sound/up.xml</include>	
    <include subset="Sound" name="off">./_inc/sound/off.xml</include>
    <include subset="Sound" name="comic">./_inc/sound/comic.xml</include>
    <include subset="Sound" name="hyperspin">./_inc/sound/hyperspin.xml</include>
