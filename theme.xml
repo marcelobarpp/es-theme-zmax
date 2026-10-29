@@ -260,13 +260,14 @@
 		</text>
 		
      <controllerActivity name="controllerActivity">
-      <pos>0.01 0.010</pos>
+	<pos>0.94 0.972</pos>
       <size>0.085 0.025</size>
-      <itemSpacing>0.003</itemSpacing>
+      <itemSpacing>0.001</itemSpacing>
       <imagePath>./_inc/gamepad.svg</imagePath>
       <color>FFFFFF1A</color>
-      <activityColor>ff00001A</activityColor>
+      <activityColor>ffffff</activityColor>
       <hotkeyColor>ffffff1A</hotkeyColor>
+	<zIndex>9999</zIndex>
     </controllerActivity>
 
     <batteryIndicator name="batteryIndicator">
