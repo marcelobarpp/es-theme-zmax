@@ -272,9 +272,9 @@
 </controllerActivity>
 
 <batteryIndicator name="batteryIndicator">
-<pos>0.5 0.5</pos>
+<pos>0.98 0</pos>
 <pos tinyScreen="true">0.915 0.013</pos>
-<size>0.058 0.058</size>
+<size>0.018 0.018</size>
 <size tinyScreen="true">0.07 0.07</size>
 <incharge>./_inc/battery/incharge.svg</incharge>
 <full>./_inc/battery/full.svg</full>
@@ -335,7 +335,7 @@
       <iconShutdown>./_inc/icons/Shutdown.png</iconShutdown>
       <iconFastShutdown>./_inc/icons/Fastshutdown.png</iconFastShutdown>
       <iconRetroachievements>./_inc/icons/Contest.png</iconRetroachievements>
-	  <iconEmuelec>./_inc/icons/Emuelec.png</iconEmuelec>
+      <iconEmuelec>./_inc/icons/Emuelec.png</iconEmuelec>
     </menuIcons>
 	
 
