@@ -260,31 +260,32 @@
 		</text>
 		
      <controllerActivity name="controllerActivity">
-	<pos>0.94 0.972</pos>
+	<pos>0.935 0.972</pos>
       <size>0.085 0.025</size>
-      <itemSpacing>0.001</itemSpacing>
-      <imagePath>./_inc/gamepad.svg</imagePath>
-      <color>FFFFFF1A</color>
-      <activityColor>ffffff</activityColor>
-      <hotkeyColor>ffffff1A</hotkeyColor>
-	<zIndex>9999</zIndex>
-    </controllerActivity>
+<itemSpacing>0.003</itemSpacing>
+<imagePath>./_inc/gamepad.svg</imagePath>
+<gunPath>./_inc/gun.svg</gunPath>
+<color>fffffffc</color>
+<color tinyScreen="true">00000000</color>
+<activityColor>125012</activityColor>
+<hotkeyColor>501212</hotkeyColor>
+</controllerActivity>
 
-    <batteryIndicator name="batteryIndicator">
-      <pos>0.955 0.0125</pos>
-      <size>0.033 0.033</size>
-      <incharge>./_inc/battery/incharge.svg</incharge>
-      <full>./_inc/battery/full.svg</full>
-      <at75>./_inc/battery/75.svg</at75>
-      <at50>./_inc/battery/50.svg</at50>
-      <at25>./_inc/battery/25.svg</at25>
-      <empty>./_inc/battery/empty.svg</empty>
-      <color>FFFFFFA0</color>
-      </batteryIndicator>
-      <batteryIndicator name="batteryIndicator" tinyScreen="true">
-      <pos>0.915 0.013</pos>
-      <size>0.07 0.07</size>
-      </batteryIndicator>
+<batteryIndicator name="batteryIndicator">
+<pos>0.5 0.5</pos>
+<pos tinyScreen="true">0.915 0.013</pos>
+<size>0.058 0.058</size>
+<size tinyScreen="true">0.07 0.07</size>
+<incharge>./_inc/battery/incharge.svg</incharge>
+<full>./_inc/battery/full.svg</full>
+<at75>./_inc/battery/75.svg</at75>
+<at50>./_inc/battery/50.svg</at50>
+<at25>./_inc/battery/25.svg</at25>
+<empty>./_inc/battery/empty.svg</empty>
+<color>fffffffc</color>
+</batteryIndicator>
+
+
     </view>
 
 <!---------------------------menu------------------------------------------->
@@ -334,7 +335,7 @@
       <iconShutdown>./_inc/icons/Shutdown.png</iconShutdown>
       <iconFastShutdown>./_inc/icons/Fastshutdown.png</iconFastShutdown>
       <iconRetroachievements>./_inc/icons/Contest.png</iconRetroachievements>
-      <iconEmuelec>./_inc/icons/Emuelec.png</iconEmuelec>
+	  <iconEmuelec>./_inc/icons/Emuelec.png</iconEmuelec>
     </menuIcons>
 	
 
