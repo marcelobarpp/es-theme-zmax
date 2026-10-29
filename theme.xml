@@ -334,7 +334,7 @@
       <iconShutdown>./_inc/icons/Shutdown.png</iconShutdown>
       <iconFastShutdown>./_inc/icons/Fastshutdown.png</iconFastShutdown>
       <iconRetroachievements>./_inc/icons/Contest.png</iconRetroachievements>
-	  <iconEmuelec>./_inc/icons/Emuelec.png</iconEmuelec>
+      <iconEmuelec>./_inc/icons/Emuelec.png</iconEmuelec>
     </menuIcons>
 	
 
