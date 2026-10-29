@@ -6,6 +6,8 @@
       </text> 
 	 <helpsystem name="help">
        <fontPath>./_inc/fonts/orbitron-medium.ttf</fontPath>
+     <pos>0.01 0.975</pos>
+     <fontSize>0.0185</fontSize>
      </helpsystem>
 </view>
 <view name=" gamecarousel">
@@ -14,6 +16,8 @@
       </text>
 	<helpsystem name="help">
        <fontPath>./_inc/fonts/orbitron-medium.ttf</fontPath>
+     <pos>0.01 0.975</pos>
+     <fontSize>0.0185</fontSize>
      </helpsystem>
  </view>
 </theme>

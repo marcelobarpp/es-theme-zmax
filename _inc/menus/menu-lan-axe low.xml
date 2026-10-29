@@ -63,18 +63,12 @@
 <zIndex>24</zIndex>
 </video>
 	      <helpsystem name="help">
-	  <color>ffffff</color>
-     <fontSize>0.02</fontSize>
      <origin>0 0</origin>
-     <pos>0.05 0.973</pos>
-       <fontPath>./_inc/Super Comic.ttf</fontPath>
+     <pos>0.01 0.973</pos>
+     <fontSize>0.018</fontSize>
      </helpsystem>
 <text name="systemInfo">
-	    <glowColor>000000</glowColor>
-     <color>ffca18</color>
-        <fontPath>./_inc/Super Comic.ttf</fontPath>
      <pos>-0.33 0.835</pos>
-     <fontSize>0.028</fontSize>
         <zIndex>70</zIndex>
       </text> 
        <image name="art003" extra="true">
@@ -367,13 +361,9 @@
 		 <zIndex>68</zIndex>
       </video>
       <text name="md_name">
-        <backgroundColor>00000000</backgroundColor>
-	    <glowColor>000000</glowColor>
-     <color>ffca18</color>
      <pos>0.12 0.845</pos>
      <fontSize>0.028</fontSize>
      <origin>0 0</origin>
-       <fontPath>./_inc/Super Comic.ttf</fontPath>
          <zIndex>70</zIndex>
       </text>
 	 <image name="character3" extra="true">

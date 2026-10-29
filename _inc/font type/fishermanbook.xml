@@ -6,6 +6,8 @@
       </text> 
 	 <helpsystem name="help">
        <fontPath>./_inc/fonts/fishermanbook.ttf</fontPath>
+     <fontSize>0.0148</fontSize>
+     <pos>0.01 0.978</pos>
      </helpsystem>
 </view>
 <view name=" gamecarousel">
@@ -14,6 +16,8 @@
       </text>
 	<helpsystem name="help">
        <fontPath>./_inc/fonts/fishermanbook.ttf</fontPath>
+     <fontSize>0.0148</fontSize>
+     <pos>0.01 0.978</pos>
      </helpsystem>
  </view>
 </theme>

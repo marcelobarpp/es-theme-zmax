@@ -121,7 +121,8 @@
 </video>
 	      <helpsystem name="help">
      <origin>0 0</origin>
-     <pos>0.05 0.973</pos>
+     <pos>0.01 0.973</pos>
+     <fontSize>0.018</fontSize>
      </helpsystem>
 	    <image name="marqueta1" extra="true">
 <pos>0.4505 0.353</pos>
@@ -498,7 +499,8 @@
 	</image>
 	      <helpsystem name="help">
      <origin>0 0</origin>
-     <pos>0.05 0.973</pos>
+     <pos>0.01 0.973</pos>
+     <fontSize>0.018</fontSize>
      </helpsystem>
  	<image name="md_marquee" extra="true">
 <visible>true</visible> 
@@ -530,7 +532,6 @@
      <pos>0.38 0.13</pos>
          <zIndex>60</zIndex>
       </text>
-
 	    <image name="marqueta1" extra="true">
 <pos>0.4505 0.353</pos>
 <maxSize>0.11 0.11</maxSize>

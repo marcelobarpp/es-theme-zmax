@@ -6,6 +6,8 @@
       </text> 
 	<helpsystem name="help">
        <fontPath>./_inc/fonts/neon.ttf</fontPath>
+     <pos>0.01 0.976</pos>
+     <fontSize>0.018</fontSize>
      </helpsystem>
 </view>
 <view name=" gamecarousel">
@@ -14,6 +16,8 @@
       </text>
 	<helpsystem name="help">
        <fontPath>./_inc/fonts/neon.ttf</fontPath>
+     <pos>0.01 0.976</pos>
+     <fontSize>0.018</fontSize>
      </helpsystem>
 </view>
 </theme>

@@ -6,6 +6,8 @@
       </text> 
 	 <helpsystem name="help">
        <fontPath>./_inc/fonts/henika.otf</fontPath>
+     <pos>0.01 0.97</pos>
+     <fontSize>0.024</fontSize>
      </helpsystem>
 </view>
 <view name=" gamecarousel">
@@ -14,6 +16,8 @@
       </text>
 	<helpsystem name="help">
        <fontPath>./_inc/fonts/henika.otf</fontPath>
+     <pos>0.01 0.97</pos>
+     <fontSize>0.024</fontSize>
      </helpsystem>
  </view>
 </theme>

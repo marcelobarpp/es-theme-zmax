@@ -6,6 +6,7 @@
       </text> 
 	 <helpsystem name="help">
        <fontPath>./_inc/fonts/planetbe.ttf</fontPath>
+     <pos>0.01 0.97</pos>
      </helpsystem>
 </view>
 <view name=" gamecarousel">
@@ -14,6 +15,7 @@
       </text>
 	<helpsystem name="help">
        <fontPath>./_inc/fonts/planetbe.ttf</fontPath>
+     <pos>0.01 0.97</pos>
      </helpsystem>
  </view>
 </theme>

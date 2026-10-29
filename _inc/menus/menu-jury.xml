@@ -75,10 +75,10 @@
 <color>FFFFFF</color>   
 <zIndex>19</zIndex>
 </video>
-	<helpsystem name="help">
+	      <helpsystem name="help">
      <origin>0 0</origin>
-     <pos>0.05 0.973</pos>
-         <zIndex>150</zIndex>
+     <pos>0.01 0.973</pos>
+     <fontSize>0.018</fontSize>
      </helpsystem>
 	    <image name="logo3" extra="true">
 	<origin>0 0</origin>
@@ -405,8 +405,8 @@
       </video>  
 	      <helpsystem name="help">
      <origin>0 0</origin>
-     <pos>0.05 0.973</pos>
-         <zIndex>150</zIndex> 
+     <pos>0.01 0.973</pos>
+     <fontSize>0.018</fontSize>
      </helpsystem>
 	    <image name="logo3" extra="true">
 	<origin>0 0</origin>

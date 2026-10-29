@@ -6,6 +6,7 @@
       </text> 
 	 <helpsystem name="help">
        <fontPath>./_inc/fonts/cave-stone.otf</fontPath>
+     <fontSize>0.023</fontSize>
      </helpsystem>
 </view>
 <view name=" gamecarousel">
@@ -14,6 +15,7 @@
       </text>
 	<helpsystem name="help">
        <fontPath>./_inc/fonts/cave-stone.otf</fontPath>
+     <fontSize>0.023</fontSize>
      </helpsystem>
  </view>
 </theme>

@@ -69,6 +69,7 @@
    <include subset="systems and lists" name="scene 8=sakura and dan">./_inc/menus/menu-sakura and dan.xml</include>
    <include subset="systems and lists" name="scene 8=zombies">./_inc/menus/menu-zombies.xml</include>
 
+
    <include subset="systems and lists" name="vertical screen=jury">./_inc/menus/menu-jury-vert.xml</include>
    <include subset="systems and lists" name="vertical screen=subzero">./_inc/menus/menu-subzero-vert.xml</include>
 
@@ -153,8 +154,7 @@
    <include subset="font glow" name="red">./_inc/font glow/red.xml</include>
    <include subset="font glow" name="Yellow">./_inc/font glow/yellow.xml</include>
 
-   <include subset="font type" name="Default">./_inc/font type/supermariogalaxy.xml</include> 
-   <include subset="font type" name="neon">./_inc/font type/neon.xml</include> 
+   <include subset="font type" name="Default">./_inc/font type/neon.xml</include> 
    <include subset="font type" name="super mario galaxy">./_inc/font type/supermariogalaxy.xml</include> 
    <include subset="font type" name="text">./_inc/font type/text.xml</include> 
    <include subset="font type" name="doo">./_inc/font type/doo.xml</include> 
@@ -171,8 +171,8 @@
    <include subset="font type" name="fridaybeach">./_inc/font type/fridaybeach.xml</include> 
    <include subset="font type" name="cave stone">./_inc/font type/cave-stone.xml</include> 
    <include subset="font type" name="anthony">./_inc/font type/anthony.xml</include> 
-   <include subset="font type" name="sofachrome italic">./_inc/font type/sofachrome-rg-it.xml</include> 
    <include subset="font type" name="planet be">./_inc/font type/planetbe.xml</include> 
+   <include subset="font type" name="neon">./_inc/font type/neon.xml</include> 
    <include subset="font type" name="fisherman book">./_inc/font type/fishermanbook.xml</include> 
    <include subset="font type" name="spondul ixnf">./_inc/font type/spondulixnf.xml</include>  
 
@@ -249,6 +249,9 @@
 
 <!---------------------------screen----------------------------------------->
 
+
+
+
 <view name="screen">
 <text name="clock">
 		<glowColor>101010</glowColor>
@@ -259,6 +262,7 @@
 		<size>0.05 0.058</size>
 		<verticalAlignment>center</verticalAlignment>
 		</text>
+
 		
      <controllerActivity name="controllerActivity">
 	<pos>0.935 0.972</pos>

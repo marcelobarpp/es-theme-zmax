@@ -76,10 +76,10 @@
 <color>FFFFFF</color>   
 <zIndex>19</zIndex>
 </video>
-	<helpsystem name="help">
+	      <helpsystem name="help">
      <origin>0 0</origin>
-     <pos>0.05 0.973</pos>
-         <zIndex>150</zIndex>
+     <pos>0.01 0.973</pos>
+     <fontSize>0.018</fontSize>
      </helpsystem>
 	    <image name="logo3" extra="true">
 	<origin>0 0</origin>
@@ -455,8 +455,8 @@
 	</image>
 	      <helpsystem name="help">
      <origin>0 0</origin>
-     <pos>0.05 0.973</pos>
-         <zIndex>150</zIndex> 
+     <pos>0.01 0.973</pos>
+     <fontSize>0.018</fontSize>
      </helpsystem>
  	<image name="md_marquee" extra="true">
 <visible>true</visible> 
@@ -482,7 +482,6 @@
 	</image>
       <text name="md_name">
      <origin>0 0</origin>
-     <fontSize>0.03</fontSize>
      <pos>0.14 0.02</pos>
          <zIndex>60</zIndex>
       </text>

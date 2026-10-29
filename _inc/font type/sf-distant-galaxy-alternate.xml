@@ -6,6 +6,8 @@
       </text> 
 	 <helpsystem name="help">
        <fontPath>./_inc/fonts/sf-distant-galaxy-alternate.ttf</fontPath>
+     <pos>0.01 0.975</pos>
+     <fontSize>0.021</fontSize>
      </helpsystem>
 </view>
 <view name=" gamecarousel">
@@ -14,6 +16,8 @@
       </text>
 	<helpsystem name="help">
        <fontPath>./_inc/fonts/sf-distant-galaxy-alternate.ttf</fontPath>
+     <pos>0.01 0.975</pos>
+     <fontSize>0.021</fontSize>
      </helpsystem>
  </view>
 </theme>
