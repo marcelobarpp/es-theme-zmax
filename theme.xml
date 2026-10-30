@@ -146,7 +146,6 @@
    <include subset="font color" name="Turquoise">./_inc/font color/turquoise.xml</include>
    <include subset="font color" name="black">./_inc/font color/black.xml</include>
 
-   <include subset="font glow" name="Default">./_inc/font glow/default.xml</include>
    <include subset="font glow" name="black">./_inc/font glow/black.xml</include>
    <include subset="font glow" name="White">./_inc/font glow/white.xml</include>
    <include subset="font glow" name="Blue">./_inc/font glow/blue.xml</include>
@@ -255,10 +254,10 @@
 <view name="screen">
 <text name="clock">
 		<glowColor>101010</glowColor>
-		<fontSize>0.024</fontSize>
+		<fontSize>0.04</fontSize>
 		<color>ffffff</color>
 		<fontPath>./_inc/fonts/digib.ttf</fontPath>
-		<pos>0.945 0.955</pos>
+		<pos>0.949 0.955</pos>
 		<size>0.05 0.058</size>
 		<verticalAlignment>center</verticalAlignment>
 		</text>

@@ -3,11 +3,21 @@
 <view name="system, systemcarousel">
 <text name="systemInfo">
 	    <glowColor>00a8f3</glowColor>
-      </text> 
+	<glowSize>1</glowSize>
+      </text>
+	<helpsystem name="help">
+	<glowColor>00a8f3</glowColor>
+	<glowSize>1</glowSize>
+     </helpsystem> 
       </view>
 <view name=" gamecarousel">
       <text name="md_name">
 	    <glowColor>00a8f3</glowColor>
+	<glowSize>1</glowSize>
       </text>
+	<helpsystem name="help">
+	<glowColor>00a8f3</glowColor>
+	<glowSize>1</glowSize>
+     </helpsystem>
    </view>
 </theme>
