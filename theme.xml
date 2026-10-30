@@ -146,12 +146,13 @@
    <include subset="font color" name="Turquoise">./_inc/font color/turquoise.xml</include>
    <include subset="font color" name="black">./_inc/font color/black.xml</include>
 
-   <include subset="font glow" name="black">./_inc/font glow/black.xml</include>
+   <include subset="font glow" name="default">./_inc/font glow/black.xml</include>
    <include subset="font glow" name="White">./_inc/font glow/white.xml</include>
    <include subset="font glow" name="Blue">./_inc/font glow/blue.xml</include>
    <include subset="font glow" name="Green">./_inc/font glow/green.xml</include>
    <include subset="font glow" name="red">./_inc/font glow/red.xml</include>
    <include subset="font glow" name="Yellow">./_inc/font glow/yellow.xml</include>
+   <include subset="font glow" name="black">./_inc/font glow/black.xml</include>
 
    <include subset="font type" name="Default">./_inc/font type/neon.xml</include> 
    <include subset="font type" name="super mario galaxy">./_inc/font type/supermariogalaxy.xml</include> 
