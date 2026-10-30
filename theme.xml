@@ -188,8 +188,8 @@
    <include subset="taskbar" name="turquoise">./_inc/taskbar/turquoise.xml</include> 
    <include subset="taskbar" name="yellow">./_inc/taskbar/yellow.xml</include>  
 
-
-   <include subset="Iconset" name="default">./_inc/iconsets/xboxone.xml</include>
+   <include subset="Iconset" name="Default">./_inc/iconsets/default.xml</include>
+   <include subset="Iconset" name="Xbox One">./_inc/iconsets/xboxone.xml</include>
    <include subset="Iconset" name="PSX">./_inc/iconsets/psx.xml</include>
    <include subset="Iconset" name="PS3">./_inc/iconsets/ps2.xml</include>
    <include subset="Iconset" name="SNES">./_inc/iconsets/snes.xml</include>
@@ -200,7 +200,6 @@
    <include subset="Iconset" name="Keyboard">./_inc/iconsets/keyboard.xml</include>
    <include subset="Iconset" name="oculus">./_inc/iconsets/oculus.xml</include>
    <include subset="Iconset" name="ps5">./_inc/iconsets/dualsense.xml</include>
-   <include subset="Iconset" name="Xbox One">./_inc/iconsets/xboxone.xml</include>
 
    <include subset="Sound" name="Default">./_inc/sound/wheel.xml</include>
    <include subset="Sound" name="up">./_inc/sound/up.xml</include>	
@@ -256,17 +255,17 @@
 <view name="screen">
 <text name="clock">
 		<glowColor>101010</glowColor>
-		<fontSize>0.04</fontSize>
+		<fontSize>0.038</fontSize>
 		<color>ffffff</color>
 		<fontPath>./_inc/fonts/digib.ttf</fontPath>
-		<pos>0.949 0.955</pos>
+		<pos>0.948 0.955</pos>
 		<size>0.05 0.058</size>
 		<verticalAlignment>center</verticalAlignment>
 		</text>
 
 		
      <controllerActivity name="controllerActivity">
-	<pos>0.935 0.972</pos>
+	<pos>0.928 0.972</pos>
       <size>0.085 0.025</size>
 <itemSpacing>0.003</itemSpacing>
 <imagePath>./_inc/gamepad.svg</imagePath>
