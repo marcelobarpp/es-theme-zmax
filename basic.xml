@@ -15,8 +15,8 @@
          <alignment>center</alignment>      
       </textlist>
 	  
-	  	   <image name="cliente" extra="true">
-		<pos>0.01 0.01</pos>
+	  	<image name="cliente" extra="true">
+		<pos>0.88 0.01</pos>
 		<maxSize>0.08 0.08</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/assets/cliente.png</path>
@@ -61,7 +61,7 @@
 
 
  <image name="logo03" extra="true">
-        <pos>0.58 0.01</pos>
+        <pos>0.63 0.01</pos>
         <maxSize>0.16 0.16</maxSize>
 		<path>./default/_inc/logo.png</path>
 		<path>./_inc/logos/${system.theme}.png</path>

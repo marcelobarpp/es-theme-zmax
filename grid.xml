@@ -6,13 +6,13 @@
 
    <view name="grid">
 	  
-	  	  	<image name="cliente" extra="true">
-		<pos>0.91 0.01</pos>
-		<maxSize>0.08 0.08</maxSize>
-		<color>ffffff</color>
-		<path>./_inc/assets/cliente.png</path>
-		<zIndex>999</zIndex>
-	  </image>
+<image name="cliente" extra="true">
+<pos>0.27 0.03</pos>
+<maxSize>0.08 0.08</maxSize>
+<color>ffffff</color>
+<path>./_inc/assets/cliente.png</path>
+<zIndex>999</zIndex>
+</image>
 
 	   <image name="char0001" extra="true">
 <visible>false</visible>
