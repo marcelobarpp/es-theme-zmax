@@ -12,7 +12,7 @@
 		<glowColor>fff200</glowColor>
 		</text> 
       </view>
-<view name=" gamecarousel">
+<view name=" basic, detailed, video, grid, gamecarousel">
       <text name="md_name">
      <glowColor>fff200</glowColor>
       </text>

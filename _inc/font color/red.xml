@@ -8,7 +8,7 @@
 	 <textColor>ff0000</textColor>
      </helpsystem>
       </view>
-<view name=" gamecarousel">
+<view name=" basic, detailed, video, grid, gamecarousel">
       <text name="md_name">
      <color>ff0000</color>
       </text>

@@ -8,7 +8,7 @@
        <fontPath>./_inc/fonts/agent-orange.ttf</fontPath>
      </helpsystem>
 </view>
-<view name=" gamecarousel">
+<view name=" basic, detailed, video, grid, gamecarousel">
 <text name="md_name">
        <fontPath>./_inc/fonts/agent-orange.ttf</fontPath>
       </text>

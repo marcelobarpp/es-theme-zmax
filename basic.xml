@@ -23,12 +23,10 @@
 		<zIndex>999</zIndex>
 	  </image>
 	  
-     <helpsystem name="help">
-	 <iconColor>FFFFFF</iconColor>
-     <fontSize>0.02</fontSize>
-     <origin>0.5 0.5</origin>
-     <pos>0.5 0.985</pos>
-       <fontPath>./_inc/fonts/Digital-Serial-Bold-folder.ttf</fontPath>
+	      <helpsystem name="help">
+     <origin>0 0</origin>
+     <pos>0.01 0.976</pos>
+     <fontSize>0.018</fontSize>
      </helpsystem>
 	 
 	 	        <image name="borde" extra="true">
@@ -66,15 +64,6 @@
         <zIndex>1</zIndex>          
      </image> 
 
-    <image name="consoles1" extra="true">
-		<pos>0.05 0.73</pos>
-		<maxSize>0.20 0.20</maxSize>
-		<color>ffffff</color>
-		<path>./default/_inc/console.png</path>
-		<path>./_inc/consoles/${system.theme}.svg</path>
-		<path>./_inc/consoles/${system.theme}.png</path>
-		<zIndex>999</zIndex>
-	  </image>
 
  <image name="logo03" extra="true">
         <pos>0.58 0.01</pos>
