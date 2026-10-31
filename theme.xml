@@ -204,21 +204,15 @@
    <include subset="Sound" name="Default">./_inc/sound/wheel.xml</include>
    <include subset="Sound" name="up">./_inc/sound/up.xml</include>	
    <include subset="Sound" name="off">./_inc/sound/off.xml</include>
-   <include subset="Sound" name="comic">./_inc/sound/comic.xml</include>
    <include subset="Sound" name="hyperspin">./_inc/sound/hyperspin.xml</include>
    <include subset="Sound" name="roleta">./_inc/sound/roleta.xml</include>
-   <include subset="Sound" name="classic">./_inc/sound/classic.xml</include>
    <include subset="Sound" name="button">./_inc/sound/button.xml</include>
-   <include subset="Sound" name="cursor">./_inc/sound/cursor.xml</include>
    <include subset="Sound" name="golf">./_inc/sound/golf.xml</include>
    <include subset="Sound" name="keiba">./_inc/sound/keiba.xml</include>
    <include subset="Sound" name="mario">./_inc/sound/mario.xml</include>
    <include subset="Sound" name="message">./_inc/sound/message.xml</include>
    <include subset="Sound" name="monopoly">./_inc/sound/monopoly.xml</include>
-   <include subset="Sound" name="phone">./_inc/sound/phone.xml</include>
    <include subset="Sound" name="save">./_inc/sound/save.xml</include>
-   <include subset="Sound" name="slide">./_inc/sound/slide.xml</include>
-   <include subset="Sound" name="spin">./_inc/sound/spin.xml</include>
    <include subset="Sound" name="yoshi">./_inc/sound/yoshi.xml</include>
    <include subset="Sound" name="yoshi2">./_inc/sound/yoshi2.xml</include>
    <include subset="Sound" name="ring">./_inc/sound/ring.xml</include>
