@@ -90,8 +90,8 @@
 
  <image name="gridtile.favorite">
 <path>./art/gridfav.png</path>
-<pos>0.75 0</pos>
-<maxSize>0.25 0.25</maxSize>
+<pos>0.75 0.2</pos>
+<maxSize>0.525 0.525</maxSize>
 <origin>0 0</origin>
 <color>A0A0A0A0</color>
 

@@ -12,32 +12,33 @@
 			<path>./_inc/assets/splash.png</path>
 		</image>
 		<image name="progressbarbg" extra="true">
-			<color>00abff</color>
-			<colorEnd>330099</colorEnd>
-			<zIndex>5</zIndex>
+			<color>01517b</color>
+			<colorEnd>0010ff</colorEnd>
+			<zIndex>50</zIndex>
 		</image>
 		<image name="progressbar">
-			<color>ffffff00</color>
+			<color>01517b</color>
 			<origin>0.5 0.5</origin>
-			<size>0.69 0.011</size>
+			<size>0.69 0.02</size>
 			<pos>0.51 0.9</pos>
-			<colorEnd>ffffff00</colorEnd>
+			<colorEnd>0010ff</colorEnd>
 		</image>
 		<image name="progressbar:active">
-			<color>ffffff00</color>
-			<colorEnd>ffffff00</colorEnd>
-			<zIndex>7</zIndex>
+			<color>01517b</color>
+			<colorEnd>330099</colorEnd>
+			<zIndex>70</zIndex>
 		</image>
 		<text name="label">
-			<color>FFFFFF59</color>
+			<color>01517b</color>
 			<origin>0.5 0.5</origin>
 			<alignment>center</alignment>
 			<fontPath>./_inc/fonts/gomarice_no_continue.ttf</fontPath>
 			<pos>0.5 0.94</pos>
 			<fontSize>0.038</fontSize>
-			<glowColor>00000018</glowColor>
+			<glowColor>000000</glowColor>
 			<glowSize>0.1</glowSize>
 			<glowOffset>0</glowOffset>
 		</text>
 	</view>
 </theme>
+
