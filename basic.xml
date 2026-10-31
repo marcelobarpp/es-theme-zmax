@@ -51,7 +51,7 @@
     <size>1 1</size>
 	<path>./default/_inc/character.png</path>
     <path>./${system.theme}/_inc/character.png</path>
-    <zIndex>3</zIndex> 
+    <zIndex>30</zIndex> 
     </image> 
 	
 		 <image name="system-background1" extra="true">
