@@ -62,11 +62,6 @@
 <color>FFFFFF</color>   
 <zIndex>24</zIndex>
 </video>
-	      <helpsystem name="help">
-     <origin>0 0</origin>
-     <pos>0.01 0.973</pos>
-     <fontSize>0.018</fontSize>
-     </helpsystem>
 <text name="systemInfo">
      <pos>-0.33 0.835</pos>
         <zIndex>70</zIndex>
@@ -264,13 +259,6 @@
 	  <color>ffffff</color>
 <zIndex>70</zIndex>
 </image>
-	      <helpsystem name="help">
-	  <color>ffffff</color>
-     <fontSize>0.02</fontSize>
-     <origin>0 0</origin>
-     <pos>0.05 0.973</pos>
-       <fontPath>./_inc/Super Comic.ttf</fontPath>
-     </helpsystem>
       <text name="md_name">
 <visible>true</visible> 
       </text>

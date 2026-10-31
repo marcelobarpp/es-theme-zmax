@@ -10,7 +10,7 @@
      <fontSize>0.015</fontSize>
      </helpsystem>
 </view>
-<view name=" gamecarousel">
+<view name=" basic, detailed, video, grid, gamecarousel">
 <text name="md_name">
        <fontPath>./_inc/fonts/anthony.ttf</fontPath>
       </text>

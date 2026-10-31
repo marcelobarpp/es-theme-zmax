@@ -15,11 +15,6 @@
 <logoRotationOrigin>2.45 0.5</logoRotationOrigin>
 <logoAlignment>center</logoAlignment>       
 </carousel>
-	<helpsystem name="help">
-     <origin>0 0</origin>
-     <pos>-2.05 0.973</pos>
-         <zIndex>150</zIndex>
-     </helpsystem>
       <image name="art0040" extra="true">
 <visible>false</visible> 
       </image>
@@ -309,11 +304,6 @@
 		<effect>none</effect> 
 		<zIndex>19</zIndex>  
       </video>  
-	      <helpsystem name="help">
-     <origin>0 0</origin>
-     <pos>0.01 0.973</pos>
-     <fontSize>0.018</fontSize>
-     </helpsystem>
 	    <image name="logo3" extra="true">
 	<origin>0 0</origin>
 	  <color>ffffff</color>

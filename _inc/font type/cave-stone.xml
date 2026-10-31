@@ -9,7 +9,7 @@
      <fontSize>0.023</fontSize>
      </helpsystem>
 </view>
-<view name=" gamecarousel">
+<view name=" basic, detailed, video, grid, gamecarousel">
 <text name="md_name">
        <fontPath>./_inc/fonts/cave-stone.otf</fontPath>
       </text>

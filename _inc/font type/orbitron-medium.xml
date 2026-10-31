@@ -10,7 +10,7 @@
      <fontSize>0.0185</fontSize>
      </helpsystem>
 </view>
-<view name=" gamecarousel">
+<view name=" basic, detailed, video, grid, gamecarousel">
 <text name="md_name">
        <fontPath>./_inc/fonts/orbitron-medium.ttf</fontPath>
       </text>

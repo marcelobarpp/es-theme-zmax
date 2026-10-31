@@ -23,11 +23,6 @@
 		<zIndex>999</zIndex>
 	  </image>
 	  
-	      <helpsystem name="help">
-     <origin>0 0</origin>
-     <pos>0.01 0.976</pos>
-     <fontSize>0.018</fontSize>
-     </helpsystem>
 	 
 	 	        <image name="borde" extra="true">
          <origin>0 0</origin>

@@ -119,11 +119,6 @@
 <color>FFFFFF</color>   
 <zIndex>18</zIndex>
 </video>
-	      <helpsystem name="help">
-     <origin>0 0</origin>
-     <pos>0.01 0.973</pos>
-     <fontSize>0.018</fontSize>
-     </helpsystem>
 	    <image name="marqueta1" extra="true">
 <pos>0.4505 0.353</pos>
 <maxSize>0.11 0.11</maxSize>
@@ -497,11 +492,6 @@
 	<image name="shadowcover01" extra="true">
       <visible>false</visible> 
 	</image>
-	      <helpsystem name="help">
-     <origin>0 0</origin>
-     <pos>0.01 0.973</pos>
-     <fontSize>0.018</fontSize>
-     </helpsystem>
  	<image name="md_marquee" extra="true">
 <visible>true</visible> 
 </image>

@@ -63,11 +63,6 @@
 <color>FFFFFF</color>   
 <zIndex>20</zIndex>
 </video>
-	      <helpsystem name="help">
-     <origin>0 0</origin>
-     <pos>0.01 0.973</pos>
-     <fontSize>0.018</fontSize>
-     </helpsystem>
 <text name="systemInfo">
      <pos>-0.01 0.15</pos>
         <zIndex>23</zIndex>
@@ -186,11 +181,6 @@
 	  <color>ffffff</color>
 <zIndex>70</zIndex>
 </image>
-	      <helpsystem name="help">
-     <origin>0 0</origin>
-     <pos>0.01 0.973</pos>
-     <fontSize>0.018</fontSize>
-     </helpsystem>
       <text name="md_name">
 <visible>true</visible> 
       </text>

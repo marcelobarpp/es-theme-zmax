@@ -10,7 +10,7 @@
      <pos>0.01 0.978</pos>
      </helpsystem>
 </view>
-<view name=" gamecarousel">
+<view name=" basic, detailed, video, grid, gamecarousel">
 <text name="md_name">
        <fontPath>./_inc/fonts/fishermanbook.ttf</fontPath>
       </text>
