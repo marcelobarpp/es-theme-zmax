@@ -265,7 +265,7 @@
 
 		
      <controllerActivity name="controllerActivity">
-	<pos>0.928 0.972</pos>
+	<pos>0.93 0.972</pos>
       <size>0.085 0.025</size>
 <itemSpacing>0.003</itemSpacing>
 <imagePath>./_inc/gamepad.svg</imagePath>
