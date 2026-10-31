@@ -1,0 +1,22 @@
+<theme>
+   <formatVersion>7</formatVersion>
+<view name="system, systemcarousel">
+<text name="systemInfo">
+     <glowColor>ececec</glowColor>
+      </text> 
+	<helpsystem name="help">
+	<glowColor>ececec</glowColor>
+	<glowSize>1</glowSize>
+     </helpsystem>
+      </view>
+<view name=" gamecarousel">
+      <text name="md_name">
+     <glowColor>ececec</glowColor>
+      </text>
+	<helpsystem name="help">
+	<glowColor>ececec</glowColor>
+	<glowSize>1</glowSize>
+     </helpsystem>
+   </view>
+</theme>
+

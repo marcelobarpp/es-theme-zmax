@@ -122,7 +122,8 @@
 </video>	
 	      <helpsystem name="help">
      <origin>0 0</origin>
-     <pos>0.05 0.973</pos>
+     <pos>0.01 0.973</pos>
+     <fontSize>0.018</fontSize>
      </helpsystem>
 	    <image name="marqueta1" extra="true">
 <pos>0.4505 0.353</pos>
@@ -145,10 +146,10 @@
         <zIndex>60</zIndex>
       </text> 
 	 <image name="character10" extra="true">
-		<pos>0.195 0.39</pos>
-		<maxSize>0.57 0.57</maxSize>
+		<pos>0.2 0.42</pos>
+		<maxSize>0.55 0.55</maxSize>
 		<color>ffffff</color>
-		<path>./_inc/chars/char9.gif</path>
+		<path>./_inc/chars/char8.gif</path>
 		<zIndex>50</zIndex>
 	  </image>
 	 <image name="character2" extra="true">
@@ -157,6 +158,187 @@
 		<color>ffffff</color>
 		<path>./_inc/chars/char7.gif</path>
 		<zIndex>50</zIndex>
+	  </image>
+	 <image name="jotaro kujo02a" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="jotaro kujo02" extra="true">
+<visible>false</visible> 
+	  </image>
+
+	 <image name="batman02a" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="batman02" extra="true">
+<visible>false</visible> 
+	  </image>
+
+	 <image name="litchi faye-ling02a" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="litchi faye-ling02" extra="true">
+<visible>false</visible> 
+	  </image>
+
+	 <image name="ethan (take over)02a" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="ethan (take over)02" extra="true">
+<visible>false</visible> 
+	  </image>
+
+	 <image name="ramlethal valentine02a" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="ramlethal valentine02" extra="true">
+<visible>false</visible> 
+	  </image>
+
+	 <image name="bridget02a" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="bridget02" extra="true">
+<visible>false</visible> 
+	  </image>
+
+	 <image name="scorpion02a" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="scorpion02" extra="true">
+<visible>false</visible> 
+	  </image>
+
+	 <image name="rachel alucard02a" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="rachel alucard02" extra="true">
+<visible>false</visible> 
+	  </image>
+
+	 <image name="jack-o valentine01a" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="jack-o valentine01" extra="true">
+<visible>false</visible> 
+	  </image>
+
+	 <image name="slayer02a" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="slayer02" extra="true">
+<visible>false</visible> 
+	  </image>
+
+	 <image name="gordeau02a" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="gordeau02" extra="true">
+<visible>false</visible> 
+	  </image>
+
+	 <image name="r-shobu and arabian02a" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="r-shobu and arabian" extra="true">
+<visible>false</visible> 
+	  </image>
+
+	 <image name="luna himek02a" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="luna himek02" extra="true">
+<visible>false</visible> 
+	  </image>  
+
+	 <image name="cadillac and dinosaurs03a" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="cadillac and dinosaurs03" extra="true">
+<visible>false</visible> 
+	  </image>
+
+	 <image name="sonic03" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="sonic03a" extra="true">
+<visible>false</visible> 
+	  </image>
+
+	 <image name="may (guilty Gear)03" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="may (guilty Gear)03a" extra="true">
+<visible>false</visible>
+	  </image>
+
+	 <image name="platinum the trinity03" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="platinum the trinity03a" extra="true">
+<visible>false</visible>
+	  </image>
+
+	 <image name="k03" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="k03a" extra="true">
+<visible>false</visible>
+	  </image>
+
+	 <image name="volverine02" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="volverine02a" extra="true">
+<visible>false</visible>
+	  </image>
+
+	 <image name="zombie02" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="zombie02a" extra="true">
+<visible>false</visible>
+	  </image>
+
+	 <image name="sonic and tails02" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="sonic and tails02a" extra="true">
+<visible>false</visible>
+	  </image>
+
+	 <image name="tails02" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="tails02a" extra="true">
+<visible>false</visible>
+	  </image>
+
+	 <image name="venom02" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="venom02a" extra="true">
+<visible>false</visible>
+	  </image>
+
+	 <image name="spider-man02" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="spider-man02a" extra="true">
+<visible>false</visible>
+	  </image>
+
+	 <image name="captain america02" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="captain america02a" extra="true">
+<visible>false</visible>
+	  </image>
+
+	 <image name="nemesis-t02" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="nemesis-t02a" extra="true">
+<visible>false</visible>
 	  </image>
 </view>
 
@@ -316,7 +498,8 @@
 	</image>
 	      <helpsystem name="help">
      <origin>0 0</origin>
-     <pos>0.05 0.973</pos>
+     <pos>0.01 0.973</pos>
+     <fontSize>0.018</fontSize>
      </helpsystem>
  	<image name="md_marquee" extra="true">
 <visible>true</visible> 
@@ -356,10 +539,10 @@
 	  <zIndex>18</zIndex>
 	</image>
 	 <image name="character10" extra="true">
-		<pos>0.195 0.39</pos>
-		<maxSize>0.57 0.57</maxSize>
+		<pos>0.2 0.42</pos>
+		<maxSize>0.55 0.55</maxSize>
 		<color>ffffff</color>
-		<path>./_inc/chars/char9.gif</path>
+		<path>./_inc/chars/char8.gif</path>
 		<zIndex>50</zIndex>
 	  </image>
 	 <image name="character2" extra="true">
@@ -368,6 +551,187 @@
 		<color>ffffff</color>
 		<path>./_inc/chars/char7.gif</path>
 		<zIndex>50</zIndex>
+	  </image>
+	 <image name="jotaro kujo02a" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="jotaro kujo02" extra="true">
+<visible>false</visible> 
+	  </image>
+
+	 <image name="batman02a" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="batman02" extra="true">
+<visible>false</visible> 
+	  </image>
+
+	 <image name="litchi faye-ling02a" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="litchi faye-ling02" extra="true">
+<visible>false</visible> 
+	  </image>
+
+	 <image name="ethan (take over)02a" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="ethan (take over)02" extra="true">
+<visible>false</visible> 
+	  </image>
+
+	 <image name="ramlethal valentine02a" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="ramlethal valentine02" extra="true">
+<visible>false</visible> 
+	  </image>
+
+	 <image name="bridget02a" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="bridget02" extra="true">
+<visible>false</visible> 
+	  </image>
+
+	 <image name="scorpion02a" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="scorpion02" extra="true">
+<visible>false</visible> 
+	  </image>
+
+	 <image name="rachel alucard02a" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="rachel alucard02" extra="true">
+<visible>false</visible> 
+	  </image>
+
+	 <image name="jack-o valentine01a" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="jack-o valentine01" extra="true">
+<visible>false</visible> 
+	  </image>
+
+	 <image name="slayer02a" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="slayer02" extra="true">
+<visible>false</visible> 
+	  </image>
+
+	 <image name="gordeau02a" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="gordeau02" extra="true">
+<visible>false</visible> 
+	  </image>
+
+	 <image name="r-shobu and arabian02a" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="r-shobu and arabian" extra="true">
+<visible>false</visible> 
+	  </image>
+
+	 <image name="luna himek02a" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="luna himek02" extra="true">
+<visible>false</visible> 
+	  </image>  
+
+	 <image name="cadillac and dinosaurs03a" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="cadillac and dinosaurs03" extra="true">
+<visible>false</visible> 
+	  </image>
+
+	 <image name="sonic03" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="sonic03a" extra="true">
+<visible>false</visible> 
+	  </image>
+
+	 <image name="may (guilty Gear)03" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="may (guilty Gear)03a" extra="true">
+<visible>false</visible>
+	  </image>
+
+	 <image name="platinum the trinity03" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="platinum the trinity03a" extra="true">
+<visible>false</visible>
+	  </image>
+
+	 <image name="k03" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="k03a" extra="true">
+<visible>false</visible>
+	  </image>
+
+	 <image name="volverine02" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="volverine02a" extra="true">
+<visible>false</visible>
+	  </image>
+
+	 <image name="zombie02" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="zombie02a" extra="true">
+<visible>false</visible>
+	  </image>
+
+	 <image name="sonic and tails02" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="sonic and tails02a" extra="true">
+<visible>false</visible>
+	  </image>
+
+	 <image name="tails02" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="tails02a" extra="true">
+<visible>false</visible>
+	  </image>
+
+	 <image name="venom02" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="venom02a" extra="true">
+<visible>false</visible>
+	  </image>
+
+	 <image name="spider-man02" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="spider-man02a" extra="true">
+<visible>false</visible>
+	  </image>
+
+	 <image name="captain america02" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="captain america02a" extra="true">
+<visible>false</visible>
+	  </image>
+
+	 <image name="nemesis-t02" extra="true">
+<visible>false</visible> 
+	  </image>
+	 <image name="nemesis-t02a" extra="true">
+<visible>false</visible>
 	  </image>	
 </view>
    </theme>

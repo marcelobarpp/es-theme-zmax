@@ -65,7 +65,8 @@
 	  </image>
 	      <helpsystem name="help">
      <origin>0 0</origin>
-     <pos>0.05 0.973</pos>
+     <pos>0.01 0.973</pos>
+     <fontSize>0.018</fontSize>
      </helpsystem>
 <text name="systemInfo">
      <pos>-0.05 0.15</pos>
@@ -137,22 +138,8 @@
 		<maxSize>0.2 0.2</maxSize>
 		<color>ffffff</color>
 	    <rotation>05</rotation>    
-		<path>./_inc/chars/char231.png</path>
+		<path>./_inc/chars/char231.gif</path>
 		<zIndex>314</zIndex>
-	  </image>
-	 <image name="character02a" extra="true">
-		<zIndex>310</zIndex>
-		<pos>1 0.28</pos>
-		<maxSize>0.65 0.65</maxSize>
-		<color>ffffff</color>
-		<path>./_inc/chars/char234.gif</path>
-	  </image>
-	 <image name="character02" extra="true">
-		<zIndex>310</zIndex>
-		<pos>-3  0.28</pos>
-		<maxSize>0.65 0.65</maxSize>
-		<color>ffffff</color>
-		<path>./_inc/chars/char234a.gif</path>
 	  </image>
 	 <image name="character3" extra="true">
 		<pos>0.12 0.23</pos>
@@ -211,7 +198,8 @@
 </image>
 	      <helpsystem name="help">
      <origin>0 0</origin>
-     <pos>0.05 0.973</pos>
+     <pos>0.01 0.973</pos>
+     <fontSize>0.018</fontSize>
      </helpsystem>
       <text name="md_name">
 <visible>true</visible> 
@@ -312,10 +300,10 @@
          <size>0.04 0.1</size>
 		<zIndex>36</zIndex>
 	      </image> 
-      <text name="md_name">
-     <pos>0.35 0.15</pos>
+       <text name="md_name">
+     <pos>0.25 0.15</pos>
      <origin>0 0</origin>
-         <zIndex>22</zIndex>
+         <zIndex>522</zIndex>
       </text>
 	 <image name="character07" extra="true">
 		<pos>0.9505 0.5</pos>
@@ -330,22 +318,8 @@
 		<maxSize>0.2 0.2</maxSize>
 		<color>ffffff</color>
 	    <rotation>05</rotation>    
-		<path>./_inc/chars/char231.png</path>
+		<path>./_inc/chars/char231.gif</path>
 		<zIndex>314</zIndex>
-	  </image>
-	 <image name="character02a" extra="true">
-		<zIndex>310</zIndex>
-		<pos>1 0.28</pos>
-		<maxSize>0.65 0.65</maxSize>
-		<color>ffffff</color>
-		<path>./_inc/chars/char234.gif</path>
-	  </image>
-	 <image name="character02" extra="true">
-		<zIndex>310</zIndex>
-		<pos>-3  0.28</pos>
-		<maxSize>0.65 0.65</maxSize>
-		<color>ffffff</color>
-		<path>./_inc/chars/char234a.gif</path>
 	  </image>
 	 <image name="character3" extra="true">
 		<pos>0.12 0.23</pos>

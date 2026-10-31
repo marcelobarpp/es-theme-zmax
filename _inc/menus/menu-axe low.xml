@@ -64,7 +64,8 @@
 </video>
 	      <helpsystem name="help">
      <origin>0 0</origin>
-     <pos>0.05 0.973</pos>
+     <pos>0.01 0.973</pos>
+     <fontSize>0.018</fontSize>
      </helpsystem>
 <text name="systemInfo">
      <pos>-0.3 0.835</pos>
@@ -140,8 +141,8 @@
          <zIndex>999</zIndex>          
       </image>
 	 <image name="character3" extra="true">
-		<pos>0.15 0.15</pos>
-		<maxSize>0.75 0.75</maxSize>
+		<pos>0.05 0.24</pos>
+		<maxSize>0.67 0.67</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/chars/char62.gif</path>
 		<zIndex>33</zIndex>
@@ -152,20 +153,6 @@
 		<color>ffffff</color>
 		<path>./_inc/chars/char239.gif</path>
 		<zIndex>30</zIndex>
-	  </image>
-	 <image name="character02a" extra="true">
-		<zIndex>310</zIndex>
-		<pos>1 0.25</pos>
-		<maxSize>0.7 0.7</maxSize>
-		<color>ffffff</color>
-		<path>./_inc/chars/char164.gif</path>
-	  </image>
-	 <image name="character02" extra="true">
-		<zIndex>310</zIndex>
-		<pos>-3  0.25</pos>
-		<maxSize>0.7 0.7</maxSize>
-		<color>ffffff</color>
-		<path>./_inc/chars/char164a.gif</path>
 	  </image>
 	 <image name="character07" extra="true">
 		<pos>0.955 0.5</pos>
@@ -188,7 +175,7 @@
 		<maxSize>0.2 0.2</maxSize>
 		<color>ffffff</color>
 	    <rotation>05</rotation>    
-		<path>./_inc/chars/char231.png</path>
+		<path>./_inc/chars/char231.gif</path>
 		<zIndex>314</zIndex>
 	  </image>
  </view>
@@ -258,7 +245,8 @@
 </image>
 	      <helpsystem name="help">
      <origin>0 0</origin>
-     <pos>0.05 0.973</pos>
+     <pos>0.01 0.973</pos>
+     <fontSize>0.018</fontSize>
      </helpsystem>
       <text name="md_name">
 <visible>true</visible> 
@@ -355,8 +343,8 @@
          <zIndex>70</zIndex>
       </text>
 	 <image name="character3" extra="true">
-		<pos>0.15 0.15</pos>
-		<maxSize>0.75 0.75</maxSize>
+		<pos>0.05 0.24</pos>
+		<maxSize>0.67 0.67</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/chars/char62.gif</path>
 		<zIndex>33</zIndex>
@@ -367,20 +355,6 @@
 		<color>ffffff</color>
 		<path>./_inc/chars/char239.gif</path>
 		<zIndex>30</zIndex>
-	  </image>
-	 <image name="character01a" extra="true">
-		<zIndex>310</zIndex>
-		<pos>1 0.25</pos>
-		<maxSize>0.7 0.7</maxSize>
-		<color>ffffff</color>
-		<path>./_inc/chars/char164.gif</path>
-	  </image>
-	 <image name="character01" extra="true">
-		<zIndex>310</zIndex>
-		<pos>-3  0.25</pos>
-		<maxSize>0.7 0.7</maxSize>
-		<color>ffffff</color>
-		<path>./_inc/chars/char164a.gif</path>
 	  </image>
 	 <image name="character07" extra="true">
 		<pos>0.955 0.5</pos>
@@ -403,7 +377,7 @@
 		<maxSize>0.2 0.2</maxSize>
 		<color>ffffff</color>
 	    <rotation>05</rotation>    
-		<path>./_inc/chars/char231.png</path>
+		<path>./_inc/chars/char231.gif</path>
 		<zIndex>314</zIndex>
 	  </image>
 	    <image name="logo" extra="true">
@@ -449,6 +423,6 @@
 	</image>
       <image name="thumbnail-hypermax">
 <visible>false</visible> 
-      </image>	
+      </image>
 </view>
    </theme>

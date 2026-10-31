@@ -1,0 +1,23 @@
+<theme>
+   <formatVersion>7</formatVersion>
+<view name="system, systemcarousel">
+<text name="systemInfo">
+       <fontPath>./_inc/fonts/fishermanbook.ttf</fontPath>
+      </text> 
+	 <helpsystem name="help">
+       <fontPath>./_inc/fonts/fishermanbook.ttf</fontPath>
+     <fontSize>0.0148</fontSize>
+     <pos>0.01 0.978</pos>
+     </helpsystem>
+</view>
+<view name=" gamecarousel">
+<text name="md_name">
+       <fontPath>./_inc/fonts/fishermanbook.ttf</fontPath>
+      </text>
+	<helpsystem name="help">
+       <fontPath>./_inc/fonts/fishermanbook.ttf</fontPath>
+     <fontSize>0.0148</fontSize>
+     <pos>0.01 0.978</pos>
+     </helpsystem>
+ </view>
+</theme>

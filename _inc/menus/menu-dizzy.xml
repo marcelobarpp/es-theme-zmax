@@ -65,7 +65,8 @@
 </video>
 	      <helpsystem name="help">
      <origin>0 0</origin>
-     <pos>0.05 0.973</pos>
+     <pos>0.01 0.973</pos>
+     <fontSize>0.018</fontSize>
      </helpsystem>
 <text name="systemInfo">
      <pos>-0.33 0.115</pos>
@@ -144,7 +145,7 @@
 		<maxSize>0.2 0.2</maxSize>
 		<color>ffffff</color>
 	    <rotation>05</rotation>    
-		<path>./_inc/chars/char231.png</path>
+		<path>./_inc/chars/char231.gif</path>
 		<zIndex>314</zIndex>
 	  </image>
 	 <image name="character3" extra="true">
@@ -153,20 +154,6 @@
 		<color>ffffff</color>
 		<path>./_inc/chars/char255.gif</path>
 		<zIndex>35</zIndex>
-	  </image>
-	 <image name="character02a" extra="true">
-		<zIndex>310</zIndex>
-		<pos>1 0.25</pos>
-		<maxSize>0.7 0.7</maxSize>
-		<color>ffffff</color>
-		<path>./_inc/chars/char194.gif</path>
-	  </image>
-	 <image name="character02" extra="true">
-		<zIndex>310</zIndex>
-		<pos>-3  0.25</pos>
-		<maxSize>0.7 0.7</maxSize>
-		<color>ffffff</color>
-		<path>./_inc/chars/char194a.gif</path>
 	  </image>
  </view>
 <view name=" gamecarousel">
@@ -226,7 +213,8 @@
 </image>
 	      <helpsystem name="help">
      <origin>0 0</origin>
-     <pos>0.05 0.973</pos>
+     <pos>0.01 0.973</pos>
+     <fontSize>0.018</fontSize>
      </helpsystem>
       <text name="md_name">
 <visible>true</visible> 
@@ -328,7 +316,7 @@
 		<maxSize>0.2 0.2</maxSize>
 		<color>ffffff</color>
 	    <rotation>05</rotation>    
-		<path>./_inc/chars/char231.png</path>
+		<path>./_inc/chars/char231.gif</path>
 		<zIndex>314</zIndex>
 	  </image>
 	 <image name="character3" extra="true">
@@ -337,20 +325,6 @@
 		<color>ffffff</color>
 		<path>./_inc/chars/char255.gif</path>
 		<zIndex>35</zIndex>
-	  </image>
-	 <image name="character02a" extra="true">
-		<zIndex>310</zIndex>
-		<pos>1 0.25</pos>
-		<maxSize>0.7 0.7</maxSize>
-		<color>ffffff</color>
-		<path>./_inc/chars/char194.gif</path>
-	  </image>
-	 <image name="character02" extra="true">
-		<zIndex>310</zIndex>
-		<pos>-3  0.25</pos>
-		<maxSize>0.7 0.7</maxSize>
-		<color>ffffff</color>
-		<path>./_inc/chars/char194a.gif</path>
 	  </image>
 	    <image name="logo" extra="true">
 <visible>false</visible> 

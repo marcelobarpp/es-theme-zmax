@@ -65,7 +65,8 @@
 </video>
 	      <helpsystem name="help">
      <origin>0 0</origin>
-     <pos>0.05 0.973</pos>
+     <pos>0.01 0.973</pos>
+     <fontSize>0.018</fontSize>
      </helpsystem>
 <text name="systemInfo">
      <pos>-0.33 0.115</pos>
@@ -146,26 +147,12 @@
 		<path>./_inc/chars/char246.gif</path>
 		<zIndex>35</zIndex>
 	  </image>
-	 <image name="character02a" extra="true">
-		<zIndex>310</zIndex>
-		<pos>1 0.3</pos>
-		<maxSize>0.65 0.65</maxSize>
-		<color>ffffff</color>
-		<path>./_inc/chars/char251.gif</path>
-	  </image>
-	 <image name="character02" extra="true">
-		<zIndex>310</zIndex>
-		<pos>-3  0.3</pos>
-		<maxSize>0.65 0.65</maxSize>
-		<color>ffffff</color>
-		<path>./_inc/chars/char251a.gif</path>
-	  </image>
 	 <image name="character06" extra="true">
 		<pos>-0.2 0.22</pos>
 		<maxSize>0.2 0.2</maxSize>
 		<color>ffffff</color>
 	    <rotation>05</rotation>    
-		<path>./_inc/chars/char231.png</path>
+		<path>./_inc/chars/char231.gif</path>
 		<zIndex>314</zIndex>
 	  </image>
  </view>
@@ -226,7 +213,8 @@
 </image>
 	      <helpsystem name="help">
      <origin>0 0</origin>
-     <pos>0.05 0.973</pos>
+     <pos>0.01 0.973</pos>
+     <fontSize>0.018</fontSize>
      </helpsystem>
       <text name="md_name">
 <visible>true</visible> 
@@ -330,26 +318,12 @@
 		<path>./_inc/chars/char246.gif</path>
 		<zIndex>35</zIndex>
 	  </image>
-	 <image name="character02a" extra="true">
-		<zIndex>310</zIndex>
-		<pos>1 0.3</pos>
-		<maxSize>0.65 0.65</maxSize>
-		<color>ffffff</color>
-		<path>./_inc/chars/char251.gif</path>
-	  </image>
-	 <image name="character02" extra="true">
-		<zIndex>310</zIndex>
-		<pos>-3  0.3</pos>
-		<maxSize>0.65 0.65</maxSize>
-		<color>ffffff</color>
-		<path>./_inc/chars/char251a.gif</path>
-	  </image>
 	 <image name="character06" extra="true">
 		<pos>-0.2 0.22</pos>
 		<maxSize>0.2 0.2</maxSize>
 		<color>ffffff</color>
 	    <rotation>05</rotation>    
-		<path>./_inc/chars/char231.png</path>
+		<path>./_inc/chars/char231.gif</path>
 		<zIndex>314</zIndex>
 	  </image>
 	    <image name="logo" extra="true">

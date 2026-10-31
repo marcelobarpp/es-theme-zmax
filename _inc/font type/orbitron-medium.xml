@@ -1,0 +1,23 @@
+<theme>
+   <formatVersion>7</formatVersion>
+<view name="system, systemcarousel">
+<text name="systemInfo">
+       <fontPath>./_inc/fonts/orbitron-medium.ttf</fontPath>
+      </text> 
+	 <helpsystem name="help">
+       <fontPath>./_inc/fonts/orbitron-medium.ttf</fontPath>
+     <pos>0.01 0.975</pos>
+     <fontSize>0.0185</fontSize>
+     </helpsystem>
+</view>
+<view name=" gamecarousel">
+<text name="md_name">
+       <fontPath>./_inc/fonts/orbitron-medium.ttf</fontPath>
+      </text>
+	<helpsystem name="help">
+       <fontPath>./_inc/fonts/orbitron-medium.ttf</fontPath>
+     <pos>0.01 0.975</pos>
+     <fontSize>0.0185</fontSize>
+     </helpsystem>
+ </view>
+</theme>

@@ -1,0 +1,21 @@
+<theme>
+   <formatVersion>7</formatVersion>
+<view name="system, systemcarousel">
+<text name="systemInfo">
+       <fontPath>./_inc/fonts/cave-stone.otf</fontPath>
+      </text> 
+	 <helpsystem name="help">
+       <fontPath>./_inc/fonts/cave-stone.otf</fontPath>
+     <fontSize>0.023</fontSize>
+     </helpsystem>
+</view>
+<view name=" gamecarousel">
+<text name="md_name">
+       <fontPath>./_inc/fonts/cave-stone.otf</fontPath>
+      </text>
+	<helpsystem name="help">
+       <fontPath>./_inc/fonts/cave-stone.otf</fontPath>
+     <fontSize>0.023</fontSize>
+     </helpsystem>
+ </view>
+</theme>
