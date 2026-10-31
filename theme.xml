@@ -252,15 +252,14 @@
 
 
 
-
 <view name="screen">
 <text name="clock">
 		<glowColor>101010</glowColor>
 		<glowSize>2</glowSize>
-		<fontSize>0.028</fontSize>
+		<fontSize>0.039</fontSize>
 		<color>ffffff</color>
 		<fontPath>./_inc/fonts/digib.ttf</fontPath>
-		<pos>0.94 0.964</pos>
+		<pos>0.947 0.956</pos>
 		<verticalAlignment>center</verticalAlignment>
 		</text>
 
