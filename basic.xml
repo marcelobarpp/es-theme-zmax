@@ -110,6 +110,7 @@
 	   <image name="char0001" extra="true">
 <visible>false</visible>
       </image>
+
 </view>
    
    </theme>

@@ -168,7 +168,11 @@
         <forceUppercase>1</forceUppercase>
 	    <rotation>-90</rotation>   
 	    <zIndex>999</zIndex>
-    </text>	
+    </text>
+	 <image name="jotaro kujo02a" extra="true">
+<visible>false</visible> 
+	  </image>
+	
 </view>
    
    </theme>

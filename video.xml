@@ -274,6 +274,10 @@
 			<pos>0.487 0.08</pos>
 			<path>./_art/icons/heart.png</path>
 		</image>
+	 <image name="jotaro kujo02a" extra="true">
+<visible>false</visible> 
+	  </image>
+
    </view>
   
    </theme>

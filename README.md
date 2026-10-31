@@ -11,37 +11,36 @@ Emulationstation Theme for Batocera and RetroBat.<br/>
 </p>
 Screenshots
 		
-![](https://i.imgur.com/Dl6e9Rm.png)	![](https://i.imgur.com/oy5pzoY.png)	![](https://i.imgur.com/13j40xX.png)
-![](https://i.imgur.com/reTaVTF.png)	
-!
-Info
+![](https://i.imgur.com/HzbwZdO.png)	![](https://i.imgur.com/bEvT1Pr.png)
+![](https://i.imgur.com/LMer1gk.png)	![](https://i.imgur.com/oy5pzoY.png)	![](https://i.imgur.com/13j40xX.png)
+![](https://i.imgur.com/reTaVTF.png)	![](https://i.imgur.com/Dl6e9Rm.png)
+
+## Social Network
+
+https://www.facebook.com/groups/589221305443200?locale=pt_BR
+
+https://youtu.be/EzMBZzjmm-g
+
+## RETROBAT fórum EmulationStation:
+
+https://retrobat.forumgaming.fr/f4-themes
+
+## Themes for Batocera-EmulationStation: https://batocera.org/themes.php
 
 
 
 ## Info
-
-I take no credit for the original theme/code. I'm unsure who the original creator of the HyperMax theme is/was?
-
-I simply want to keep the theme alive and updated as it is still very popular!
-
-## Change Log ##
-
-**May 12th 2025**
-Moved the theme/code to it's new GitHub Repo.
-The previous 84 changes date back from 9th Aug 2024 to 11th May 2025
-and may be added here at some point for reference....
-
-All updates/commits can be seen here:
-https://github.com/marcelobarpp/es-theme-zmax.git
+It is now available in the download sections for both RetroBat and Batocera. I would like to thank the administration teams (lorenzolamas and getupor) for the warm welcome and for sharing this project, allowing everyone to enjoy it! If you come across any errors, please leave a comment so I can look into them; since I developed all of this in my spare time without any financial support—and given the large number of files and configurations involved—it is possible that something may have been overlooked. Thank you all for your understanding.
 
 ## Install
 
 The Z-max theme is now available in the 'Themes Downloader' section of RetroBat and Batocera!
 
 A video of the theme in action and all it's various options and views can be found here:
-https://youtu.be/krDWGOvwqsA
+https://youtu.be/EzMBZzjmm-g
 
-How to manually add themes to Batocera and RetroBat:
+
+## How to manually add themes to Batocera and RetroBat:
 
 Batocera:
 
@@ -58,6 +57,7 @@ Batocera:
 6. Copy the theme folder (created from the unzipped file) into the /userdata/themes directory. 
 
 7. Restart your Batocera device for the changes to take effect.
+
 
 
 RetroBat:
@@ -79,12 +79,12 @@ RetroBat:
 
 Both:
 
-Within the themes folder you should end up with a folder called HyperMax-Plus-PixN and inside that all the theme files including the main theme.xml
+Within the themes folder you should end up with a folder called Zmax and inside that all the theme files including the main theme.xml
 
 ## Credits
 
-- Original Theme Author:
-  - tbc
+- Original Theme Author: m.estevambarpp
+
 
 ## License
 
