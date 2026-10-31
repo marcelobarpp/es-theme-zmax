@@ -4,17 +4,17 @@
 	<view name="menu, system, basic, detailed, video, grid, gamecarousel">
 		<helpsystem name="help">
 			<iconColor>FFFFFFFF</iconColor>
-			<iconUpDown>./arcade/updown.png</iconUpDown>
-			<iconLeftRight>./arcade/leftright.png</iconLeftRight>
-			<iconUpDownLeftRight>./arcade/all.png</iconUpDownLeftRight>
-			<iconA>./arcade/a.png</iconA>
-			<iconB>./arcade/b.png</iconB>
-			<iconX>./arcade/x.png</iconX>
-			<iconY>./arcade/y.png</iconY>
-			<iconL>./arcade/l.png</iconL>
-			<iconR>./arcade/r.png</iconR>
-			<iconStart>./arcade/start.png</iconStart>
-			<iconSelect>./arcade/select.png</iconSelect>
+			<iconUpDown>./xboxone/updown.png</iconUpDown>
+			<iconLeftRight>./xboxone/leftright.png</iconLeftRight>
+			<iconUpDownLeftRight>./xboxone/all.png</iconUpDownLeftRight>
+			<iconA>./xboxone/a.png</iconA>
+			<iconB>./xboxone/b.png</iconB>
+			<iconX>./xboxone/x.png</iconX>
+			<iconY>./xboxone/y.png</iconY>
+			<iconL>./xboxone/l.png</iconL>
+			<iconR>./xboxone/r.png</iconR>
+			<iconStart>./xboxone/start.png</iconStart>
+			<iconSelect>./xboxone/select.png</iconSelect>
 		</helpsystem>		
 	</view>
 	
