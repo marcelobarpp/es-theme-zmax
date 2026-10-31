@@ -243,7 +243,8 @@
     <include subset="brightness" name="60%">./_inc/shaders/shader-strong.xml</include>
     <include subset="brightness" name="40%">./_inc/shaders/shader-mask.xml</include>
 	
-
+   <include subset="video" name="off">./off-bg-video.xml</include>
+   <include subset="video" name="on">./on-bg-video.xml</include>
 
    <include>./_inc/gamebar/gamebar.xml</include>
 

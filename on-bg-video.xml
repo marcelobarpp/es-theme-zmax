@@ -1,0 +1,20 @@
+<theme>
+   <formatVersion>7</formatVersion>
+
+<view name="system">
+ 
+ <video name="video16" extra="true">
+<default>./default/_inc/noise.mp4</default>
+ <origin>0 0</origin>
+<pos>0 0</pos>
+<size>1 1</size>
+<color>ffffff</color>
+<path>{random}</path>
+<delay>0.08</delay>
+<zIndex>450</zIndex>
+</video>
+video="backgroundvideo" extra="true">
+<visible>false</visible> 
+</video>
+</view>
+</theme>
