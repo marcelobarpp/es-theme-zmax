@@ -255,11 +255,11 @@
 <view name="screen">
 <text name="clock">
 		<glowColor>101010</glowColor>
-		<fontSize>0.038</fontSize>
+		<glowSize>2</glowSize>
+		<fontSize>0.028</fontSize>
 		<color>ffffff</color>
 		<fontPath>./_inc/fonts/digib.ttf</fontPath>
-		<pos>0.948 0.955</pos>
-		<size>0.05 0.058</size>
+		<pos>0.94 0.964</pos>
 		<verticalAlignment>center</verticalAlignment>
 		</text>
 
