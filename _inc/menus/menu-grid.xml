@@ -3,7 +3,7 @@
 <view name="system">	 		  
 <carousel name="systemcarousel">
 		<type>vertical</type>
-		<pos>-0.05 0</pos>
+		<pos>-0.03 0</pos>
 		<size>1 1</size>
 		<origin>0 0</origin>
 		<color>00000000</color>
