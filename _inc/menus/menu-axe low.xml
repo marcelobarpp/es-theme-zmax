@@ -232,13 +232,6 @@
 		<path>./_inc/consoles/${system.theme}.png</path>
 		<zIndex>60</zIndex>
 	  </image>
-	    <image name="md_marquee" extra="true">
-<pos>0.501 0.06</pos>
-<maxSize>0.222 0.222</maxSize>
-<origin>0.5 0.5</origin>
-	  <color>ffffff</color>
-<zIndex>70</zIndex>
-</image>
       <text name="md_name">
 <visible>true</visible> 
       </text>
@@ -254,11 +247,11 @@
 <gamecarousel name="gamecarousel">
 <zIndex>69</zIndex>	      
 <type>horizontal</type>
-<pos>0.001 -0.44</pos>
+<pos>0.001 -0.43972</pos>
 <size>1  1</size>
 <logoScale>1</logoScale>
 <logoSize>0.195 0.195</logoSize>
-<color>0000000</color>
+<color>00000000</color>
 <maxLogoCount>5.3</maxLogoCount>
 <logoRotation>1</logoRotation>
 <logoRotationOrigin>2.9 0.5</logoRotationOrigin>

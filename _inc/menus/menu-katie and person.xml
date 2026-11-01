@@ -404,14 +404,6 @@
 		<path>./_inc/fanart/${system.theme}.jpg</path>
 		<zIndex>12</zIndex>
 	  </image>
-
-	    <image name="md_marquee" extra="true">
-<pos>0.501 0.06</pos>
-<maxSize>0.222 0.222</maxSize>
-<origin>0.5 0.5</origin>
-	  <color>ffffff</color>
-<zIndex>19</zIndex>
-</image>
     <image name="md_thumbnail"> 
 		<pos>0.6085 0.254</pos>
 	    <maxSize>0.2 0.19</maxSize>
@@ -491,9 +483,6 @@
 	<image name="shadowcover01" extra="true">
       <visible>false</visible> 
 	</image>
- 	<image name="md_marquee" extra="true">
-<visible>true</visible> 
-</image>
   	<image name="logo03" extra="true">
 <visible>false</visible> 
 	</image>

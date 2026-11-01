@@ -16,6 +16,14 @@
 	   <image name="char0001" extra="true">
 <visible>false</visible>
       </image>
+
+	  	<image name="cliente" extra="true">
+		<pos>0.62 0.01</pos>
+		<maxSize>0.08 0.08</maxSize>
+		<color>ffffff</color>
+		<path>./_inc/assets/cliente.png</path>
+		<zIndex>999</zIndex>
+	  </image>
 	
 	 <image name="borde" extra="true">
          <origin>0 0</origin>
@@ -82,9 +90,9 @@
 	
 
 
-     <image name="logo03">
+      <image name="logo03">
+       <path>./_inc/logo.png</path>
 	  	 <path>./_inc/logos/${system.theme}.png</path>
-		 <path>./_inc/logos/${system.theme}.svg</path>
          <pos>0.2 0.03</pos>
          <size>0.2 0</size>
 		 <linearSmooth>true</linearSmooth>
@@ -100,6 +108,6 @@
 		<zIndex>1</zIndex>
     </image>
 	
-</customView>
+</view>
 
 </theme>

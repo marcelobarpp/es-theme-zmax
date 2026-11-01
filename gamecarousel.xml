@@ -90,16 +90,7 @@
 			<pos>0.87 0.77</pos>
 			<maxSize>0.14 0.2</maxSize>
 			<zIndex>90</zIndex>
-		</image>
-		
-   		<image name="md_marquee">
-			<pos>0.62 0.134</pos>
-			<maxSize>0.253 0.199</maxSize>
-			<origin>0.5 0.5</origin>
-			<linearSmooth>true</linearSmooth>
-			<zIndex>900</zIndex> 
-		</image>
- 
+		</image>		
 	
      <video name="md_video">
 		<color>ffffff</color>
@@ -148,6 +139,10 @@
 	    <rotation>-90</rotation>   
 	    <zIndex>999</zIndex>
     </text>
+ 	<image name="md_marquee" extra="true">
+<visible>true</visible> 
+</image>
+
 	 <image name="jotaro kujo02a" extra="true">
 <visible>false</visible> 
 	  </image>
