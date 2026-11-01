@@ -6,6 +6,7 @@
       </text> 
 	 <helpsystem name="help">
        <fontPath>./_inc/fonts/cave-stone.otf</fontPath>
+     <pos>0.01 0.972</pos>
      <fontSize>0.023</fontSize>
      </helpsystem>
 </view>
@@ -15,6 +16,7 @@
       </text>
 	<helpsystem name="help">
        <fontPath>./_inc/fonts/cave-stone.otf</fontPath>
+     <pos>0.01 0.972</pos>
      <fontSize>0.023</fontSize>
      </helpsystem>
  </view>

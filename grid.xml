@@ -18,6 +18,17 @@
 <visible>false</visible>
       </image>
 	  
+ <image name="logo03" extra="true">
+        <pos>0.586 0.009</pos>
+        <maxSize>0.16 0.16</maxSize>
+		<path>./default/_inc/logo.png</path>
+		<path>./_inc/logos/${system.theme}.png</path>
+		<path>./_inc/logos/${system.theme}.svg</path>
+		<path>./_inc/logos/${system.theme}-w.png</path>
+		<path>./_inc/logos/${system.theme}-w.svg</path>
+		<color>ffffff</color>
+	    <zIndex>400</zIndex>
+	</image>
 	 
 	 	        <image name="borde" extra="true">
          <origin>0 0</origin>

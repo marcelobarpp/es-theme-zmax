@@ -251,10 +251,11 @@
 <text name="clock">
 		<glowColor>101010</glowColor>
 		<glowSize>2</glowSize>
-		<fontSize>0.039</fontSize>
+		<fontSize>0.032</fontSize>
 		<color>ffffff</color>
 		<fontPath>./_inc/fonts/digib.ttf</fontPath>
-		<pos>0.947 0.956</pos>
+		<pos>0.94 0.95</pos>
+		<size>0.06 0.07</size>
 		<verticalAlignment>center</verticalAlignment>
 		</text>
 

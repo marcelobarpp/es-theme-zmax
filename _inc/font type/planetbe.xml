@@ -7,6 +7,7 @@
 	 <helpsystem name="help">
        <fontPath>./_inc/fonts/planetbe.ttf</fontPath>
      <pos>0.01 0.97</pos>
+     <fontSize>0.020</fontSize>
      </helpsystem>
 </view>
 <view name=" basic, detailed, video, grid, gamecarousel">
@@ -16,6 +17,7 @@
 	<helpsystem name="help">
        <fontPath>./_inc/fonts/planetbe.ttf</fontPath>
      <pos>0.01 0.97</pos>
+     <fontSize>0.020</fontSize>
      </helpsystem>
  </view>
 </theme>

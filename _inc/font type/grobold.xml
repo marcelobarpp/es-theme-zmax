@@ -6,6 +6,7 @@
       </text> 
 	 <helpsystem name="help">
        <fontPath>./_inc/fonts/grobold.ttf</fontPath>
+     <pos>0.01 0.972</pos>
      <fontSize>0.019</fontSize>
      </helpsystem>
 </view>
@@ -15,6 +16,7 @@
       </text>
 	<helpsystem name="help">
        <fontPath>./_inc/fonts/grobold.ttf</fontPath>
+     <pos>0.01 0.972</pos>
      <fontSize>0.019</fontSize>
      </helpsystem>
  </view>
