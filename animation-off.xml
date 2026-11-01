@@ -6,12 +6,6 @@
 
 
 
-     <image name="logo">
-       <linearSmooth>true</linearSmooth>
-	   <path>./default/_inc/system1.png</path>
-	   <path>./${system.theme}/_inc/system1.png</path>
-	   </image>
-
          <image name="pointer02" extra="true">
          </image>
 
