@@ -109,8 +109,8 @@
    <include subset="bot additional" name="off">./gif-off1.xml</include>
    <include subset="bot additional" name="on">./gif-on1.xml</include>
 
-   <include subset="Logo" name="Logo long">./m-long.xml</include>
    <include subset="Logo" name="Logo logo">./m-logo.xml</include>
+   <include subset="Logo" name="Logo long">./m-long.xml</include>
 
    <include subset="Animation" name="off">./animation-off.xml</include>
    <include subset="Animation" name="on">./animation-on.xml</include>
