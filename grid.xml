@@ -82,10 +82,10 @@
 	
 
 
-      <image name="logo">
+     <image name="logo03">
 	  	 <path>./_inc/logos/${system.theme}.png</path>
 		 <path>./_inc/logos/${system.theme}.svg</path>
-         <pos>0.3 0.045</pos>
+         <pos>0.2 0.03</pos>
          <size>0.2 0</size>
 		 <linearSmooth>true</linearSmooth>
 		 <zIndex>55</zIndex>
