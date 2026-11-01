@@ -2,139 +2,104 @@
 <theme>
 <formatVersion>7</formatVersion>
 
-   <!---------------------------grid------------------------------------- -->
 
-   <view name="grid">
-	  
-<image name="cliente" extra="true">
-<pos>0.27 0.03</pos>
-<maxSize>0.08 0.08</maxSize>
-<color>ffffff</color>
-<path>./_inc/assets/cliente.png</path>
-<zIndex>999</zIndex>
-</image>
-
+	
+<view name="grid">
+	
+	<image name="bg_spoofer" extra="true">
+		<linearSmooth>true</linearSmooth>
+		<size>1 1</size>
+		<pos>0 0</pos>
+		<path>./_inc/black1.png</path>
+		<zIndex>2</zIndex>
+	</image>
 	   <image name="char0001" extra="true">
 <visible>false</visible>
       </image>
-	  
- <image name="logo03" extra="true">
-        <pos>0.586 0.009</pos>
-        <maxSize>0.16 0.16</maxSize>
-		<path>./default/_inc/logo.png</path>
-		<path>./_inc/logos/${system.theme}.png</path>
-		<path>./_inc/logos/${system.theme}.svg</path>
-		<path>./_inc/logos/${system.theme}-w.png</path>
-		<path>./_inc/logos/${system.theme}-w.svg</path>
-		<color>ffffff</color>
-	    <zIndex>400</zIndex>
-	</image>
-	 
-	 	        <image name="borde" extra="true">
+	
+	 <image name="borde" extra="true">
          <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>        
          <path>./_inc/borde.png</path>
-         <zIndex>99999</zIndex>          
-      </image> 
-   
+         <zIndex>999</zIndex>          
+      </image>
 
-      <image name="character" extra="true">
-         <origin>0 0</origin>
-         <pos>0 0</pos>
-         <size>1 1</size>  
-		 <path>./default/_inc/grid.png</path>
-         <path>./${system.theme}/_inc/character.png</path>
-		<zIndex>4</zIndex> 
-      </image> 
-   	
-<video name="md_video">
-<color>ffffff</color>
-<size>0.6 0.8</size>
+<image name="pointer1" extra="true">
+<pos>0.963 0.50</pos>
 <origin>0.5 0.5</origin>
-<pos>0.65 0.485</pos>
-<delay>0.5</delay>
-<loops>3</loops>
-<effect>none</effect>		 
-<showSnapshotNoVideo>true</showSnapshotNoVideo>
-<showSnapshotDelay>true</showSnapshotDelay>
-<zIndex>2</zIndex>
-</video>
-
-<imagegrid name="gamegrid">
-<pos>-0.073 0.05</pos>
-<size>0.30 0.89</size>
-<padding>0.08 0 0.08 0</padding>
-<scrollDirection>vertical</scrollDirection>
-<autoLayout>1 7</autoLayout>
-<autoLayoutSelectedZoom>1</autoLayoutSelectedZoom>
-<margin>0 0.015</margin>
-<centerSelection>true</centerSelection>
-<scrollLoop>true</scrollLoop>
-<imageSource>marquee</imageSource>
-<folderImage>./_inc/art/folder.png</folderImage>
-<gameImage>./default/game.png</gameImage>
-<zIndex>300</zIndex>  
-</imagegrid>
-
-<image name="gridtile.favorite">
-<path>./art/gridfav.png</path>
-<pos>0.75 0</pos>
-<maxSize>0.25 0.25</maxSize>
-<origin>0 0</origin>
-<color>A0A0A0A0</color>
-</image>  
-    
-<gridtile name="default">
-<padding>1 1</padding>
-<backgroundCenterColor>FFFFFF00</backgroundCenterColor>
-<backgroundEdgeColor>FFFFFF00</backgroundEdgeColor>
-<imageSizeMode>maxSize</imageSizeMode>
-<imageColor>FFFFFF</imageColor>
-<reflexion>0.09 0.0</reflexion>
-</gridtile>
-
-<gridtile name="selected">
-<backgroundCenterColor>ff000000</backgroundCenterColor>
-<backgroundEdgeColor>ff000000</backgroundEdgeColor>
-<padding>55 13</padding>
-<imageColor>FFFFFF</imageColor>
-</gridtile>
-
-<text name="gridtile">
-<color>1C00ff00</color>
-<backgroundColor>00000000</backgroundColor>
-<fontSize>0.022</fontSize>
-<alignment>center</alignment>
-<size>1 0.24</size>
-</text>
-
-<text name="gridtile_selected">
-<color>1C00ff00</color>
-<glowColor>${glowColor}</glowColor>
-<glowSize>0</glowSize>
-</text>
-	
-<image name="shadowcover01" extra="true">
-<path>./_inc/art/grid.png</path>
-<size>1 1</size>
-<pos>0 0</pos>
-<origin>0 0</origin>
-<zIndex>10</zIndex>
+<size>0.075 0.175</size>
+<path>./art/sistemas/pointer/default.png</path>
+<path>./art/sistemas/pointer/${system.theme}.png</path>
+<zIndex>40</zIndex>
+</image> 
+<image name="pointer" extra="true">
+<visible>false</visible> 
 </image>
 
-<text name="logoText">
-<pos>0.691 0.444</pos>
-<fontSize>0.11</fontSize>
-<fontPath>./_inc/fonts/1.ttf</fontPath>
-<size>0.57 0.1</size>
-<alignment>center</alignment>
-<color>FFFFFFB3</color>
-<forceUppercase>1</forceUppercase>
-<rotation>-90</rotation>  
-<zIndex>999</zIndex>
-</text>	
+      <imagegrid name="gamegrid">
+         <pos>0.68 0</pos>
+         <size>0.3 1</size>
+         <scrollDirection>vertical</scrollDirection>
+         <autoLayout>1 7</autoLayout>
+         <autoLayoutSelectedZoom>1.30</autoLayoutSelectedZoom>
+         <margin>0.005 0.010</margin>
+         <centerSelection>true</centerSelection>
+         <scrollLoop>true</scrollLoop>
+		 <imageSource>marquee</imageSource>
+		 <scrollSound ifSubset="InterfaceSound:Type1">./assets/sounds/scroll01.wav</scrollSound>
+		 <scrollSound ifSubset="InterfaceSound:Type2">./assets/sounds/scroll.ogg</scrollSound>
+         <zIndex>8</zIndex>
+      </imagegrid>
 
-</view>
-   
+	      <gridtile name="default">
+         <padding>64 16</padding>
+         <backgroundCenterColor>FFFFFF00</backgroundCenterColor>
+         <backgroundEdgeColor>FFFFFF00</backgroundEdgeColor>
+         <imageSizeMode>maxSize</imageSizeMode>
+         <imageColor>FFFFFFAA</imageColor>
+         <reflexion>0.11 0.0</reflexion>
+      </gridtile>
+
+     <video name="md_video">
+	<pos>0.108 0.298</pos>
+         <size>0.364 0.481</size>
+         <origin>0 0</origin>
+         <delay>0</delay>
+         <showSnapshotNoVideo>true</showSnapshotNoVideo>
+         <showSnapshotDelay>false</showSnapshotDelay>
+         <zIndex>6</zIndex>
+      </video>
+ 
+      <image name="art1" extra="true">
+		 <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>  
+         <path>./_inc/coinops/default.png</path>
+         <path>./_inc/coinops/${system.theme}.png</path>
+         <zIndex>20</zIndex>
+      </image>
+	
+
+
+      <image name="logo">
+	  	 <path>./_inc/logos/${system.theme}.png</path>
+		 <path>./_inc/logos/${system.theme}.svg</path>
+         <pos>0.3 0.045</pos>
+         <size>0.2 0</size>
+		 <linearSmooth>true</linearSmooth>
+		 <zIndex>55</zIndex>
+	  </image>
+	  
+
+	<image name="md_fanart"  extra="true">
+		<linearSmooth>true</linearSmooth>
+		<size>1 1</size>
+		<pos>0  0</pos>
+		<origin>0 0</origin>
+		<zIndex>1</zIndex>
+    </image>
+	
+</customView>
+
 </theme>

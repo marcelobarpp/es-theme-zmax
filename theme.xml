@@ -180,8 +180,7 @@
    <include subset="font size" name="small">./_inc/font size/small.xml</include> 
    <include subset="font size" name="big">./_inc/font size/big.xml</include> 
 
-   <include subset="taskbar" name="Default">./_inc/taskbar/purple.xml</include> 
-   <include subset="taskbar" name="off">./_inc/taskbar/.xml</include> 
+   <include subset="taskbar" name="Default">./_inc/taskbar/off.xml</include> 
    <include subset="taskbar" name="green">./_inc/taskbar/green.xml</include>
    <include subset="taskbar" name="purple">./_inc/taskbar/purple.xml</include> 
    <include subset="taskbar" name="red">./_inc/taskbar/red.xml</include> 
@@ -341,5 +340,6 @@
    <include name="Video">./video.xml</include>
    <include name="Grid">./grid.xml</include>
    <include name="Gamecarousel">./gamecarousel.xml</include>
+   <include name="CoinOps Default">./coinops1.xml</include>
 
 </theme>
