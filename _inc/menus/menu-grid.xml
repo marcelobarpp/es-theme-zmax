@@ -452,9 +452,6 @@
  	<image name="md_marquee" extra="true">
 <visible>true</visible> 
 </image>
-  	<image name="logo03" extra="true">
-<visible>false</visible> 
-	</image>
 	<text name="logoText">
       <visible>false</visible> 
     </text>

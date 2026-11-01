@@ -252,16 +252,24 @@
       </video>
 
 
-      <image name="logo">
+      <image name="logo03">
 	  	 <path>./_inc/logos/${system.theme}.png</path>
 		 <path>./_inc/logos/${system.theme}.svg</path>
-         <pos>0.94 0.905</pos>
+         <pos>0.885 0.905</pos>
          <size>0.11 0</size>
 		 <linearSmooth>true</linearSmooth>
 		 <zIndex>15</zIndex>
 	  </image>
 
-
+	    <image name="logo3" extra="true">
+	<origin>0 0</origin>
+	  <color>ffffff</color>
+         <pos>0.2 0.03</pos>
+         <size>0.2 0</size>
+       <path>./_inc/logo.png</path>
+       <path>./_inc/logos/${system.theme}.png</path>
+	  <zIndex>55</zIndex>
+	</image>
 
    </customView>
 
