@@ -60,7 +60,7 @@
 		<size>1 1</size>
 		<pos>0 0</pos>
 		<path>./_inc/black1.png</path>
-		<zIndex>2</zIndex>
+		<zIndex>18</zIndex>
 	</image>
 	   <image name="char0001" extra="true">
 <visible>false</visible>
