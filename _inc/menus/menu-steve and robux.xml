@@ -257,7 +257,7 @@
 		 <zIndex>68</zIndex>
       </video>
       <text name="md_name">
-     <pos>0.4 0.15</pos>
+   <pos>0.4 0.15</pos>
      <origin>0 0</origin>
          <zIndex>522</zIndex>
       </text>

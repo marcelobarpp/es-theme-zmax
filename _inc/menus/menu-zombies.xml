@@ -284,7 +284,7 @@
 		<zIndex>36</zIndex>
 	      </image> 
       <text name="md_name">
-     <pos>0.25 0.15</pos>
+     <pos>0.35 0.15</pos>
      <origin>0 0</origin>
          <zIndex>522</zIndex>
       </text>

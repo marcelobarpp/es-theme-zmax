@@ -410,7 +410,7 @@
       <text name="md_name">
      <origin>0 0</origin>
      <fontSize>0.03</fontSize>
-     <pos>0.23 0.905</pos>
+     <pos>0.32 0.91</pos>
          <zIndex>60</zIndex>
       </text>
      <image name="md_fanart" extra="true">

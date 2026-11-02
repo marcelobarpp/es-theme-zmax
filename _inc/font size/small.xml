@@ -10,6 +10,7 @@
 
       <text name="md_name">
      <fontSize>0.02</fontSize>
+        <size>0.40 0.03</size>
       </text>
 
 	   </view>
