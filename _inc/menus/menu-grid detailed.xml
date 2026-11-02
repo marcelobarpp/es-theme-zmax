@@ -334,13 +334,29 @@
 	 </text>
 
 	<!-- Release Date -->
+	<text name="Release Date" extra="true">
+		<fontPath>./../_inc/fonts/Circular Std Book.ttf</fontPath>
+		<color>FFFFFF</color>
+		<alignment>left</alignment>
+		<fontSize>0.026</fontSize>
+		<lineSpacing>1</lineSpacing>
+         <pos>0.53 0.808</pos>
+         <size>0.374 0.078</size>
+		<glowColor>000000</glowColor>
+		<glowSize>1</glowSize>
+		<zIndex>42</zIndex>
+			<text>Release Date:</text>
+     </text>
+
+
+	<!-- Release Date -->
 	<text name="info3" extra="true">
 		<fontPath>./../_inc/fonts/Circular Std Black.ttf</fontPath>
-		<color>FFFFFF</color>
+		<color>cc0e18</color>
 		<alignment>left</alignment>
 		<fontSize>0.023</fontSize>
 		<lineSpacing>1</lineSpacing>
-         <pos>0.6 0.805</pos>
+         <pos>0.61 0.809</pos>
          <size>0.374 0.078</size>
 		<glowColor>000000</glowColor>
 		<glowOffset>2</glowOffset>
@@ -351,7 +367,7 @@
 	<!-- Manufacturer Name -->
 	<text name="info4" extra="true">
 		<fontPath>./../_inc/fonts/Circular Std Book.ttf</fontPath>
-		<color>FFFFFF</color>
+		<color>cc0e18</color>
 		<alignment>left</alignment>
 		<fontSize>0.023</fontSize>
 		<lineSpacing>1</lineSpacing>
@@ -362,15 +378,12 @@
 		<zIndex>42</zIndex>
       </text>
 
+
+		<text name="info2" extra="true">
+			<text>Release Date:</text>
+		</text>
+
 		<text name="info5" extra="true">
-			<text>FABRICANTE:</text>
-		</text>
-
-		<text name="info5" extra="true" lang="PT">
-			<text>FABRICANTE:</text>
-		</text>
-
-		<text name="info5" extra="true" lang="EN">
 			<text>MANUFACTURER:</text>
 		</text>
 
@@ -384,7 +397,7 @@
 		<lineSpacing>1</lineSpacing>
 		<size>0.35 0</size>
          <pos>0.75 0.835</pos>
-		<glowColor>00000080</glowColor>
+		<glowColor>000000</glowColor>
 		<glowSize>2</glowSize>
 		<zIndex>42</zIndex>
       </text>

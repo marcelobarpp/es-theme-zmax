@@ -38,19 +38,26 @@
       </text>
 
   <text name="md_publisher">
-         <pos>0.15 0.84</pos>
-         <size>0.22 0.102</size>
+         <pos>0.70 0.84</pos>
+         <size>0.15 0.018</size>
          <fontSize>0.020</fontSize>
          <color>539ac8</color>
-         <glowColor>000000</glowColor>
          <glowSize>1</glowSize>
          <fontPath>./_inc/fonts/Circular Std Book.ttf</fontPath>
          <alignment>left</alignment>
     </text>
+	<text name="md_lbl_publisher">
+		<fontPath>./_inc/fonts/Circular Std Book.ttf</fontPath>
+         <color>FFFFFF</color>
+         <glowColor>000000</glowColor>
+         <fontSize>0.022</fontSize>
+		<lineSpacing>1</lineSpacing>
+         <pos>0.60 0.835</pos>
+	</text>
 
       <text name="md_description">
-         <pos>0.15 0.90</pos>
-         <size>0.374 0.078</size>
+         <pos>0.145 0.88</pos>
+         <size>0.43 0.08</size>
          <fontSize>0.018</fontSize>
          <color>FFFFFF</color>
 		 <glowColor>000000</glowColor>
@@ -73,22 +80,24 @@
 
       <text name="md_lbl_releasedate">
 	     <forceUppercase>1</forceUppercase>
-         <pos>0.55 0.865</pos>
+         <pos>0.60 0.863</pos>
+         <glowColor>000000</glowColor>
          <size>0.15 0.018</size>
       </text>
       <datetime name="md_releasedate">
-	     <pos>0.65 0.865</pos>
+	     <pos>0.70 0.863</pos>
          <size>0.15 0.018</size>
 		 <alignment>left</alignment>
       </datetime>
 
       <text name="md_lbl_players">
 	     <forceUppercase>1</forceUppercase>
-         <pos>0.55 0.895</pos>
+         <pos>0.60 0.889</pos>
+         <glowColor>000000</glowColor>
          <size>0.15 0.018</size>
       </text>
       <text name="md_players">
-         <pos>0.65 0.895</pos>
+         <pos>0.70 0.889</pos>
          <size>0.038 0.023</size>
          <color>dddddd</color>
 		 <fontSize>0.033</fontSize>
@@ -98,20 +107,22 @@
 
       <text name="md_lbl_genre">
 	     <forceUppercase>1</forceUppercase>
-         <pos>0.55 0.925</pos>
+         <pos>0.60 0.915</pos>
+         <glowColor>000000</glowColor>
          <size>0.15 0.018</size>
       </text>
       <text name="md_genre">
-         <pos>0.65 0.925</pos>
+         <pos>0.70 0.915</pos>
          <size>0.17 0.018</size>
       </text>
 	  <text name="md_lbl_developer">
 	     <forceUppercase>1</forceUppercase>
-         <pos>0.55 0.955</pos>
+         <pos>0.60 0.94</pos>
+         <glowColor>000000</glowColor>
          <size>0.15 0.018</size>
       </text>
       <text name="md_developer">
-         <pos>0.65 0.955</pos>
+         <pos>0.70 0.94</pos>
          <size>0.17 0.018</size>
       </text>
 
