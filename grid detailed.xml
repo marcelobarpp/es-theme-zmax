@@ -184,11 +184,11 @@
 		</image>
 
       <imagegrid name="gamegrid">
-         <pos>0.68 0</pos>
-         <size>0.3 1</size>
+         <pos>0.735 0</pos>
+         <size>0.25 1</size>
          <scrollDirection>vertical</scrollDirection>
          <autoLayout>1 7</autoLayout>
-         <autoLayoutSelectedZoom>1.30</autoLayoutSelectedZoom>
+         <autoLayoutSelectedZoom>1.20</autoLayoutSelectedZoom>
          <margin>0.005 0.010</margin>
          <centerSelection>true</centerSelection>
          <scrollLoop>true</scrollLoop>
@@ -277,6 +277,66 @@
        <path>./_inc/logos/${system.theme}.png</path>
 	  <zIndex>55</zIndex>
 	</image>
+
+    <image name="art_play" extra="true">
+		 <origin>0 0</origin>
+		<size>0.09 0</size>
+		<pos>0.65 0.48</pos>
+         <path>./_inc/overlay_vermelho.png</path>
+		<delay>2</delay>
+         <zIndex>50</zIndex>
+      </image>
+
+
+
+	<text name="playbutton" extra="true">
+		<text>PLAY NOW</text>
+		<fontPath>./_inc/fonts/Circular Std Black.ttf</fontPath>
+		<alignment>center</alignment>
+		<color>FFFFFF</color>
+	    <fontSize>0.0155</fontSize>
+		<size>0.56 0</size>
+		<pos>0.405 0.493</pos>
+		<glowColor>000000</glowColor>
+		<glowSize>1.8</glowSize>
+		<zIndex>842</zIndex>
+	</text>
+
+
+	<image name="play1" extra="true">
+		<path>./_inc/playbutton.png</path>
+		<zIndex>103</zIndex>
+		<linearSmooth>true</linearSmooth>
+		<pos>0.71 0.479</pos>
+		<maxSize>0.06 0.05</maxSize>
+		<storyboard>
+		<animation property="rotation" from="-360" duration="1200" repeat="forever" mode="easeOutInQuint" /> 
+		</storyboard>
+	</image>
+
+	
+	<image name="play2" extra="true">
+		<path>./_inc/play.png</path>
+		<zIndex>102</zIndex>
+		<linearSmooth>true</linearSmooth>
+		<pos>0.7015 0.464</pos>
+		<maxSize>0.080 0.080</maxSize>
+		<storyboard>
+		<animation property="opacity" from="0.7" to="0.2" begin="995" duration="1800" mode="EaseIn" autoreverse="true" repeat="forever" />      
+        </storyboard>
+	</image>
+
+
+	<image name="strglow" extra="true">
+		<path>./_inc/strglow.png</path>
+		<zIndex>103</zIndex>
+		<pos>0.487 0.48</pos>
+		<size>1 1</size>
+		<storyboard repeat="5">
+		<animation property="offsetX" from="-0.0426" to="0.0185" duration="800" begin="500" autoreverse="true" repeat="forever" mode="easeInOutQuint"/>
+		</storyboard>
+	</image>
+
 
    </customView>
 

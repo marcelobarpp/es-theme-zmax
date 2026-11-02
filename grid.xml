@@ -47,15 +47,16 @@
 
 
       <imagegrid name="gamegrid">
-         <pos>0.68 0</pos>
-         <size>0.3 1</size>
+         <pos>0.735 0</pos>
+         <size>0.25 1</size>
          <scrollDirection>vertical</scrollDirection>
          <autoLayout>1 7</autoLayout>
-         <autoLayoutSelectedZoom>1.30</autoLayoutSelectedZoom>
+         <autoLayoutSelectedZoom>1.20</autoLayoutSelectedZoom>
          <margin>0.005 0.010</margin>
          <centerSelection>true</centerSelection>
          <scrollLoop>true</scrollLoop>
-         <imageSource>marquee</imageSource>
+		 <imageSource>marquee</imageSource>
+         <zIndex>8</zIndex>
       </imagegrid>
 	  
 	  <imagegrid name="gamegrid" ifSubset="wheelanim:yes">

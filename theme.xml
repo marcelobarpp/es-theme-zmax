@@ -18,7 +18,8 @@
 
    <include subset="systems and lists" name="tutorial">./_inc/menus/menu-tutorial.xml</include>
 
-   <include subset="systems and lists" name="grid (select the grid detailed)">./_inc/menus/menu-grid.xml</include>
+   <include subset="systems and lists" name="grid (select the grid)">./_inc/menus/menu-grid.xml</include>
+   <include subset="systems and lists" name="grid detailed (select the grid detailed)">./_inc/menus/menu-grid detailed.xml</include>
 
    <include subset="systems and lists" name="scene 1=subzero">./_inc/menus/menu-subzero.xml</include>
    <include subset="systems and lists" name="scene 1=sakura">./_inc/menus/menu-sakura.xml</include>
@@ -249,6 +250,7 @@
    <include subset="video" name="on">./on-bg-video.xml</include>
 
    <include>./_inc/gamebar/gamebar.xml</include>
+   <include>./$system/custom.xml</include>
 
 <!---------------------------screen----------------------------------------->
 
