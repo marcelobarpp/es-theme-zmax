@@ -89,17 +89,6 @@
       </image>
 	
 
-
-      <image name="logo3">
-       <path>./_inc/logo.png</path>
-	  	 <path>./_inc/logos/${system.theme}.png</path>
-         <pos>0.2 0.03</pos>
-         <size>0.2 0</size>
-		 <linearSmooth>true</linearSmooth>
-		 <zIndex>55</zIndex>
-	  </image>
-	  
-
 	<image name="md_fanart"  extra="true">
 		<linearSmooth>true</linearSmooth>
 		<size>1 1</size>
