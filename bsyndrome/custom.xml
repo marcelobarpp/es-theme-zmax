@@ -1,0 +1,40 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Decompilation project of the Bermuda Syndrome game.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="PT">
+			<text>Projeto de descompilação do jogo «Bermuda Syndrome».</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>Decompilation project of the Bermuda Syndrome game.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>Proyecto de descompilación del juego «Bermuda Syndrome».</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>Projet de décompilation du jeu « Bermuda Syndrome »</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Projekt zur Dekompilierung des Spiels „Bermuda Syndrome“.</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Bermuda Syndrome</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>2011</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>cyxx</text>
+		</text>
+	</view>
+</theme>

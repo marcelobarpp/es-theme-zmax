@@ -1,0 +1,47 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>RealRTCW is a community-driven single-player overhaul for Return to Castle Wolfenstein, built on top of the original iortcw and rtcw-sp source code.
+The project focuses on modernizing the engine, expanding gameplay systems, and improving overall stability and quality of life—while staying true to the original RTCW experience</text>
+		</text>
+
+		<text name="info1" extra="true" lang="PT">
+			<text>RealRTCW is a community-driven single-player overhaul for Return to Castle Wolfenstein, built on top of the original iortcw and rtcw-sp source code.
+The project focuses on modernizing the engine, expanding gameplay systems, and improving overall stability and quality of life—while staying true to the original RTCW experience</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>RealRTCW is a community-driven single-player overhaul for Return to Castle Wolfenstein, built on top of the original iortcw and rtcw-sp source code.
+The project focuses on modernizing the engine, expanding gameplay systems, and improving overall stability and quality of life—while staying true to the original RTCW experience</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>RealRTCW is a community-driven single-player overhaul for Return to Castle Wolfenstein, built on top of the original iortcw and rtcw-sp source code.
+The project focuses on modernizing the engine, expanding gameplay systems, and improving overall stability and quality of life—while staying true to the original RTCW experience</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>RealRTCW est une refonte en mode solo de Return to Castle Wolfenstein, développée par la communauté et s'appuyant sur les codes sources originaux d'iortcw et de rtcw-sp.
+Le projet vise à moderniser le moteur, à enrichir les systèmes de jeu et à améliorer la stabilité générale ainsi que le confort de jeu, tout en restant fidèle à l'expérience originale de RTCW.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>RealRTCW is a community-driven single-player overhaul for Return to Castle Wolfenstein, built on top of the original iortcw and rtcw-sp source code.
+The project focuses on modernizing the engine, expanding gameplay systems, and improving overall stability and quality of life—while staying true to the original RTCW experience</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Return to Castle Wolfenstein</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>2017</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Wolfetplayer</text>
+		</text>
+	</view>
+</theme>

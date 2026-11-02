@@ -1,0 +1,41 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>eXoDOS is an attempt to catalog, obtain, and make playable every game developed for the DOS and PC Booter platform</text>
+		</text>
+
+		<text name="info1" extra="true" lang="PT">
+			<text>O eXoDOS é uma iniciativa que visa catalogar, obter e tornar jogáveis todos os jogos desenvolvidos para o DOS e a plataforma PC Booter</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>eXoDOS is an attempt to catalog, obtain, and make playable every game developed for the DOS and PC Booter platform</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>eXoDOS es un proyecto destinado a catalogar, recopilar y hacer que sean ejecutables todos los juegos desarrollados para las plataformas DOS y PC Booter</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>eXoDOS est un projet visant à répertorier, à acquérir et à rendre jouables tous les jeux développés pour les plateformes DOS et PC Booter</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>eXoDOS ist ein Projekt, das darauf abzielt, alle für die DOS- und PC-Booter-Plattform entwickelten Spiele zu katalogisieren, zu beschaffen und spielbar zu machen</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>eXoDOS</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>1981</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>eXoDOS</text>
+		</text>
+	</view>
+</theme>

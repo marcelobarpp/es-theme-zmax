@@ -1,0 +1,42 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>The LaserActive (Japanese: レーザーアクティブ, Hepburn: Rēzā Akutibu) is a hybrid LaserDisc player and home video game console released by Pioneer Corporation in 1993. Marketed as a high-end, modular entertainment system, it was designed to combine movies, music, and video games into a single unit. Out of the box, the base unit could natively play standard LaserDiscs and compact discs, but support for video games required optional expansion modules known as PACs. Each PAC enabled compatibility with a specific gaming platform and its media formats.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="PT">
+			<text>O LaserActive (em japonês: レーザーアクティブ, Hepburn: Rēzā Akutibu) é um leitor híbrido de LaserDisc e consola de videojogos doméstica lançado pela Pioneer Corporation em 1993. Comercializado como um sistema de entretenimento modular de gama alta, foi concebido para combinar filmes, música e videojogos numa única unidade. De fábrica, a unidade base podia reproduzir nativamente LaserDiscs padrão e discos compactos, mas o suporte para videojogos exigia módulos de expansão opcionais conhecidos como PACs. Cada PAC permitia a compatibilidade com uma plataforma de jogos específica e os seus formatos de mídia.
+</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>The LaserActive (Japanese: レーザーアクティブ, Hepburn: Rēzā Akutibu) is a hybrid LaserDisc player and home video game console released by Pioneer Corporation in 1993. Marketed as a high-end, modular entertainment system, it was designed to combine movies, music, and video games into a single unit. Out of the box, the base unit could natively play standard LaserDiscs and compact discs, but support for video games required optional expansion modules known as PACs. Each PAC enabled compatibility with a specific gaming platform and its media formats.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>El LaserActive (en japonés: レーザーアクティブ; en transcripción Hepburn: Rēzā Akutibu) es un reproductor híbrido de LaserDisc y consola de videojuegos doméstica lanzado por Pioneer Corporation en 1993. Comercializado como un sistema de entretenimiento modular de gama alta, fue diseñado para combinar películas, música y videojuegos en una sola unidad. De serie, la unidad base podía reproducir de forma nativa discos LaserDisc y CD estándar, pero la compatibilidad con videojuegos requería módulos de expansión opcionales conocidos como PAC. Cada PAC permitía la compatibilidad con una plataforma de juegos específica y sus formatos multimedia.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>Le LaserActive (en japonais : レーザーアクティブ, Hepburn : Rēzā Akutibu) est un appareil hybride, à la fois lecteur de LaserDisc et console de jeux vidéo domestique, commercialisé par Pioneer Corporation en 1993. Commercialisé comme un système de divertissement modulaire haut de gamme, il a été conçu pour réunir films, musique et jeux vidéo en un seul appareil. Dès sa sortie de l'emballage, l'unité de base pouvait lire nativement les LaserDiscs standard et les CD, mais la prise en charge des jeux vidéo nécessitait des modules d'extension optionnels appelés PAC. Chaque PAC assurait la compatibilité avec une plateforme de jeu spécifique et ses formats de médias.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Der LaserActive (japanisch: レーザーアクティブ, Hepburn: Rēzā Akutibu) ist ein Hybridgerät aus LaserDisc-Player und Heimvideospielkonsole, das 1993 von der Pioneer Corporation auf den Markt gebracht wurde. Als hochwertiges, modulares Unterhaltungssystem vermarktet, wurde es entwickelt, um Filme, Musik und Videospiele in einem einzigen Gerät zu vereinen. Im Auslieferungszustand konnte das Basisgerät standardmäßig LaserDiscs und CDs abspielen, doch für die Unterstützung von Videospielen waren optionale Erweiterungsmodule, sogenannte PACs, erforderlich. Jedes PAC ermöglichte die Kompatibilität mit einer bestimmten Spieleplattform und deren Medienformaten.</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Pioneer LaserActive</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>1993</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Pioneer</text>
+		</text>
+	</view>
+</theme>

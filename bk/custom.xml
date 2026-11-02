@@ -1,0 +1,67 @@
+﻿<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>The Electronika BK is a series of 16-bit PDP-11-compatible home computers developed under the Electronika brand by NPO Scientific Center, then the leading microcomputer design team in the Soviet Union. It is the predecessor of the more powerful UKNC and DVK micros. </text>
+		</text>
+
+		<text name="info1" extra="true" lang="PT">
+			<text>O Electronika BK é uma série de computadores domésticos de 16 bits compatíveis com o PDP-11, desenvolvidos sob a marca Electronika pelo Centro Científico NPO, na altura a equipa líder em design de microcomputadores na União Soviética. É o antecessor dos microcomputadores UKNC e DVK, mais potentes. </text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>The Electronika BK is a series of 16-bit PDP-11-compatible home computers developed under the Electronika brand by NPO Scientific Center, then the leading microcomputer design team in the Soviet Union. It is the predecessor of the more powerful UKNC and DVK micros. </text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>La Electronika BK es una serie de ordenadores domésticos de 16 bits compatibles con el PDP-11, desarrollados bajo la marca Electronika por el Centro Científico NPO, que en aquel entonces era el equipo de diseño de microordenadores más destacado de la Unión Soviética. Es la predecesora de los microordenadores UKNC y DVK, de mayor potencia. </text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>L'Electronika BK est une série d'ordinateurs personnels 16 bits compatibles PDP-11, développés sous la marque Electronika par le Centre scientifique NPO, qui était alors la principale équipe de conception de micro-ordinateurs en Union soviétique. Il s'agit du prédécesseur des micro-ordinateurs UKNC et DVK, plus puissants. </text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Die Electronika BK ist eine Serie von 16-Bit-Heimcomputern, die mit dem PDP-11 kompatibel sind und unter der Marke Electronika vom NPO Scientific Center entwickelt wurden, dem damals führenden Entwicklungsteam für Mikrocomputer in der Sowjetunion. Sie ist der Vorgänger der leistungsstärkeren UKNC- und DVK-Mikrocomputer. </text>
+		</text>
+    
+    <text name="info1" extra="true" lang="ZH">
+			<text>The Electronika BK is a series of 16-bit PDP-11-compatible home computers developed under the Electronika brand by NPO Scientific Center, then the leading microcomputer design team in the Soviet Union. It is the predecessor of the more powerful UKNC and DVK micros. </text>
+		</text>
+    
+    <text name="info1" extra="true" lang="TW">
+			<text>The Electronika BK is a series of 16-bit PDP-11-compatible home computers developed under the Electronika brand by NPO Scientific Center, then the leading microcomputer design team in the Soviet Union. It is the predecessor of the more powerful UKNC and DVK micros. </text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Elektronika BK Systems</text>
+		</text>
+    
+		<text name="info2" extra="true" lang="ZH">
+			<text>Elektronika BK Systems</text>
+		</text>
+
+    
+		<text name="info2" extra="true" lang="TW">
+			<text>Elektronika BK Systems</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>1985</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Elektronika</text>
+		</text>        
+    
+    <text name="info4" extra="true" lang="ZH">
+			<text>Elektronika</text>
+		</text>
+    
+    <text name="info4" extra="true" lang="TW">
+			<text>Elektronika</text>
+		</text>
+
+	</view>
+</theme>

@@ -1,0 +1,67 @@
+﻿<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>The Enterprise is a Zilog Z80-based home computer announced in 1983, but due to a series of delays, was not commercially available until 1985. It was developed by British company Intelligent Software and marketed by Enterprise Computers.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="PT">
+			<text>O Enterprise é um computador doméstico baseado no Zilog Z80, anunciado em 1983, mas que, devido a uma série de atrasos, só chegou ao mercado em 1985. Foi desenvolvido pela empresa britânica Intelligent Software e comercializado pela Enterprise Computers.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>The Enterprise is a Zilog Z80-based home computer announced in 1983, but due to a series of delays, was not commercially available until 1985. It was developed by British company Intelligent Software and marketed by Enterprise Computers.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>El Enterprise es un ordenador doméstico basado en el procesador Zilog Z80 que se presentó en 1983, pero que, debido a una serie de retrasos, no salió a la venta hasta 1985. Fue desarrollado por la empresa británica Intelligent Software y comercializado por Enterprise Computers.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>L'Enterprise est un ordinateur personnel équipé d'un processeur Zilog Z80, annoncé en 1983, mais qui, en raison d'une série de retards, n'a été commercialisé qu'en 1985. Il a été développé par la société britannique Intelligent Software et commercialisé par Enterprise Computers.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Der Enterprise ist ein auf dem Zilog Z80 basierender Heimcomputer, der 1983 angekündigt wurde, jedoch aufgrund einer Reihe von Verzögerungen erst 1985 auf den Markt kam. Er wurde von der britischen Firma Intelligent Software entwickelt und von Enterprise Computers vertrieben.</text>
+		</text>
+    
+    <text name="info1" extra="true" lang="ZH">
+			<text>The Enterprise is a Zilog Z80-based home computer announced in 1983, but due to a series of delays, was not commercially available until 1985. It was developed by British company Intelligent Software and marketed by Enterprise Computers.</text>
+		</text>
+    
+    <text name="info1" extra="true" lang="TW">
+			<text>The Enterprise is a Zilog Z80-based home computer announced in 1983, but due to a series of delays, was not commercially available until 1985. It was developed by British company Intelligent Software and marketed by Enterprise Computers.</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Enterprise</text>
+		</text>
+    
+		<text name="info2" extra="true" lang="ZH">
+			<text>Enterprise</text>
+		</text>
+
+    
+		<text name="info2" extra="true" lang="TW">
+			<text>Enterprise</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>1985</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Enterprise Computers</text>
+		</text>        
+    
+    <text name="info4" extra="true" lang="ZH">
+			<text>Enterprise Computers</text>
+		</text>
+    
+    <text name="info4" extra="true" lang="TW">
+			<text>Enterprise Computers</text>
+		</text>
+
+	</view>
+</theme>

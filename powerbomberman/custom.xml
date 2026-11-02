@@ -1,0 +1,40 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>FanGame-made Bomberman</text>
+		</text>
+
+		<text name="info1" extra="true" lang="PT">
+			<text>FanGame-made Bomberman</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>FanGame-made Bomberman</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>FanGame-made Bomberman</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>Bomberman crée par des fans</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>FanGame-made Bomberman</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Power Bomberman</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>2013</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Power Bomberman</text>
+		</text>
+	</view>
+</theme>
