@@ -1,0 +1,41 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>The Cassette Vision is a second generation home video game console made by Epoch Co. and released in Japan on July 30, 1981. A redesigned model called the Cassette Vision Jr. was released afterwards.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="PT">
+			<text>A Cassette Vision é uma consola de jogos doméstica de segunda geração fabricada pela Epoch Co. e lançada no Japão a 30 de julho de 1981. Posteriormente, foi lançado um modelo redesenhado denominado Cassette Vision Jr.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>The Cassette Vision is a second generation home video game console made by Epoch Co. and released in Japan on July 30, 1981. A redesigned model called the Cassette Vision Jr. was released afterwards.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>La Cassette Vision es una consola de videojuegos doméstica de segunda generación fabricada por Epoch Co. y lanzada en Japón el 30 de julio de 1981. Posteriormente se lanzó un modelo rediseñado denominado Cassette Vision Jr.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>La Cassette Vision est une console de jeux vidéo de deuxième génération fabriquée par Epoch Co. et commercialisée au Japon le 30 juillet 1981. Un modèle repensé, baptisé Cassette Vision Jr., a été lancé par la suite.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Die Cassette Vision ist eine Heimvideospielkonsole der zweiten Generation, die von Epoch Co. hergestellt und am 30. Juli 1981 in Japan auf den Markt gebracht wurde. Später erschien ein überarbeitetes Modell namens Cassette Vision Jr.</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>cassettevision</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>1981</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Epoch Co.</text>
+		</text>
+	</view>
+</theme>

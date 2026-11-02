@@ -1,0 +1,42 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Game Boy MSU-1 refers to the use of the MSU-1 chip with Game Boy games, enabling enhanced audio and video capabilities. This modification allows for CD-quality audio, including streamed music and voice acting, as well as full-motion video playback. While not an official Nintendo product, the MSU-1 enhancement is used by homebrew developers and enthusiasts to create enhanced versions of Game Boy games, offering a richer and more immersive gaming experience. It requires specific hardware or emulators that support the MSU-1 chip.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="PT">
+			<text>O Game Boy MSU-1 refere-se à utilização do chip MSU-1 em jogos de Game Boy, permitindo capacidades de áudio e vídeo melhoradas. Esta modificação permite áudio com qualidade de CD, incluindo música transmitida e dublagem, bem como a reprodução de vídeo em movimento. Embora não seja um produto oficial da Nintendo, a melhoria MSU-1 é utilizada por programadores independentes e entusiastas para criar versões melhoradas de jogos de Game Boy, oferecendo uma experiência de jogo mais rica e envolvente. Requer hardware específico ou emuladores que suportem o chip MSU-1.
+</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>Game Boy MSU-1 refers to the use of the MSU-1 chip with Game Boy games, enabling enhanced audio and video capabilities. This modification allows for CD-quality audio, including streamed music and voice acting, as well as full-motion video playback. While not an official Nintendo product, the MSU-1 enhancement is used by homebrew developers and enthusiasts to create enhanced versions of Game Boy games, offering a richer and more immersive gaming experience. It requires specific hardware or emulators that support the MSU-1 chip.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>El término «Game Boy MSU-1» hace referencia al uso del chip MSU-1 en los juegos de Game Boy, lo que permite mejorar las capacidades de audio y vídeo. Esta modificación permite disfrutar de un audio con calidad de CD, incluyendo música en streaming y voces de los personajes, así como la reproducción de vídeos de movimiento completo. Aunque no se trata de un producto oficial de Nintendo, la mejora MSU-1 es utilizada por desarrolladores independientes y aficionados para crear versiones mejoradas de los juegos de Game Boy, ofreciendo una experiencia de juego más rica y envolvente. Requiere hardware específico o emuladores compatibles con el chip MSU-1.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>Le terme « Game Boy MSU-1 » désigne l'utilisation de la puce MSU-1 avec les jeux Game Boy, ce qui permet d'améliorer les capacités audio et vidéo. Cette modification offre un son de qualité CD, notamment de la musique en streaming et des doublages, ainsi que la lecture de vidéos en plein écran. Bien qu'il ne s'agisse pas d'un produit officiel de Nintendo, l'extension MSU-1 est utilisée par les développeurs amateurs et les passionnés pour créer des versions améliorées des jeux Game Boy, offrant ainsi une expérience de jeu plus riche et plus immersive. Elle nécessite un matériel spécifique ou des émulateurs prenant en charge la puce MSU-1.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Der Begriff „Game Boy MSU-1“ bezieht sich auf die Verwendung des MSU-1-Chips in Game-Boy-Spielen, wodurch verbesserte Audio- und Videofunktionen ermöglicht werden. Diese Modifikation ermöglicht Audio in CD-Qualität, einschließlich gestreamter Musik und Sprachausgabe, sowie die Wiedergabe von Full-Motion-Videos. Obwohl es sich nicht um ein offizielles Nintendo-Produkt handelt, wird die MSU-1-Erweiterung von Homebrew-Entwicklern und Enthusiasten genutzt, um verbesserte Versionen von Game-Boy-Spielen zu erstellen, die ein reichhaltigeres und intensiveres Spielerlebnis bieten. Dazu sind spezielle Hardware oder Emulatoren erforderlich, die den MSU-1-Chip unterstützen.</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Game Boy MSU-1</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>2012</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Nintendo</text>
+		</text>
+	</view>
+</theme>
