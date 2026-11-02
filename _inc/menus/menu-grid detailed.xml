@@ -307,7 +307,6 @@
 <visible>false</visible>
 	  </image>
 
-
       <image name="overbar" extra="true">
          <path>./_inc/overbar@.png</path>
          <origin>0 0</origin>
@@ -363,7 +362,6 @@
 		<zIndex>42</zIndex>
       </text>
 
-
 		<text name="info5" extra="true">
 			<text>FABRICANTE:</text>
 		</text>
@@ -391,8 +389,7 @@
 		<zIndex>42</zIndex>
       </text>
 
-
-      <image name="art_play" extra="true">
+    <image name="art_play" extra="true">
 		 <origin>0 0</origin>
 		<size>0.09 0</size>
 		<pos>0.65 0.48</pos>
@@ -400,8 +397,6 @@
 		<delay>2</delay>
          <zIndex>50</zIndex>
       </image>
-
-
 
 	<text name="playbutton" extra="true">
 		<text>PLAY NOW</text>
@@ -414,8 +409,12 @@
 		<glowColor>000000</glowColor>
 		<glowSize>1.8</glowSize>
 		<zIndex>842</zIndex>
+		 <storyboard repeatAt="1">
+		 <animation property="opacity" to="1" begin="0" duration="0" mode="linear"/>
+		 <animation property="scale" from="1" to="1.05" begin="0" duration="1000" mode="easeOut"/>
+		 <animation property="scale" from="1.05" to="1" begin="5" duration="1000" mode="easeOut"/>
+		 </storyboard>
 	</text>
-
 
 	<image name="play1" extra="true">
 		<path>./_inc/playbutton.png</path>
@@ -427,7 +426,6 @@
 		<animation property="rotation" from="-360" duration="1200" repeat="forever" mode="easeOutInQuint" /> 
 		</storyboard>
 	</image>
-
 	
 	<image name="play2" extra="true">
 		<path>./_inc/play.png</path>
@@ -439,7 +437,6 @@
 		<animation property="opacity" from="0.7" to="0.2" begin="995" duration="1800" mode="EaseIn" autoreverse="true" repeat="forever" />      
         </storyboard>
 	</image>
-
 
 	<image name="strglow" extra="true">
 		<path>./_inc/strglow.png</path>

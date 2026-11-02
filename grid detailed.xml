@@ -300,6 +300,11 @@
 		<glowColor>000000</glowColor>
 		<glowSize>1.8</glowSize>
 		<zIndex>842</zIndex>
+		 <storyboard repeatAt="1">
+		 <animation property="opacity" to="1" begin="0" duration="0" mode="linear"/>
+		 <animation property="scale" from="1" to="1.05" begin="0" duration="1000" mode="easeOut"/>
+		 <animation property="scale" from="1.05" to="1" begin="5" duration="1000" mode="easeOut"/>
+		 </storyboard>
 	</text>
 
 
