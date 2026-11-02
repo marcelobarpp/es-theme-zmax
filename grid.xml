@@ -45,6 +45,7 @@
 <visible>false</visible> 
 </image>
 
+
       <imagegrid name="gamegrid">
          <pos>0.68 0</pos>
          <size>0.3 1</size>
@@ -54,11 +55,18 @@
          <margin>0.005 0.010</margin>
          <centerSelection>true</centerSelection>
          <scrollLoop>true</scrollLoop>
-		 <imageSource>marquee</imageSource>
-		 <scrollSound ifSubset="InterfaceSound:Type1">./assets/sounds/scroll01.wav</scrollSound>
-		 <scrollSound ifSubset="InterfaceSound:Type2">./assets/sounds/scroll.ogg</scrollSound>
-         <zIndex>8</zIndex>
+         <imageSource>marquee</imageSource>
       </imagegrid>
+	  
+	  <imagegrid name="gamegrid" ifSubset="wheelanim:yes">
+		 <storyboard repeatAt="1">
+		 <animation property="opacity" to="1" begin="0" duration="0" mode="linear"/>
+		 <animation property="scale" from="1" to="1.05" begin="0" duration="1000" mode="easeOut"/>
+		 <animation property="scale" from="1.05" to="1" begin="1000" duration="1000" mode="easeOut"/>
+		 </storyboard>
+       </imagegrid>
+
+
 
 	      <gridtile name="default">
          <padding>64 16</padding>
