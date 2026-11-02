@@ -315,7 +315,7 @@
          <zIndex>11</zIndex>
       </image>
 
-	<!-- Description -->
+	<!-- descrição -->
 	<text name="info1" extra="true">
          <pos>0.53 0.87</pos>
          <size>0.465 0.078</size>
