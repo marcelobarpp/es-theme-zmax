@@ -680,6 +680,117 @@
          <glowSize>2</glowSize>
 	     <forceUppercase>1</forceUppercase>
       </rating>
+	<image name="md_flag">
+	<origin>0 0.5</origin>
+	<pos>0.88 0.765</pos>
+	<maxSize>0.01 0.05</maxSize>
+	<color>fbfbfb</color>
+	<zIndex>150</zIndex>
+	</image>
+<image name="md_notkidgame" extra="true">
+<origin>0.0 0.0</origin>
+<pos>0.85 0.99</pos>
+<path>./_inc/gamebar/kid.png</path>
+<maxSize>0.02 0.03</maxSize>
+<linearSmooth>true</linearSmooth>
+<color>999999</color>
+<zIndex>998</zIndex>
+</image>	
+<image name="md_kidgame"> 
+<origin>0.0 0.0</origin>
+<pos>0.818 0.99</pos>
+<path>./_inc/gamebar/kid.png</path>
+<maxSize>0.02 0.03</maxSize>
+<color>ffffff</color>
+<zIndex>999</zIndex>
+<linearSmooth>true</linearSmooth>
+</image>
+<image name="md_hiddenExtra" extra="true">
+<origin>0.0 0.0</origin>
+<pos>0.85 1.08</pos>
+<path>./_inc/gamebar/hidden.png</path>
+<maxSize>0.02 0.03</maxSize>
+<color>999999</color>
+<zIndex>998</zIndex>
+</image>
+<image name="md_hidden">
+<origin>0.0 0.0</origin>
+<pos>0.85 1.08</pos>
+<path>./_inc/gamebar/hidden.png</path>
+<maxSize>0.02 0.03</maxSize>
+<color>ffffff</color>
+<zIndex>999</zIndex>
+</image>
+<image name="md_notcheevos" extra="true">
+<origin>0.0 0.0</origin>
+<path>./_inc/gamebar/Contest.png</path>
+<pos>0.85 1.04</pos>
+<maxSize>0.02 0.03</maxSize>    
+<color>999999</color>
+<zIndex>998</zIndex>
+</image>     
+<image name="md_cheevos">
+<origin>0.0 0.0</origin>
+<path>./_inc/gamebar/Contest.png</path>
+<pos>0.85 1.04</pos>
+<maxSize>0.02 0.03</maxSize>     
+<color>ffffff</color>
+<zIndex>999</zIndex>
+</image>	
+<image name="md_nomanual" extra="true">
+<origin>0.0 0.0</origin>
+<pos>0.815 0.99</pos>
+<path>./_inc/gamebar/book.png</path>
+<maxSize>0.025 0.035</maxSize>
+<color>999999</color>
+<zIndex>998</zIndex>
+</image>
+<image name="md_manual">
+<origin>0.0 0.0</origin>
+<pos>0.815 0.99</pos>
+<path>./_inc/gamebar/book.png</path>
+<maxSize>0.025 0.035</maxSize>
+<color>ffffff</color>
+<zIndex>999</zIndex>
+</image>
+<image name="md_nosavestate" extra="true">
+<origin>0.5 0.5</origin>
+<pos>0.816 1.04</pos>
+<path>./_inc/gamebar/SaveState.png</path>
+<origin>0 0</origin>
+<maxSize>0.02 0.03</maxSize>
+<color>999999</color>
+<zIndex>998</zIndex>
+</image>
+<image name="md_savestate">
+<origin>0.5 0.5</origin>
+<pos>0.85 1.04</pos>
+<path>./_inc/gamebar/SaveState.png</path>
+<origin>0 0</origin>
+<maxSize>0.02 0.03</maxSize>
+<color>ffffff</color>
+<zIndex>999</zIndex>
+</image>
+<control name="md_notkidgame,md_kidgame,md_nosavestate,md_savestate,md_savestateExtra,md_nomanual,md_manual,md_cheevos,md_notcheevos,md_cheevosExtra,md_hidden,md_hiddenExtra,gamebar">
+<storyboard event="open">
+<animation property="opacity" from="1" to="1" duration="1" mode="linear"/>
+<animation property="offsetY" to="-0.15" duration="600" mode="easeIn" begin="3000"/>
+</storyboard>
+<storyboard event="activateNext">
+<animation property="opacity" from="1" to="1" duration="1" mode="linear"/>
+<animation property="offsetY" to="-0.15" duration="600" mode="easeIn" begin="3000"/>
+</storyboard>
+<storyboard event="activatePrev">
+<animation property="opacity" from="1" to="1" duration="1" mode="linear"/>
+<animation property="offsetY" to="-0.15" duration="600" mode="easeIn" begin="3000"/>
+</storyboard>
+<storyboard event="deactivateNext">
+<animation property="opacity" to="0" duration="1" mode="easeOut"/>
+</storyboard>
+<storyboard event="deactivatePrev">
+<animation property="opacity" to="0" duration="1" mode="easeOut"/>
+</storyboard>
+</control>	
     <image name="art_play" extra="true">
 		 <origin>0 0</origin>
 		<size>0.09 0</size>

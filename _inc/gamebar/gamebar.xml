@@ -12,93 +12,21 @@
 <origin>0.5 0</origin>
 <pos>0.5 0</pos>
 <zIndex>996</zIndex>
-<size>1 1</size>
+<size>0 0</size>
 </image>
 
 
+	<image name="md_flag">
+	<origin>0 0.5</origin>
+	<pos>0.88 0.765</pos>
+	<maxSize>0.01 0.05</maxSize>
+	<color>fbfbfb</color>
+	<zIndex>150</zIndex>
+	</image>
 
-<image name="md_hiddenExtra" extra="true">
-<origin>0.5 0.5</origin>
-<pos>0.58 0.021</pos>
-<path>./_inc/gamebar/hidden.png</path>
-<maxSize>0.02 0.03</maxSize>
-<color>999999</color>
-<zIndex>998</zIndex>
-</image>
-
-<image name="md_hidden">
-<origin>0.5 0.5</origin>
-<pos>0.58 0.021</pos>
-<path>./_inc/gamebar/hidden.png</path>
-<maxSize>0.02 0.03</maxSize>
-<color>ffffff</color>
-<zIndex>999</zIndex>
-</image>
-
-
-
-<image name="md_notcheevos" extra="true">
-<origin>0.5 0.5</origin>
-<path>./_inc/gamebar/Contest.png</path>
-<pos>0.555 0.021</pos>
-<maxSize>0.02 0.03</maxSize>     
-<color>999999</color>
-<zIndex>998</zIndex>
-</image> 
-    
-<image name="md_cheevos">
-<origin>0.5 0.5</origin>
-<path>./_inc/gamebar/Contest.png</path>
-<pos>0.555 0.021</pos>
-<maxSize>0.02 0.03</maxSize>     
-<color>ffffff</color>
-<zIndex>999</zIndex>
-</image>	
-
-
-
-<image name="md_nomanual" extra="true">
-<origin>0.5 0.5</origin>
-<pos>0.465 0.021</pos>
-<path>./_inc/gamebar/book.png</path>
-<maxSize>0.02 0.03</maxSize>
-<color>999999</color>
-<zIndex>998</zIndex>
-</image>
-
-<image name="md_manual">
-<origin>0.5 0.5</origin>
-<pos>0.465 0.021</pos>
-<path>./_inc/gamebar/book.png</path>
-<maxSize>0.02 0.03</maxSize>
-<color>ffffff</color>
-<zIndex>999</zIndex>
-</image>
-
-
-<image name="md_nosavestate" extra="true">
-<origin>0.5 0.5</origin>
-<path>./_inc/gamebar/SaveState.png</path>
-<pos>0.525 0.021</pos>
-<maxSize>0.02 0.03</maxSize>
-<color>999999</color>
-<zIndex>998</zIndex>
-</image>
-
-<image name="md_savestate">
-<origin>0.5 0.5</origin>
-<path>./_inc/gamebar/SaveState.png</path>
-<pos>0.525 0.021</pos>
-<maxSize>0.02 0.03</maxSize>
-<color>ffffff</color>
-<zIndex>999</zIndex>
-</image>
-
-
-	
 <image name="md_notkidgame" extra="true">
-<origin>0.5 0.5</origin>
-<pos>0.495 0.021</pos>
+<origin>0.0 0.0</origin>
+<pos>0.85 0.99</pos>
 <path>./_inc/gamebar/kid.png</path>
 <maxSize>0.02 0.03</maxSize>
 <linearSmooth>true</linearSmooth>
@@ -107,14 +35,100 @@
 </image>
 	
 <image name="md_kidgame"> 
-<origin>0.5 0.5</origin>
-<pos>0.495 0.021</pos>
+<origin>0.0 0.0</origin>
+<pos>0.818 0.99</pos>
 <path>./_inc/gamebar/kid.png</path>
 <maxSize>0.02 0.03</maxSize>
 <color>ffffff</color>
 <zIndex>999</zIndex>
 <linearSmooth>true</linearSmooth>
 </image>
+<image name="md_hiddenExtra" extra="true">
+<origin>0.0 0.0</origin>
+<pos>0.85 1.08</pos>
+<path>./_inc/gamebar/hidden.png</path>
+<maxSize>0.02 0.03</maxSize>
+<color>999999</color>
+<zIndex>998</zIndex>
+</image>
+
+<image name="md_hidden">
+<origin>0.0 0.0</origin>
+<pos>0.85 1.08</pos>
+<path>./_inc/gamebar/hidden.png</path>
+<maxSize>0.02 0.03</maxSize>
+<color>ffffff</color>
+<zIndex>999</zIndex>
+</image>
+
+<image name="md_notcheevos" extra="true">
+<origin>0.0 0.0</origin>
+<path>./_inc/gamebar/Contest.png</path>
+<pos>0.85 1.04</pos>
+<maxSize>0.02 0.03</maxSize>    
+<color>999999</color>
+<zIndex>998</zIndex>
+</image> 
+    
+<image name="md_cheevos">
+<origin>0.0 0.0</origin>
+<path>./_inc/gamebar/Contest.png</path>
+<pos>0.85 1.04</pos>
+<maxSize>0.02 0.03</maxSize>     
+<color>ffffff</color>
+<zIndex>999</zIndex>
+</image>	
+
+<image name="md_nomanual" extra="true">
+<origin>0.0 0.0</origin>
+<pos>0.815 0.99</pos>
+<path>./_inc/gamebar/book.png</path>
+<maxSize>0.02 0.03</maxSize>
+<color>999999</color>
+<zIndex>998</zIndex>
+</image>
+
+<image name="md_manual">
+<origin>0.0 0.0</origin>
+<pos>0.815 0.99</pos>
+<path>./_inc/gamebar/book.png</path>
+<maxSize>0.02 0.03</maxSize>
+<color>ffffff</color>
+<zIndex>999</zIndex>
+</image>
+
+<image name="md_nosavestate" extra="true">
+<origin>0.5 0.5</origin>
+<pos>0.816 1.04</pos>
+<path>./_inc/gamebar/SaveState.png</path>
+<origin>0 0</origin>
+<maxSize>0.02 0.03</maxSize>
+<color>999999</color>
+<zIndex>998</zIndex>
+</image>
+
+<image name="md_savestate">
+<origin>0.5 0.5</origin>
+<pos>0.85 1.04</pos>
+<path>./_inc/gamebar/SaveState.png</path>
+<origin>0 0</origin>
+<maxSize>0.02 0.03</maxSize>
+<color>ffffff</color>
+<zIndex>999</zIndex>
+</image>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <control name="md_notkidgame,md_kidgame,md_nosavestate,md_savestate,md_savestateExtra,md_nomanual,md_manual,md_cheevos,md_notcheevos,md_cheevosExtra,md_hidden,md_hiddenExtra,gamebar">
@@ -138,5 +152,32 @@
 </storyboard>
 </control>
 </view>
+
+
+
+
+
+
+		<image name="md_flag">
+			<origin>0 0.5</origin>
+			<pos>0.815 0.965</pos>
+			<maxSize>0.01 0.05</maxSize>
+			<color>FFFFFFFF</color>
+			<zIndex>150</zIndex>
+		</image>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 </theme>

@@ -249,8 +249,8 @@
    <include subset="video" name="off">./off-bg-video.xml</include>
    <include subset="video" name="on">./on-bg-video.xml</include>
 
-   <include>./_inc/gamebar/gamebar.xml</include>
-   <include>./$system/custom.xml</include>
+
+
 
 <!---------------------------screen----------------------------------------->
 
