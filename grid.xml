@@ -24,6 +24,12 @@
 		<path>./_inc/assets/cliente.png</path>
 		<zIndex>999</zIndex>
 	  </image>
+
+      <image name="md_thumbnail">
+         <pos>0.05 0.85</pos>
+         <size>0.10 0</size>
+         <zIndex>36</zIndex>
+      </image>
 	
 	 <image name="borde" extra="true">
          <origin>0 0</origin>

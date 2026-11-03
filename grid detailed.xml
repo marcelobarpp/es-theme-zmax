@@ -3,11 +3,11 @@
 <formatVersion>7</formatVersion>
 
   <customView name="grid detailed" inherits="grid">
-	
-
-	   <image name="char0001" extra="true">
+		   <image name="char0001" extra="true">
 <visible>false</visible>
       </image>
+
+
 
 	<image name="md_fanart"  extra="true">
 		<linearSmooth>true</linearSmooth>
@@ -24,9 +24,8 @@
 		<path>./_inc/black1.png</path>
 		<zIndex>2</zIndex>
 	</image>
-
       <image name="md_thumbnail">
-         <pos>0.088 0.89</pos>
+         <pos>0.05 0.85</pos>
          <size>0.10 0</size>
          <zIndex>36</zIndex>
       </image>
@@ -50,9 +49,10 @@
 		<fontPath>./_inc/fonts/Circular Std Book.ttf</fontPath>
          <color>FFFFFF</color>
          <glowColor>000000</glowColor>
-         <fontSize>0.022</fontSize>
+         <fontSize>0.018</fontSize>
+	     <forceUppercase>1</forceUppercase>
 		<lineSpacing>1</lineSpacing>
-         <pos>0.60 0.835</pos>
+         <pos>0.60 0.837</pos>
 	</text>
 
       <text name="md_description">
