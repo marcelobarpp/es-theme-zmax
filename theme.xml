@@ -335,7 +335,10 @@
       <iconEmuelec>./_inc/icons/Emuelec.png</iconEmuelec>
     </menuIcons>
 	
-
+    <menuTextEdit name="menutextedit">
+      <inactive>./_inc/textinput_ninepatch.png</inactive>
+      <active>./_inc/textinput_ninepatch_active.png</active>
+    </menuTextEdit>
 	
 </view> 
 
