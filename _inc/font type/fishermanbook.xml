@@ -6,7 +6,7 @@
       </text> 
 	 <helpsystem name="help">
        <fontPath>./_inc/fonts/fishermanbook.ttf</fontPath>
-     <fontSize>0.0148</fontSize>
+     <fontSize>0.016</fontSize>
      <pos>0.01 0.978</pos>
      </helpsystem>
 </view>
@@ -16,7 +16,7 @@
       </text>
 	<helpsystem name="help">
        <fontPath>./_inc/fonts/fishermanbook.ttf</fontPath>
-     <fontSize>0.0148</fontSize>
+     <fontSize>0.016</fontSize>
      <pos>0.01 0.978</pos>
      </helpsystem>
  </view>
