@@ -105,7 +105,7 @@
          <size>1 1</size>
 		<color>ffffff</color>
 		<path>./_inc/wall1.jpg</path>
-		<path>./_inc/Wallpaper1/${system.theme}.jpg</path>
+		<path>./_inc/wallpaper1/${system.theme}.jpg</path>
 		<zIndex>10</zIndex>
 	  </image>
       <image name="overbar" extra="true">
