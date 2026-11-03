@@ -682,7 +682,7 @@
       </rating>
 	<image name="md_flag">
 	<origin>0 0.5</origin>
-	<pos>0.88 0.765</pos>
+	<pos>0.88 0.965</pos>
 	<maxSize>0.01 0.05</maxSize>
 	<color>fbfbfb</color>
 	<zIndex>150</zIndex>
