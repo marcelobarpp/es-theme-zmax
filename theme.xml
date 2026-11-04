@@ -17,8 +17,9 @@
 
    <include subset="systems and lists" name="tutorial">./_inc/menus/menu-tutorial.xml</include>
 
-   <include subset="systems and lists" name="scene 0=arcade">./_inc/menus/menu-arcade.xml</include>
+
    <include subset="systems and lists" name="scene 0=arcade detailed">./_inc/menus/menu-arcade detailed.xml</include>
+   <include subset="systems and lists" name="scene 0=arcade">./_inc/menus/menu-arcade.xml</include>
 
 
    <include subset="systems and lists" name="scene 1=subzero">./_inc/menus/menu-subzero.xml</include>
@@ -107,14 +108,16 @@
    <include subset="bot motion" name="captain america">./_inc/char motions/captain america.xml</include>
    <include subset="bot motion" name="nemesis-t">./_inc/char motions/nemesis-t.xml</include>
 
-   <include subset="bot additional" name="off">./gif-off1.xml</include>
+
    <include subset="bot additional" name="on">./gif-on1.xml</include>
+   <include subset="bot additional" name="off">./gif-off1.xml</include>
+
 
    <include subset="Logo" name="Logo logo">./m-logo.xml</include>
    <include subset="Logo" name="Logo long">./m-long.xml</include>
 
-   <include subset="Animation" name="off">./animation-off.xml</include>
    <include subset="Animation" name="on">./animation-on.xml</include>
+   <include subset="Animation" name="off">./animation-off.xml</include>
 
    <include subset="menu color" name="Default">./_inc/color/default.xml</include> 
    <include subset="menu color" name="Red">./_inc/color/red.xml</include>
