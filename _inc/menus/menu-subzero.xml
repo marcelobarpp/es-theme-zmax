@@ -126,6 +126,7 @@
          <path>./_inc/borde.png</path>
          <zIndex>999</zIndex>          
       </image>
+
 	 <image name="jotaro kujo02a" extra="true">
 <visible>false</visible> 
 	  </image>
