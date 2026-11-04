@@ -445,7 +445,7 @@
 	</image>
       <text name="md_name">
      <origin>0 0</origin>
-     <pos>0.14 0.02</pos>
+     <pos>0.05 0.02</pos>
          <zIndex>60</zIndex>
       </text>
       <image name="md_image">
