@@ -108,7 +108,6 @@
 		<path>./_inc/wallpaper1/${system.theme}.jpg</path>
 		<zIndex>10</zIndex>
 	  </image>
-
 	   <image name="char0001" extra="true">
 <visible>false</visible>
       </image>

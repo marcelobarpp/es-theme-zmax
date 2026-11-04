@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+
+   <!---------------------------gamecarousel------------------------------------- -->
+<view name=" gamecarousel">
+<gamecarousel name="gamecarousel">      
+<logoSize>0.195 0.195</logoSize>
+</gamecarousel>
+	
+</view>  
+   
+   </theme>

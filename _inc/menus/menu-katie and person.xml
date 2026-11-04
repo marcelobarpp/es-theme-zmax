@@ -392,7 +392,6 @@
          <pos>0.7211 0.145</pos>
          <size>0.23 0.21</size>
 		<color>ffffff</color>
-		<path>./_inc/wall1.jpg</path>
 		<zIndex>12</zIndex>
 	  </image>
      <image name="wallpaper0002" extra="true">
@@ -400,7 +399,6 @@
          <pos>0.0505 0.1465</pos>
          <size>0.233 0.211</size>
 		<color>ffffff</color>
-		<path>./_inc/wall.jpg</path>
 		<path>./_inc/fanart/${system.theme}.jpg</path>
 		<zIndex>12</zIndex>
 	  </image>
