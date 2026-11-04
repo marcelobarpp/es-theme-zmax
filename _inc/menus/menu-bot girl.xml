@@ -503,7 +503,7 @@
       </image>
       <text name="md_name">
      <origin>0 0</origin>
-     <pos>0.38 0.13</pos>
+     <pos>0.3 0.13</pos>
          <zIndex>60</zIndex>
       </text>
 	    <image name="marqueta1" extra="true">
