@@ -14,10 +14,6 @@
 
 
 
-   <include subset="systems and lists" name="scene 0=arcade">./_inc/menus/menu-arcade.xml</include>
-   <include subset="systems and lists" name="scene 0=arcade detailed">./_inc/menus/menu-arcade detailed.xml</include>
-
-
    <include subset="systems and lists" name="scene 1=subzero">./_inc/menus/menu-subzero.xml</include>
    <include subset="systems and lists" name="scene 1=sakura">./_inc/menus/menu-sakura.xml</include>
    <include subset="systems and lists" name="scene 1=robux">./_inc/menus/menu-robux.xml</include>
@@ -71,6 +67,10 @@
    <include subset="systems and lists" name="scene 8=poison and ken">./_inc/menus/menu-poison and ken.xml</include>
    <include subset="systems and lists" name="scene 8=sakura and dan">./_inc/menus/menu-sakura and dan.xml</include>
    <include subset="systems and lists" name="scene 8=zombies">./_inc/menus/menu-zombies.xml</include>
+
+
+   <include subset="systems and lists" name="scene 9=arcade">./_inc/menus/menu-arcade.xml</include>
+   <include subset="systems and lists" name="scene 9=arcade detailed">./_inc/menus/menu-arcade detailed.xml</include>
 
 
    <include subset="systems and lists" name="vertical screen=jury">./_inc/menus/menu-jury-vert.xml</include>
