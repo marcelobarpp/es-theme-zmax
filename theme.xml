@@ -186,7 +186,7 @@
    <include subset="font size" name="small">./_inc/font size/small.xml</include> 
    <include subset="font size" name="big">./_inc/font size/big.xml</include> 
 
-   <include subset="taskbar" name="Default">./_inc/taskbar/off.xml</include> 
+   <include subset="taskbar" name="Default">./_inc/taskbar/default.xml</include> 
    <include subset="taskbar" name="green">./_inc/taskbar/green.xml</include>
    <include subset="taskbar" name="purple">./_inc/taskbar/purple.xml</include> 
    <include subset="taskbar" name="red">./_inc/taskbar/red.xml</include> 
@@ -241,10 +241,6 @@
     <include subset="brightness" name="80%">./_inc/shaders/shader-medium.xml</include>
     <include subset="brightness" name="60%">./_inc/shaders/shader-strong.xml</include>
     <include subset="brightness" name="40%">./_inc/shaders/shader-mask.xml</include>
-
-   <include subset="clock" name="default">./clock default.xml</include>
-   <include subset="clock" name="small">./clock small.xml</include>
-   <include subset="clock" name="big">./clock big.xml</include>
 	
    <include subset="video" name="off">./off-bg-video.xml</include>
    <include subset="video" name="on">./on-bg-video.xml</include>
