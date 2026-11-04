@@ -4,10 +4,6 @@
 
     <view name="basic, detailed, video, grid, gamecarousel, system">
 
-    <image name="art_play" extra="true">
-         <path>./_inc/taskbar/overlay_default.png</path>
-		<delay>2</delay>
-         <zIndex>50</zIndex>
-      </image>
+
  </view>
 </theme>

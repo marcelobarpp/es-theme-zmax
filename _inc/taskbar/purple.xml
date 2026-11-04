@@ -10,10 +10,5 @@
          <path>./_inc/taskbar/purple.png</path>
          <zIndex>990</zIndex>
       </image>
-    <image name="art_play" extra="true">
-         <path>./_inc/taskbar/overlay_purple.png</path>
-		<delay>2</delay>
-         <zIndex>50</zIndex>
-      </image>
  </view>
 </theme>

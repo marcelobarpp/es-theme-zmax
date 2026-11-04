@@ -361,13 +361,6 @@
          <path>./_inc/coinops/${system.theme}.png</path>
          <zIndex>22</zIndex>
       </image>
-	<image name="md_fanart"  extra="true">
-		<linearSmooth>true</linearSmooth>
-		<size>1 1</size>
-		<pos>0  0</pos>
-		<origin>0 0</origin>
-		<zIndex>1</zIndex>
-    </image>
 	    <image name="logo3" extra="true">
 	<origin>0 0</origin>
 	  <color>ffffff</color>
