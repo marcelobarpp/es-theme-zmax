@@ -241,6 +241,10 @@
     <include subset="brightness" name="80%">./_inc/shaders/shader-medium.xml</include>
     <include subset="brightness" name="60%">./_inc/shaders/shader-strong.xml</include>
     <include subset="brightness" name="40%">./_inc/shaders/shader-mask.xml</include>
+
+   <include subset="clock" name="default">./clock default.xml</include>
+   <include subset="clock" name="small">./clock small.xml</include>
+   <include subset="clock" name="big">./clock big.xml</include>
 	
    <include subset="video" name="off">./off-bg-video.xml</include>
    <include subset="video" name="on">./on-bg-video.xml</include>

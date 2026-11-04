@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+   <formatVersion>7</formatVersion>
+<view name="screen">
+		<text name="clock">
+		<glowColor>000000</glowColor>
+	<glowSize>1</glowSize>
+		<fontSize>0.02</fontSize>
+		<color>ffffff</color>
+		<fontPath>./_inc/fonts/digib.ttf</fontPath>
+	<pos>0.955 0.973</pos>
+		<size>0.03 0.02</size>
+		<verticalAlignment>center</verticalAlignment>
+		</text>	  
+	</view>
+</theme>
+
