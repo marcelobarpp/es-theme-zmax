@@ -137,19 +137,7 @@
 		<glowColor>10101099</glowColor>			
 		<glowSize>3</glowSize>			
 	</text>
-	
-	<image name="logo03" extra="true">
-        <pos>0.845 0.1</pos>
-        <maxSize>0.10 0.10</maxSize>
-		<path>./default/_inc/logo.png</path>
-		<path>./_inc/logos/${system.theme}.png</path>
-		<path>./_inc/logos/${system.theme}.svg</path>
-		<path>./_inc/logos/${system.theme}-w.png</path>
-		<path>./_inc/logos/${system.theme}-w.svg</path>
-		<color>ffffff</color>
-	    <zIndex>400</zIndex>
-	</image>
-	
+		
 		<text name="logoText">
 		<pos>0.691 0.444</pos>
 	    <fontSize>0.11</fontSize>
