@@ -253,9 +253,6 @@
 		<animation property="offsetX" from="-0.0426" to="0.0185" duration="800" begin="500" autoreverse="true" repeat="forever" mode="easeInOutQuint"/>
 		</storyboard>
 	</image>
-	   <image name="char0001" extra="true">
-<visible>false</visible>
-      </image>
 
 	 <image name="jotaro kujo02a" extra="true">
 <visible>false</visible> 
@@ -492,7 +489,7 @@
 	<pos>0.108 0.298</pos>
          <size>0.364 0.481</size>
          <origin>0 0</origin>
-         <delay>0</delay>
+         <delay>1</delay>
          <showSnapshotNoVideo>true</showSnapshotNoVideo>
          <showSnapshotDelay>false</showSnapshotDelay>
          <zIndex>20</zIndex>
@@ -556,6 +553,15 @@
 		<path>{random}</path>
 		<zIndex>5</zIndex>
 	  </image> 
+      <image name="md_image">
+	<pos>0.108 0.298</pos>
+         <size>0.364 0.481</size>
+         <origin>0 0</origin>
+<visible>true</visible>
+<color>ffffff</color>
+<visible>true</visible>
+         <zIndex>20</zIndex>         
+      </image>
 	 <image name="borde" extra="true">
          <origin>0 0</origin>
          <pos>0 0</pos>
@@ -844,9 +850,6 @@
 		<animation property="offsetX" from="-0.0426" to="0.0185" duration="800" begin="500" autoreverse="true" repeat="forever" mode="easeInOutQuint"/>
 		</storyboard>
 	</image>
-	   <image name="char0001" extra="true">
-<visible>false</visible>
-      </image>
   	<image name="logo03" extra="true">
 <visible>true</visible> 
 	</image>

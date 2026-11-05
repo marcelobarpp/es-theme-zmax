@@ -108,10 +108,6 @@
 		<path>./_inc/wallpaper1/${system.theme}.jpg</path>
 		<zIndex>10</zIndex>
 	  </image>
-	   <image name="char0001" extra="true">
-<visible>false</visible>
-      </image>
-
 	 <image name="jotaro kujo02a" extra="true">
 <visible>false</visible> 
 	  </image>
@@ -347,11 +343,20 @@
 	<pos>0.108 0.298</pos>
          <size>0.364 0.481</size>
          <origin>0 0</origin>
-         <delay>0</delay>
+         <delay>1</delay>
          <showSnapshotNoVideo>true</showSnapshotNoVideo>
          <showSnapshotDelay>false</showSnapshotDelay>
          <zIndex>20</zIndex>
       </video>
+      <image name="md_image">
+	<pos>0.108 0.298</pos>
+         <size>0.364 0.481</size>
+         <origin>0 0</origin>
+<visible>true</visible>
+<color>ffffff</color>
+<visible>true</visible>
+         <zIndex>20</zIndex>         
+      </image>
       <image name="art1" extra="true">
 		 <origin>0 0</origin>
          <pos>0 0</pos>
@@ -410,9 +415,6 @@
          <path>./_inc/borde.png</path>
          <zIndex>999</zIndex>          
       </image>	
-	   <image name="char0001" extra="true">
-<visible>false</visible>
-      </image>
   	<image name="logo03" extra="true">
 <visible>false</visible> 
 	</image>
