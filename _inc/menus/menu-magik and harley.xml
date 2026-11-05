@@ -95,13 +95,6 @@
          <path>./_inc/hyper0010a.png</path>
          <zIndex>422</zIndex>
       </image>
- <video name="video2" extra="true">
-         <origin>0 0</origin>
-		<pos>0.0 0.0</pos>
-	    <maxSize>1 0.4</maxSize>
-         <path>./_inc/video2.mp4</path>
-		 <zIndex>68</zIndex>
-      </video>
 	    <image name="marqueta1" extra="true">
 <pos>0.152 0.141</pos>
 <maxSize>0.11 0.11</maxSize>
@@ -271,13 +264,6 @@
          <path>./_inc/hyper0010a.png</path>
          <zIndex>422</zIndex>
       </image>
- <video name="video2" extra="true">
-         <origin>0 0</origin>
-		<pos>0.0 0.0</pos>
-	    <maxSize>1 0.4</maxSize>
-         <path>./_inc/video2.mp4</path>
-		 <zIndex>68</zIndex>
-      </video>
       <text name="md_name">
      <pos>0.4 0.15</pos>
      <origin>0 0</origin>

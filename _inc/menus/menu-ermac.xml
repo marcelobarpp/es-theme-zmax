@@ -91,9 +91,9 @@
  <video name="video2" extra="true">
          <origin>0 0</origin>
 		<pos>0.0 0.0</pos>
-	    <maxSize>1 0.4</maxSize>
+	    <maxSize>1 1</maxSize>
          <path>./_inc/video2.mp4</path>
-		 <zIndex>68</zIndex>
+		 <zIndex>16</zIndex>
       </video>
 <image name="consoles003" extra="true">
 		<pos>0.82 0.5</pos>
@@ -276,9 +276,9 @@
  <video name="video2" extra="true">
          <origin>0 0</origin>
 		<pos>0.0 0.0</pos>
-	    <maxSize>1 0.4</maxSize>
+	    <maxSize>1 1</maxSize>
          <path>./_inc/video2.mp4</path>
-		 <zIndex>68</zIndex>
+		 <zIndex>16</zIndex>
       </video>
       <text name="md_name">
      <pos>0.1 0.128</pos>

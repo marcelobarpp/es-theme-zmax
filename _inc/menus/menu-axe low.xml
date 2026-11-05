@@ -91,9 +91,9 @@
  <video name="video2" extra="true">
          <origin>0 0</origin>
 		<pos>0.0 0.0</pos>
-	    <maxSize>1 0.4</maxSize>
+	    <maxSize>1 1</maxSize>
          <path>./_inc/video2.mp4</path>
-		 <zIndex>68</zIndex>
+		 <zIndex>16</zIndex>
       </video>
 <image name="consoles001" extra="true">
 		<pos>0.12 0.67</pos>
@@ -102,15 +102,6 @@
 		<path>./_inc/retro/default.png</path>
 		<path>./_inc/retro/${system.theme}.svg</path>
 		<path>./_inc/retro/${system.theme}.png</path>
-		<zIndex>60</zIndex>
-	  </image>
-<image name="consoles002" extra="true">
-		<pos>0.37 0.6</pos>
-	    <maxSize>0.1 0.1</maxSize>
-		<color>ffffff</color>
-		<path>./_inc/consoles/default.png</path>
-		<path>./_inc/consoles/${system.theme}.svg</path>
-		<path>./_inc/consoles/${system.theme}.png</path>
 		<zIndex>60</zIndex>
 	  </image>
 <image name="fondoblack" extra="true">
@@ -223,15 +214,6 @@
 		<path>./_inc/retro/${system.theme}.png</path>
 		<zIndex>60</zIndex>
 	  </image>
-<image name="consoles002" extra="true">
-		<pos>0.37 0.6</pos>
-	    <maxSize>0.1 0.1</maxSize>
-		<color>ffffff</color>
-		<path>./_inc/consoles/default.png</path>
-		<path>./_inc/consoles/${system.theme}.svg</path>
-		<path>./_inc/consoles/${system.theme}.png</path>
-		<zIndex>60</zIndex>
-	  </image>
       <text name="md_name">
 <visible>true</visible> 
       </text>
@@ -325,9 +307,9 @@
  <video name="video2" extra="true">
          <origin>0 0</origin>
 		<pos>0.0 0.0</pos>
-	    <maxSize>1 0.4</maxSize>
+	    <maxSize>1 1</maxSize>
          <path>./_inc/video2.mp4</path>
-		 <zIndex>68</zIndex>
+		 <zIndex>16</zIndex>
       </video>
       <text name="md_name">
      <pos>0.12 0.837</pos>

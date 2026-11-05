@@ -95,13 +95,6 @@
          <path>./_inc/hyper004-b.png</path>
          <zIndex>422</zIndex>
       </image>
- <video name="video2" extra="true">
-         <origin>0 0</origin>
-		<pos>0.0 0.0</pos>
-	    <maxSize>1 0.4</maxSize>
-         <path>./_inc/video2.mp4</path>
-		 <zIndex>68</zIndex>
-      </video>
 <image name="consoles001" extra="true">
 		<pos>0.12 0.14</pos>
 	    <maxSize>0.1 0.1</maxSize>
@@ -274,13 +267,6 @@
          <path>./_inc/hyper004-b.png</path>
          <zIndex>422</zIndex>
       </image>
- <video name="video2" extra="true">
-         <origin>0 0</origin>
-		<pos>0.0 0.0</pos>
-	    <maxSize>1 0.4</maxSize>
-         <path>./_inc/video2.mp4</path>
-		 <zIndex>68</zIndex>
-      </video>
 <image name="consoles001" extra="true">
 		<pos>0.12 0.14</pos>
 	    <maxSize>0.1 0.1</maxSize>
