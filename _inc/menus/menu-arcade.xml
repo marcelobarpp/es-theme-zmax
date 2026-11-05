@@ -354,7 +354,6 @@
          <origin>0 0</origin>
 <visible>true</visible>
 <color>ffffff</color>
-<visible>true</visible>
          <zIndex>20</zIndex>         
       </image>
       <image name="art1" extra="true">
