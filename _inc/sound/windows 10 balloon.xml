@@ -3,12 +3,6 @@
 <theme>
    <formatVersion>7</formatVersion>
 
-<view name="system">
-      <carousel name="systemcarousel">
-	  <scrollSound>./_inc/sound/windows 10 balloon.wav</scrollSound>
-      </carousel>    
-</view> 
-
 <view name="basic">
       <textlist name="gamelist">
 	  <scrollSound>./_inc/sound/windows 10 balloon.wav</scrollSound>

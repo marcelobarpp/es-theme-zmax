@@ -26,58 +26,53 @@
    <include subset="systems and lists" name="scene 1=robux">./_inc/menus/menu-robux.xml</include>
    <include subset="systems and lists" name="scene 1=jury">./_inc/menus/menu-jury.xml</include>
 
-   <include subset="systems and lists" name="scene 2=mortal kombat">./_inc/menus/menu-mortal kombat.xml</include>
-   <include subset="systems and lists" name="scene 2=street fighter">./_inc/menus/menu-street fighter.xml</include>
-   <include subset="systems and lists" name="scene 2=katie and person">./_inc/menus/menu-katie and person.xml</include>
-   <include subset="systems and lists" name="scene 2=girls">./_inc/menus/menu-bot girl.xml</include>
+   <include subset="systems and lists" name="scene 2=axe low">./_inc/menus/menu-axe low.xml</include>
+   <include subset="systems and lists" name="scene 2=poison">./_inc/menus/menu-poison.xml</include>
+   <include subset="systems and lists" name="scene 2=metal slug">./_inc/menus/menu-metal slug.xml</include>
 
-   <include subset="systems and lists" name="scene 3=axe low">./_inc/menus/menu-axe low.xml</include>
-   <include subset="systems and lists" name="scene 3=poison">./_inc/menus/menu-poison.xml</include>
-   <include subset="systems and lists" name="scene 3=metal slug">./_inc/menus/menu-metal slug.xml</include>
+   <include subset="systems and lists" name="scene 3=zangief">./_inc/menus/menu-zangief.xml</include>
+   <include subset="systems and lists" name="scene 3=ralf">./_inc/menus/menu-ralf.xml</include>
+   <include subset="systems and lists" name="scene 3=raiden">./_inc/menus/menu-raiden.xml</include>
+   <include subset="systems and lists" name="scene 3=blaze fielding">./_inc/menus/menu-blaze fielding.xml</include>
+   <include subset="systems and lists" name="scene 3=yuuki terumi">./_inc/menus/menu-yuuki terumi.xml</include>
+   <include subset="systems and lists" name="scene 3=chang koehan">./_inc/menus/menu-chang koehan.xml</include>
 
-   <include subset="systems and lists" name="scene 4=zangief">./_inc/menus/menu-zangief.xml</include>
-   <include subset="systems and lists" name="scene 4=ralf">./_inc/menus/menu-ralf.xml</include>
-   <include subset="systems and lists" name="scene 4=raiden">./_inc/menus/menu-raiden.xml</include>
-   <include subset="systems and lists" name="scene 4=blaze fielding">./_inc/menus/menu-blaze fielding.xml</include>
-   <include subset="systems and lists" name="scene 4=yuuki terumi">./_inc/menus/menu-yuuki terumi.xml</include>
-   <include subset="systems and lists" name="scene 4=chang koehan">./_inc/menus/menu-chang koehan.xml</include>
+   <include subset="systems and lists" name="scene 4=kuno">./_inc/menus/menu-kuno.xml</include>
+   <include subset="systems and lists" name="scene 4=rox">./_inc/menus/menu-rox.xml</include>
+   <include subset="systems and lists" name="scene 4=harley quinn">./_inc/menus/menu-harley quinn.xml</include>
+   <include subset="systems and lists" name="scene 4=perita">./_inc/menus/menu-perita.xml</include>
+   <include subset="systems and lists" name="scene 4=saw">./_inc/menus/menu-saw.xml</include>
 
-   <include subset="systems and lists" name="scene 5=kuno">./_inc/menus/menu-kuno.xml</include>
-   <include subset="systems and lists" name="scene 5=rox">./_inc/menus/menu-rox.xml</include>
-   <include subset="systems and lists" name="scene 5=harley quinn">./_inc/menus/menu-harley quinn.xml</include>
-   <include subset="systems and lists" name="scene 5=perita">./_inc/menus/menu-perita.xml</include>
-   <include subset="systems and lists" name="scene 5=saw">./_inc/menus/menu-saw.xml</include>
+   <include subset="systems and lists" name="scene 5=dizzy">./_inc/menus/menu-dizzy.xml</include>
+   <include subset="systems and lists" name="scene 5=ermac">./_inc/menus/menu-ermac.xml</include>
+   <include subset="systems and lists" name="scene 5=rabbit">./_inc/menus/menu-rabbit.xml</include>
+   <include subset="systems and lists" name="scene 5=michael myers">./_inc/menus/menu-michael myers.xml</include>
 
-   <include subset="systems and lists" name="scene 6=dizzy">./_inc/menus/menu-dizzy.xml</include>
-   <include subset="systems and lists" name="scene 6=ermac">./_inc/menus/menu-ermac.xml</include>
-   <include subset="systems and lists" name="scene 6=rabbit">./_inc/menus/menu-rabbit.xml</include>
-   <include subset="systems and lists" name="scene 6=michael myers">./_inc/menus/menu-michael myers.xml</include>
-
-   <include subset="systems and lists" name="scene 7=robux and steve">./_inc/menus/menu-steve and robux.xml</include>
-   <include subset="systems and lists" name="scene 7=jonesy and skull">./_inc/menus/menu-jonesy and skull.xml</include>
-   <include subset="systems and lists" name="scene 7=harley and rox">./_inc/menus/menu-harley and rox.xml</include>
-   <include subset="systems and lists" name="scene 7=skully and perita">./_inc/menus/menu-skully and perita.xml</include>
-   <include subset="systems and lists" name="scene 7=hatsune and kuno">./_inc/menus/menu-kuno and hatsune.xml</include>
-   <include subset="systems and lists" name="scene 7=katia kart">./_inc/menus/menu-katia kart.xml</include>
-   <include subset="systems and lists" name="scene 7=magik and harley">./_inc/menus/menu-magik and harley.xml</include>
-   <include subset="systems and lists" name="scene 7=john wick and maki">./_inc/menus/menu-wick and maki.xml</include>
+   <include subset="systems and lists" name="scene 6=robux and steve">./_inc/menus/menu-steve and robux.xml</include>
+   <include subset="systems and lists" name="scene 6=jonesy and skull">./_inc/menus/menu-jonesy and skull.xml</include>
+   <include subset="systems and lists" name="scene 6=harley and rox">./_inc/menus/menu-harley and rox.xml</include>
+   <include subset="systems and lists" name="scene 6=skully and perita">./_inc/menus/menu-skully and perita.xml</include>
+   <include subset="systems and lists" name="scene 6=hatsune and kuno">./_inc/menus/menu-kuno and hatsune.xml</include>
+   <include subset="systems and lists" name="scene 6=katia kart">./_inc/menus/menu-katia kart.xml</include>
+   <include subset="systems and lists" name="scene 6=magik and harley">./_inc/menus/menu-magik and harley.xml</include>
+   <include subset="systems and lists" name="scene 6=john wick and maki">./_inc/menus/menu-wick and maki.xml</include>
 
 
-   <include subset="systems and lists" name="scene 8=harley and magik">./_inc/menus/menu-harley and magik.xml</include>
-   <include subset="systems and lists" name="scene 8=demi and rox">./_inc/menus/menu-demi and rox.xml</include>
-   <include subset="systems and lists" name="scene 8=sonic and amy rose">./_inc/menus/menu-sonic and amy rose.xml</include>
-   <include subset="systems and lists" name="scene 8=marshmello and demi">./_inc/menus/menu-marshmello and demi.xml</include>
-   <include subset="systems and lists" name="scene 8=ikonik and harley">./_inc/menus/menu-ikonik and harley.xml</include>
-   <include subset="systems and lists" name="scene 8=ruby and marshmello">./_inc/menus/menu-ruby and marshmello.xml</include>
-   <include subset="systems and lists" name="scene 8=snake and versa">./_inc/menus/menu-snake and versa.xml</include>
-   <include subset="systems and lists" name="scene 8=jury and ryu">./_inc/menus/menu-jury and ryu.xml</include>
-   <include subset="systems and lists" name="scene 8=poison and ken">./_inc/menus/menu-poison and ken.xml</include>
-   <include subset="systems and lists" name="scene 8=sakura and dan">./_inc/menus/menu-sakura and dan.xml</include>
-   <include subset="systems and lists" name="scene 8=zombies">./_inc/menus/menu-zombies.xml</include>
+   <include subset="systems and lists" name="scene 7=harley and magik">./_inc/menus/menu-harley and magik.xml</include>
+   <include subset="systems and lists" name="scene 7=demi and rox">./_inc/menus/menu-demi and rox.xml</include>
+   <include subset="systems and lists" name="scene 7=sonic and amy rose">./_inc/menus/menu-sonic and amy rose.xml</include>
+   <include subset="systems and lists" name="scene 7=marshmello and demi">./_inc/menus/menu-marshmello and demi.xml</include>
+   <include subset="systems and lists" name="scene 7=ikonik and harley">./_inc/menus/menu-ikonik and harley.xml</include>
+   <include subset="systems and lists" name="scene 7=ruby and marshmello">./_inc/menus/menu-ruby and marshmello.xml</include>
+   <include subset="systems and lists" name="scene 7=snake and versa">./_inc/menus/menu-snake and versa.xml</include>
+   <include subset="systems and lists" name="scene 7=jury and ryu">./_inc/menus/menu-jury and ryu.xml</include>
+   <include subset="systems and lists" name="scene 7=poison and ken">./_inc/menus/menu-poison and ken.xml</include>
+   <include subset="systems and lists" name="scene 7=sakura and dan">./_inc/menus/menu-sakura and dan.xml</include>
+   <include subset="systems and lists" name="scene 7=zombies">./_inc/menus/menu-zombies.xml</include>
 
 
-   <include subset="systems and lists" name="scene 9=arcade">./_inc/menus/menu-arcade.xml</include>
-   <include subset="systems and lists" name="scene 9=arcade detailed">./_inc/menus/menu-arcade detailed.xml</include>
+   <include subset="systems and lists" name="scene 8=arcade">./_inc/menus/menu-arcade.xml</include>
+   <include subset="systems and lists" name="scene 8=arcade detailed">./_inc/menus/menu-arcade detailed.xml</include>
 
 
    <include subset="systems and lists" name="vertical screen=jury">./_inc/menus/menu-jury-vert.xml</include>
@@ -214,33 +209,62 @@
    <include subset="Iconset" name="ps5">./_inc/iconsets/dualsense.xml</include>
 
 
-   <include subset="Sound" name="default">./_inc/sound/windows 10 start.xml</include>
-   <include subset="Sound" name="win7 background">./_inc/sound/windows 7 background.xml</include>
-   <include subset="Sound" name="win11 background">./_inc/sound/win 11 background.xml</include>
-   <include subset="Sound" name="win7 foreground">./_inc/sound/windows 7 foreground.xml</include>
-   <include subset="Sound" name="win11 exclamation">./_inc/sound/win 11 exclamation.xml</include>
-   <include subset="Sound" name="win7 logoff">./_inc/sound/windows 7 logoff.xml</include>
-   <include subset="Sound" name="win7 Logon">./_inc/sound/windows 7 Logon.xml</include>
-   <include subset="Sound" name="win10 balloon">./_inc/sound/windows 10 balloon.xml</include>
-   <include subset="Sound" name="win10 insert">./_inc/sound/windows 10 insert.xml</include>
-   <include subset="Sound" name="win7 notify">./_inc/sound/windows 7 notify.xml</include>
-   <include subset="Sound" name="win10 notify">./_inc/sound/windows 10 notify.xml</include>
-   <include subset="Sound" name="windows 10 shutdown">./_inc/sound/windows 10 shutdown.xml</include>
-   <include subset="Sound" name="win11 control">./_inc/sound/win 11 control.xml</include>
-   <include subset="Sound" name="win11 notify">./_inc/sound/win 11 generic.xml</include>
-   <include subset="Sound" name="win11 insert">./_inc/sound/win 11 insert.xml</include>
-   <include subset="Sound" name="win11 email">./_inc/sound/win 11 email.xml</include>	
-   <include subset="Sound" name="win11 remove">./_inc/sound/win 11 remove.xml</include>
-   <include subset="Sound" name="win11 calendar">./_inc/sound/win 11 calendar.xml</include>
-   <include subset="Sound" name="win11 messaging">./_inc/sound/win 11 messaging.xml</include>
-   <include subset="Sound" name="sd">./_inc/sound/pc-gamelist.xml</include>
-   <include subset="Sound" name="ps2">./_inc/sound/ps2-gamelist.xml</include>
-   <include subset="Sound" name="ps3">./_inc/sound/ps3-gamelist.xml</include>
-   <include subset="Sound" name="ps4">./_inc/sound/ps4-gamelist.xml</include>
-   <include subset="Sound" name="ps5">./_inc/sound/ps5-gamelist.xml</include>
-   <include subset="Sound" name="zumb">./_inc/sound/zumb.xml</include>
-   <include subset="Sound" name="weel">./_inc/sound/wheel.xml</include>
-   <include subset="Sound" name="off">./_inc/sound/off.xml</include>
+   <include subset="Sound gamelist" name="default">./_inc/sound/windows 10 start.xml</include>
+   <include subset="Sound gamelist" name="win7 background">./_inc/sound/windows 7 background.xml</include>
+   <include subset="Sound gamelist" name="win11 background">./_inc/sound/win 11 background.xml</include>
+   <include subset="Sound gamelist" name="win7 foreground">./_inc/sound/windows 7 foreground.xml</include>
+   <include subset="Sound gamelist" name="win11 exclamation">./_inc/sound/win 11 exclamation.xml</include>
+   <include subset="Sound gamelist" name="win7 logoff">./_inc/sound/windows 7 logoff.xml</include>
+   <include subset="Sound gamelist" name="win7 Logon">./_inc/sound/windows 7 Logon.xml</include>
+   <include subset="Sound gamelist" name="win10 balloon">./_inc/sound/windows 10 balloon.xml</include>
+   <include subset="Sound gamelist" name="win10 insert">./_inc/sound/windows 10 insert.xml</include>
+   <include subset="Sound gamelist" name="win7 notify">./_inc/sound/windows 7 notify.xml</include>
+   <include subset="Sound gamelist" name="win10 notify">./_inc/sound/windows 10 notify.xml</include>
+   <include subset="Sound gamelist" name="windows 10 shutdown">./_inc/sound/windows 10 shutdown.xml</include>
+   <include subset="Sound gamelist" name="win11 control">./_inc/sound/win 11 control.xml</include>
+   <include subset="Sound gamelist" name="win11 notify">./_inc/sound/win 11 generic.xml</include>
+   <include subset="Sound gamelist" name="win11 insert">./_inc/sound/win 11 insert.xml</include>
+   <include subset="Sound gamelist" name="win11 email">./_inc/sound/win 11 email.xml</include>	
+   <include subset="Sound gamelist" name="win11 remove">./_inc/sound/win 11 remove.xml</include>
+   <include subset="Sound gamelist" name="win11 calendar">./_inc/sound/win 11 calendar.xml</include>
+   <include subset="Sound gamelist" name="win11 messaging">./_inc/sound/win 11 messaging.xml</include>
+   <include subset="Sound gamelist" name="sd">./_inc/sound/pc-gamelist.xml</include>
+   <include subset="Sound gamelist" name="ps2">./_inc/sound/ps2-gamelist.xml</include>
+   <include subset="Sound gamelist" name="ps3">./_inc/sound/ps3-gamelist.xml</include>
+   <include subset="Sound gamelist" name="ps4">./_inc/sound/ps4-gamelist.xml</include>
+   <include subset="Sound gamelist" name="ps5">./_inc/sound/ps5-gamelist.xml</include>
+   <include subset="Sound gamelist" name="zumb">./_inc/sound/zumb.xml</include>
+   <include subset="Sound gamelist" name="weel">./_inc/sound/wheel.xml</include>
+   <include subset="Sound gamelist" name="off">./_inc/sound/off.xml</include>
+
+
+   <include subset="Sound systemcarousel" name="default">./_inc/sound/win 11 background1.xml</include>
+   <include subset="Sound systemcarousel" name="win10 start">./_inc/sound/windows 10 start1.xml</include>
+   <include subset="Sound systemcarousel" name="win7 background">./_inc/sound/windows 7 background1.xml</include>
+   <include subset="Sound systemcarousel" name="win7 foreground">./_inc/sound/windows 7 foreground1.xml</include>
+   <include subset="Sound systemcarousel" name="win11 exclamation">./_inc/sound/win 11 exclamation1.xml</include>
+   <include subset="Sound systemcarousel" name="win7 logoff">./_inc/sound/windows 7 logoff1.xml</include>
+   <include subset="Sound systemcarousel" name="win7 Logon">./_inc/sound/windows 7 Logon1.xml</include>
+   <include subset="Sound systemcarousel" name="win10 balloon">./_inc/sound/windows 10 balloon1.xml</include>
+   <include subset="Sound systemcarousel" name="win10 insert">./_inc/sound/windows 10 insert1.xml</include>
+   <include subset="Sound systemcarousel" name="win7 notify">./_inc/sound/windows 7 notify1.xml</include>
+   <include subset="Sound systemcarousel" name="win10 notify">./_inc/sound/windows 10 notify1.xml</include>
+   <include subset="Sound systemcarousel" name="windows 10 shutdown">./_inc/sound/windows 10 shutdown1.xml</include>
+   <include subset="Sound systemcarousel" name="win11 control">./_inc/sound/win 11 control1.xml</include>
+   <include subset="Sound systemcarousel" name="win11 notify">./_inc/sound/win 11 generic1.xml</include>
+   <include subset="Sound systemcarousel" name="win11 insert">./_inc/sound/win 11 insert1.xml</include>
+   <include subset="Sound systemcarousel" name="win11 email">./_inc/sound/win 11 email1.xml</include>	
+   <include subset="Sound systemcarousel" name="win11 remove">./_inc/sound/win 11 remove1.xml</include>
+   <include subset="Sound systemcarousel" name="win11 calendar">./_inc/sound/win 11 calendar1.xml</include>
+   <include subset="Sound systemcarousel" name="win11 messaging">./_inc/sound/win 11 messaging1.xml</include>
+   <include subset="Sound systemcarousel" name="sd">./_inc/sound/pc-gamelist1.xml</include>
+   <include subset="Sound systemcarousel" name="ps2">./_inc/sound/ps2-gamelist1.xml</include>
+   <include subset="Sound systemcarousel" name="ps3">./_inc/sound/ps3-gamelist1.xml</include>
+   <include subset="Sound systemcarousel" name="ps4">./_inc/sound/ps4-gamelist1.xml</include>
+   <include subset="Sound systemcarousel" name="ps5">./_inc/sound/ps5-gamelist1.xml</include>
+   <include subset="Sound systemcarousel" name="zumb">./_inc/sound/zumb1.xml</include>
+   <include subset="Sound systemcarousel" name="weel">./_inc/sound/wheel1.xml</include>
+   <include subset="Sound systemcarousel" name="off">./_inc/sound/off.xml</include>
 
  	
    <include subset="Shader" name="default">./art/sistemas/shader/off.xml</include>
