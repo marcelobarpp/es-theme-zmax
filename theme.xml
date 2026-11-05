@@ -344,11 +344,6 @@
 
 <!---------------------------gamelist--------------------------------->
 
-  <include name="Basic">./basic.xml</include>
-   <include name="detailed">./detailed.xml</include>
-   <include name="Video">./video.xml</include>
-   <include name="Grid">./grid.xml</include>
-   <include name="Gamecarousel">./gamecarousel.xml</include>
-   <include name="!!!!choose this one!!!!">./gamecarousel2.xml</include>
+
 
 </theme>
