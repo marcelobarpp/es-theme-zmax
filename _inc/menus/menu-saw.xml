@@ -57,7 +57,7 @@
          <pos>0.68 0.27</pos>
          <size>0.198 0.23</size>
 <origin>0 0</origin>
-<delay>0.03</delay>
+<delay>0.5</delay>
 <showSnapshotNoVideo>true</showSnapshotNoVideo>
 <showSnapshotDelay>true</showSnapshotDelay>
 <color>FFFFFF</color>   
@@ -74,6 +74,13 @@
          <path>./_inc/hyper009a.png</path>
          <zIndex>21</zIndex>
       </image>
+<image name="hpblack" extra="true">
+	<origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+	<path>./_inc/black009.png</path>
+	<zIndex>18</zIndex>
+	</image>
       <image name="art004" extra="true">
 		 <origin>0 0</origin>
          <pos>0 0</pos>
@@ -214,19 +221,27 @@
          <origin>0. 0</origin>
          <pos>0.68 0.27</pos>
          <size>0.198 0.23</size>
-		<delay>0</delay>
+		<delay>1</delay>
 		<path>./default/_inc/noise.mp4</path>
-        <showSnapshotNoVideo>true</showSnapshotNoVideo>
+        <showSnapshotNoVideo>false</showSnapshotNoVideo>
         <showSnapshotDelay>false</showSnapshotDelay>
 		<effect>none</effect> 
-		<zIndex>19</zIndex>  
+		<zIndex>21</zIndex>  
       </video> 
+      <image name="md_image">
+         <origin>0. 0</origin>
+         <pos>0.68 0.27</pos>
+         <size>0.198 0.23</size>
+<visible>true</visible>
+<color>ffffff</color>
+         <zIndex>20</zIndex>         
+      </image> 
       <image name="art003" extra="true">
 		 <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>  
          <path>./_inc/hyper009a.png</path>
-         <zIndex>21</zIndex>
+         <zIndex>22</zIndex>
       </image>
       <image name="art004" extra="true">
 		 <origin>0 0</origin>

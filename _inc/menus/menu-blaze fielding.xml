@@ -57,7 +57,7 @@
          <pos>0.543 0.286</pos>
          <size>0.215 0.242</size>
 <origin>0 0</origin>
-<delay>0.03</delay>
+<delay>0.5</delay>
 <showSnapshotNoVideo>true</showSnapshotNoVideo>
 <showSnapshotDelay>true</showSnapshotDelay>
 <color>FFFFFF</color>   
@@ -239,13 +239,21 @@
          <origin>0. 0</origin>
          <pos>0.543 0.286</pos>
          <size>0.215 0.242</size>
-		<delay>0</delay>
+		<delay>1</delay>
 		<path>./default/_inc/noise.mp4</path>
-        <showSnapshotNoVideo>true</showSnapshotNoVideo>
+        <showSnapshotNoVideo>false</showSnapshotNoVideo>
         <showSnapshotDelay>false</showSnapshotDelay>
 		<effect>none</effect> 
 		<zIndex>20</zIndex>  
-      </video> 
+      </video>
+      <image name="md_image">
+         <origin>0. 0</origin>
+         <pos>0.543 0.286</pos>
+         <size>0.215 0.242</size>
+<visible>true</visible>
+<color>ffffff</color>
+         <zIndex>20</zIndex>         
+      </image>
       <image name="art004" extra="true">
 		 <origin>0 0</origin>
          <pos>0 0</pos>

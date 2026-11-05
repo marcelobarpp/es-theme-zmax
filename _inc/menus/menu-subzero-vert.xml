@@ -76,9 +76,9 @@
 <path>{random}</path>                  
 <pos>0.335 0.09</pos>
 <size>0.33 0.765</size>
-<delay>0</delay>
-<showSnapshotNoVideo>false</showSnapshotNoVideo>
-<showSnapshotDelay>false</showSnapshotDelay>
+<delay>0.5</delay>
+<showSnapshotNoVideo>true</showSnapshotNoVideo>
+<showSnapshotDelay>true</showSnapshotDelay>
 <color>FFFFFF</color>   
 <zIndex>19</zIndex>
 </video>
