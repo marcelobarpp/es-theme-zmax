@@ -214,11 +214,21 @@
    <include subset="Iconset" name="ps5">./_inc/iconsets/dualsense.xml</include>
 
 
-   <include subset="Sound" name="default">./_inc/sound/win 11 control.xml</include>
+   <include subset="Sound" name="default">./_inc/sound/windows 10 start.xml</include>
+   <include subset="Sound" name="win7 background">./_inc/sound/windows 7 background.xml</include>
    <include subset="Sound" name="win11 background">./_inc/sound/win 11 background.xml</include>
-   <include subset="Sound" name="win11 generic">./_inc/sound/win 11 generic.xml</include>
-   <include subset="Sound" name="win11 insert">./_inc/sound/win 11 insert.xml</include>
+   <include subset="Sound" name="win7 foreground">./_inc/sound/windows 7 foreground.xml</include>
    <include subset="Sound" name="win11 exclamation">./_inc/sound/win 11 exclamation.xml</include>
+   <include subset="Sound" name="win7 logoff">./_inc/sound/windows 7 logoff.xml</include>
+   <include subset="Sound" name="win7 Logon">./_inc/sound/windows 7 Logon.xml</include>
+   <include subset="Sound" name="win10 balloon">./_inc/sound/windows 10 balloon.xml</include>
+   <include subset="Sound" name="win10 insert">./_inc/sound/windows 10 insert.xml</include>
+   <include subset="Sound" name="win7 notify">./_inc/sound/windows 7 notify.xml</include>
+   <include subset="Sound" name="win10 notify">./_inc/sound/windows 10 notify.xml</include>
+   <include subset="Sound" name="windows 10 shutdown">./_inc/sound/windows 10 shutdown.xml</include>
+   <include subset="Sound" name="win11 control">./_inc/sound/win 11 control.xml</include>
+   <include subset="Sound" name="win11 notify">./_inc/sound/win 11 generic.xml</include>
+   <include subset="Sound" name="win11 insert">./_inc/sound/win 11 insert.xml</include>
    <include subset="Sound" name="win11 email">./_inc/sound/win 11 email.xml</include>	
    <include subset="Sound" name="win11 remove">./_inc/sound/win 11 remove.xml</include>
    <include subset="Sound" name="win11 calendar">./_inc/sound/win 11 calendar.xml</include>
