@@ -2,6 +2,13 @@
 <theme defaultView="gamecarousel">
 <formatVersion>7</formatVersion>
 <include>./$system/custom.xml</include>
+   <include>./basic.xml</include>
+   <include>./detailed.xml</include>
+   <include>./video.xml</include>
+   <include>./grid.xml</include>
+   <include>./gamecarousel.xml</include>
+
+
  <feature supported="carousel">
    <view name="system">
 	<sound name="directory">
@@ -206,27 +213,26 @@
    <include subset="Iconset" name="oculus">./_inc/iconsets/oculus.xml</include>
    <include subset="Iconset" name="ps5">./_inc/iconsets/dualsense.xml</include>
 
-   <include subset="Sound" name="Default">./_inc/sound/wheel.xml</include>
-   <include subset="Sound" name="up">./_inc/sound/up.xml</include>	
-   <include subset="Sound" name="off">./_inc/sound/off.xml</include>
-   <include subset="Sound" name="hyperspin">./_inc/sound/hyperspin.xml</include>
-   <include subset="Sound" name="roleta">./_inc/sound/roleta.xml</include>
-   <include subset="Sound" name="button">./_inc/sound/button.xml</include>
-   <include subset="Sound" name="golf">./_inc/sound/golf.xml</include>
-   <include subset="Sound" name="keiba">./_inc/sound/keiba.xml</include>
-   <include subset="Sound" name="mario">./_inc/sound/mario.xml</include>
-   <include subset="Sound" name="message">./_inc/sound/message.xml</include>
-   <include subset="Sound" name="monopoly">./_inc/sound/monopoly.xml</include>
-   <include subset="Sound" name="save">./_inc/sound/save.xml</include>
-   <include subset="Sound" name="yoshi">./_inc/sound/yoshi.xml</include>
-   <include subset="Sound" name="yoshi2">./_inc/sound/yoshi2.xml</include>
-   <include subset="Sound" name="ring">./_inc/sound/ring.xml</include>
+
+   <include subset="Sound" name="default">./_inc/sound/win 11 control.xml</include>
+   <include subset="Sound" name="win11 background">./_inc/sound/win 11 background.xml</include>
+   <include subset="Sound" name="win11 generic">./_inc/sound/win 11 generic.xml</include>
+   <include subset="Sound" name="win11 insert">./_inc/sound/win 11 insert.xml</include>
+   <include subset="Sound" name="win11 exclamation">./_inc/sound/win 11 exclamation.xml</include>
+   <include subset="Sound" name="win11 email">./_inc/sound/win 11 email.xml</include>	
+   <include subset="Sound" name="win11 remove">./_inc/sound/win 11 remove.xml</include>
+   <include subset="Sound" name="win11 calendar">./_inc/sound/win 11 calendar.xml</include>
+   <include subset="Sound" name="win11 messaging">./_inc/sound/win 11 messaging.xml</include>
+   <include subset="Sound" name="sd">./_inc/sound/pc-gamelist.xml</include>
+   <include subset="Sound" name="ps2">./_inc/sound/ps2-gamelist.xml</include>
+   <include subset="Sound" name="ps3">./_inc/sound/ps3-gamelist.xml</include>
+   <include subset="Sound" name="ps4">./_inc/sound/ps4-gamelist.xml</include>
+   <include subset="Sound" name="ps5">./_inc/sound/ps5-gamelist.xml</include>
    <include subset="Sound" name="zumb">./_inc/sound/zumb.xml</include>
-   <include subset="Sound" name="tone">./_inc/sound/tone.xml</include>
-   <include subset="Sound" name="giata">./_inc/sound/giata.xml</include>
-   <include subset="Sound" name="scroll">./_inc/sound/scroll.xml</include>
-   <include subset="Sound" name="line">./_inc/sound/line.xml</include>
-   	
+   <include subset="Sound" name="weel">./_inc/sound/wheel.xml</include>
+   <include subset="Sound" name="off">./_inc/sound/off.xml</include>
+
+ 	
    <include subset="Shader" name="default">./art/sistemas/shader/off.xml</include>
    <include subset="Shader" name="CRT">./art/sistemas/shader/crt.xml</include>
    <include subset="Shader" name="Scanlines 1">./art/sistemas/shader/scanlines1.xml</include>
@@ -345,11 +351,5 @@
 <!---------------------------gamelist--------------------------------->
 
 
-   <include name="Basic">./basic.xml</include>
-   <include name="detailed">./detailed.xml</include>
-   <include name="Video">./video.xml</include>
-   <include name="Grid">./grid.xml</include>
-   <include name="Gamecarousel">./gamecarousel.xml</include>
-   <include name="!!!!choose this one!!!!">./gamecarousel2.xml</include>
 
 </theme>

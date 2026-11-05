@@ -5,39 +5,38 @@
 
 <view name="system">
       <carousel name="systemcarousel">
-	  <scrollSound>./_inc/sound/ring.wav</scrollSound>
+	  <scrollSound>./_inc/sound/win 11 calendar.wav</scrollSound>
       </carousel>    
 </view> 
 
 <view name="basic">
       <textlist name="gamelist">
-	  <scrollSound>./_inc/sound/ring.wav</scrollSound>
+	  <scrollSound>./_inc/sound/win 11 calendar.wav</scrollSound>
       </textlist>
 </view> 
 
 <view name="detailed">
        <textlist name="gamelist">
-	   <scrollSound>./_inc/sound/ring.wav</scrollSound>
+	   <scrollSound>./_inc/sound/win 11 calendar.wav</scrollSound>
        </textlist>
 </view> 
      
 <view name="video">
        <textlist name="gamelist">
-	   <scrollSound>./_inc/sound/ring.wav</scrollSound>
+	   <scrollSound>./_inc/sound/win 11 calendar.wav</scrollSound>
        </textlist>
  </view> 
  
 <view name="grid">
  	  <imagegrid name="gamegrid">
-	  <scrollSound>./_inc/sound/ring.wav</scrollSound>      		
+	  <scrollSound>./_inc/sound/win 11 calendar.wav</scrollSound>      		
       </imagegrid> 
 </view>
 
 <view name="gamecarousel">
       <gamecarousel name="gamecarousel">
-      <scrollSound>./_inc/sound/ring.wav</scrollSound>  
+      <scrollSound>./_inc/sound/win 11 calendar.wav</scrollSound>  
       </gamecarousel> 
 </view>
-
 	 
 </theme>
