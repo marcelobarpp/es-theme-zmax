@@ -283,7 +283,7 @@
       <text name="md_name">
      <pos>0.1 0.128</pos>
      <origin>0 0</origin>
-         <zIndex>22</zIndex>
+         <zIndex>25</zIndex>
       </text>
 <image name="consoles003" extra="true">
 		<pos>0.82 0.5</pos>
