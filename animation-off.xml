@@ -3,9 +3,6 @@
 
 
 <view name="system, systemcarousel">
-
-
-
          <image name="pointer02" extra="true">
          </image>
 
@@ -15,6 +12,7 @@
 	 <image name="character06" extra="true">
 <visible>false</visible> 
 	  </image>
+
 	 <image name="character07" extra="true">
 <visible>false</visible> 
 	  </image>
@@ -22,7 +20,6 @@
        </view>
 
 <view name="basic, detailed, video, grid, gamecarousel">
-
          <image name="pointer02" extra="true">
          </image>
 
@@ -36,11 +33,5 @@
 <visible>false</visible> 
 	  </image>
 
-
-  	<image name="md_marquee" extra="true">
-<visible>false</visible> 
-	</image>
-
 	</view>
-
 </theme>
