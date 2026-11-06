@@ -228,7 +228,7 @@
 	</image>	
 <gamecarousel name="gamecarousel">
 <zIndex>69</zIndex>	      
-<type>horizontal</type>
+ <type>horizontal</type>
 <pos>0.001 -0.43972</pos>
 <size>1 1</size>
 <logoScale>1</logoScale>

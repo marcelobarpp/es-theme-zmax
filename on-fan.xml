@@ -1,0 +1,15 @@
+<theme>
+
+    <view name="basic, detailed, video, grid, gamecarousel, system">
+
+
+	 <image name="char0001" extra="true">
+		<pos>0.7 -0.07</pos>
+		<maxSize>0.3 0.3</maxSize>
+		<color>ffffff</color>
+		<path>./_inc/chars/char53.gif</path>
+		<zIndex>70</zIndex>
+	  </image>
+
+ </view>
+</theme>

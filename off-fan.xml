@@ -1,0 +1,11 @@
+<theme>
+   <formatVersion>7</formatVersion>
+
+<view name="system">
+
+  <image name="char53.gif" extra="true">
+<visible>false</visible>
+      </image>
+
+</view>
+</theme>

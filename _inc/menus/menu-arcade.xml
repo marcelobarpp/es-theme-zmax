@@ -45,7 +45,7 @@
 	  <zIndex>55</zIndex>
 	  </image>
 	  	<image name="cliente" extra="true">
-		<pos>0.92 0.01</pos>
+		<pos>0.55 0.01</pos>
 		<maxSize>0.08 0.08</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/assets/cliente.png</path>
@@ -333,7 +333,7 @@
 <zIndex>40</zIndex> 
 </image>
 	  	<image name="cliente" extra="true">
-		<pos>0.92 0.01</pos>
+		<pos>0.55 0.01</pos>
 		<maxSize>0.08 0.08</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/assets/cliente.png</path>

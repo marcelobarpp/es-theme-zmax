@@ -35,7 +35,7 @@
 			</storyboard>			
 		</image>
 <image name="consoles001" extra="true">
-		<pos>0.17 0.02</pos>
+		<pos>0.8 0.85</pos>
 	    <maxSize>0.1 0.1</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/retro/default.png</path>
@@ -367,7 +367,7 @@
 <zIndex>40</zIndex> 
 </image> 
 <image name="consoles001" extra="true">
-		<pos>0.17 0.02</pos>
+		<pos>0.8 0.85</pos>
 	    <maxSize>0.1 0.1</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/retro/default.png</path>
