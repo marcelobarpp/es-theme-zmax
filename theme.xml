@@ -290,7 +290,7 @@
    <include subset="video" name="on">./on-bg-video.xml</include>
 
    <include subset="fan" name="off">./off-fan.xml</include>
-   <include subset="fan" name="on">./on-fan.xml</include>
+   <include subset="fan" name="1">./on-fan.xml</include>
    <include subset="fan" name="2">./on-fan2.xml</include>
 
 

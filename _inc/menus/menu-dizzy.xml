@@ -64,8 +64,8 @@
 <zIndex>20</zIndex>
 </video>
 <text name="systemInfo">
-     <pos>-0.33 0.115</pos>
-        <zIndex>22</zIndex>
+     <pos>-0.12 0.115</pos>
+        <zIndex>25</zIndex>
       </text> 
  <video name="video3" extra="true">
          <origin>0 0</origin>
@@ -290,9 +290,10 @@
 <zIndex>18</zIndex>         
       </image>
       <text name="md_name">
-     <pos>0.1 0.128</pos>
+     <pos>0.25 0.128</pos>
      <origin>0 0</origin>
          <zIndex>25</zIndex>
+	<alignment>left</alignment>
       </text>
 	 <image name="character07" extra="true">
 		<pos>0.9505 0.5</pos>
