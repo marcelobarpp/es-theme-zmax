@@ -1,6 +1,6 @@
 <theme>
 
-    <view name="basic, detailed, video, grid, gamecarousel, system">
+    <view name=" gamecarousel, system">
 
 
 	 <image name="char0001" extra="true">
