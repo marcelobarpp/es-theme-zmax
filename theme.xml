@@ -249,7 +249,7 @@
    <include subset="Sound systemcarousel" name="win10 insert">./_inc/sound/windows 10 insert1.xml</include>
    <include subset="Sound systemcarousel" name="win7 notify">./_inc/sound/windows 7 notify1.xml</include>
    <include subset="Sound systemcarousel" name="win10 notify">./_inc/sound/windows 10 notify1.xml</include>
-   <include subset="Sound systemcarousel" name="windows 10 shutdown">./_inc/sound/windows 10 shutdown1.xml</include>
+   <include subset="Sound systemcarousel" name="win10 shutdown">./_inc/sound/windows 10 shutdown1.xml</include>
    <include subset="Sound systemcarousel" name="win11 control">./_inc/sound/win 11 control1.xml</include>
    <include subset="Sound systemcarousel" name="win11 notify">./_inc/sound/win 11 generic1.xml</include>
    <include subset="Sound systemcarousel" name="win11 insert">./_inc/sound/win 11 insert1.xml</include>
