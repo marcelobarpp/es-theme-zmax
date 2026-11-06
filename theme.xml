@@ -220,7 +220,7 @@
    <include subset="Sound gamelist" name="win10 insert">./_inc/sound/windows 10 insert.xml</include>
    <include subset="Sound gamelist" name="win7 notify">./_inc/sound/windows 7 notify.xml</include>
    <include subset="Sound gamelist" name="win10 notify">./_inc/sound/windows 10 notify.xml</include>
-   <include subset="Sound gamelist" name="windows 10 shutdown">./_inc/sound/windows 10 shutdown.xml</include>
+   <include subset="Sound gamelist" name="win10 shutdown">./_inc/sound/windows 10 shutdown.xml</include>
    <include subset="Sound gamelist" name="win11 control">./_inc/sound/win 11 control.xml</include>
    <include subset="Sound gamelist" name="win11 notify">./_inc/sound/win 11 generic.xml</include>
    <include subset="Sound gamelist" name="win11 insert">./_inc/sound/win 11 insert.xml</include>
