@@ -359,7 +359,7 @@
 <color>00000000</color>
 <maxLogoCount>7</maxLogoCount>
 <logoRotation>-11</logoRotation>
-<logoRotationOrigin>2.45 0.5</logoRotationOrigin>
+<logoRotationOrigin>2.45 0.5</logoRotationOrigin>		
 <logoAlignment>center</logoAlignment> 
 <gameImage>./_inc/game.png</gameImage>
 <imageSource>marquee</imageSource>

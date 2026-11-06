@@ -10,6 +10,12 @@
 			</storyboard>
       			   </image>
 
+      <image name="logo03" extra="true">
+		<storyboard> 
+        <animation property="scale" to="1.04" begin="100" autoreverse="true" duration="400" repeat="forever" mode="easyIn"/>
+		</storyboard>  
+	</image>
+
 
 	  <image name="thumb0003" extra="true">
 		<storyboard> 

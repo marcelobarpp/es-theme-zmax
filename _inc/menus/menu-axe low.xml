@@ -12,6 +12,7 @@
 <maxLogoCount>5.3</maxLogoCount>
 <logoRotation>1</logoRotation>
 <logoRotationOrigin>2.9 0.5</logoRotationOrigin>
+<defaultTransition>instant</defaultTransition>	
 <logoAlignment>center</logoAlignment>       
 </carousel> 
 	<image name="cliente" extra="true">
