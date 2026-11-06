@@ -79,6 +79,10 @@
    <include subset="systems and lists" name="vertical screen=subzero">./_inc/menus/menu-subzero-vert.xml</include>
 
    <include subset="bot motion" name="off">./gif-off.xml</include>
+   <include subset="bot motion" name="venom">./_inc/char motions/venom.xml</include>
+   <include subset="bot motion" name="spider-man">./_inc/char motions/spider-man.xml</include>
+   <include subset="bot motion" name="captain america">./_inc/char motions/captain america.xml</include>
+   <include subset="bot motion" name="nemesis-t">./_inc/char motions/nemesis-t.xml</include>
    <include subset="bot motion" name="jotaro kujo">./_inc/char motions/jotaro kujo.xml</include>
    <include subset="bot motion" name="batman">./_inc/char motions/batman.xml</include>
    <include subset="bot motion" name="gordeau">./_inc/char motions/gordeau.xml</include>
@@ -101,10 +105,6 @@
    <include subset="bot motion" name="luna himek">./_inc/char motions/luna himek.xml</include>
    <include subset="bot motion" name="cadillac and dinosaurs">./_inc/char motions/cadillac and dinosaurs.xml</include>
    <include subset="bot motion" name="zombie">./_inc/char motions/zombie.xml</include>
-   <include subset="bot motion" name="venom">./_inc/char motions/venom.xml</include>
-   <include subset="bot motion" name="spider-man">./_inc/char motions/spider-man.xml</include>
-   <include subset="bot motion" name="captain america">./_inc/char motions/captain america.xml</include>
-   <include subset="bot motion" name="nemesis-t">./_inc/char motions/nemesis-t.xml</include>
 
    <include subset="bot additional" name="on">./gif-on1.xml</include>
    <include subset="bot additional" name="off">./gif-off1.xml</include>
