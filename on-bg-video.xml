@@ -10,10 +10,8 @@
 	 </carousel>
 
       <video name="backgroundvideo" extra="true">
-        <default>./_inc/pixn.mp4</default>
         <visible>true</visible>
-        <path>{random}</path>
-		<path>./_inc/videos/${system.theme}.mp4</path>		
+        <path>{random}</path>	
       <pos>0 0</pos>
 	  <size>1 1</size>
       <origin>0 0</origin>
@@ -31,6 +29,15 @@
        <path>./_inc/logo.png</path>
        <path>./_inc/logos/${system.theme}.png</path>
 	  <zIndex>900</zIndex>
+	  </image>
+
+	 <image name="char0001" extra="true">
+        <visible>false</visible>
+	  </image>
+
+
+	 <image name="char0002" extra="true">
+        <visible>false</visible>
 	  </image>
 
 	  	<image name="cliente" extra="true">
@@ -259,6 +266,7 @@
 <gameImage>./_inc/game.png</gameImage>
 <imageSource>marquee</imageSource>
 </gamecarousel>
+
 	<video name="md_video">
       <pos>0 0</pos>
 	  <size>1 1</size>
@@ -277,6 +285,24 @@
 	<linearSmooth>true</linearSmooth>
 	<zIndex>900</zIndex> 
 		</image>
+
+     <image name="wallpaper1" extra="true">
+        <origin>0 0</origin>
+        <pos>0 0</pos>
+         <size>1 1</size>
+		<color>ffffff</color>
+		<path>./_inc/wall1.jpg</path>
+		<path>./_inc/wallpaper1/${system.theme}.jpg</path>
+		<zIndex>700</zIndex>
+	  </image>
+
+	 <image name="char0001" extra="true">
+        <visible>false</visible>
+	  </image>
+
+	 <image name="char0002" extra="true">
+        <visible>false</visible>
+	  </image>
 
  <video name="video2" extra="true">
        <visible>false</visible>
