@@ -71,8 +71,6 @@
    <include subset="systems and lists" name="scene 7=sakura and dan">./_inc/menus/menu-sakura and dan.xml</include>
    <include subset="systems and lists" name="scene 7=zombies">./_inc/menus/menu-zombies.xml</include>
 
-
-   <include subset="systems and lists" name="scene 8=arcade">./_inc/menus/menu-arcade.xml</include>
    <include subset="systems and lists" name="scene 8=arcade detailed">./_inc/menus/menu-arcade detailed.xml</include>
 
 
@@ -291,10 +289,11 @@
    <include subset="fan" name="1">./on-fan.xml</include>
    <include subset="fan" name="2">./on-fan2.xml</include>
 
-   <include subset="video" name="off">./off-bg-video.xml</include>
-   <include subset="video" name="on">./on-bg-video.xml</include>
+   <include subset="game media" name="off">./off-bg-video.xml</include>
+   <include subset="game media" name="video">./on-bg-video.xml</include>
+   <include subset="game media" name="image">./on-bg-image.xml</include>
 
-   <include>./${system.theme}/custom.xml</include>
+      <!-- <include>./${system.theme}/custom.xml</include> -->
    <!-- <include>./CoinOps Details.xml</include> -->
    <!-- <include>./HCoinSpin.xml</include> -->
 

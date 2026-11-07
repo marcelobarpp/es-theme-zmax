@@ -31,6 +31,11 @@
 	  <zIndex>900</zIndex>
 	  </image>
 
+<text name="systemInfo">
+	<pos>0. 0.0</pos>
+        <zIndex>960</zIndex>
+      </text> 
+
 	 <image name="char0001" extra="true">
         <visible>false</visible>
 	  </image>
