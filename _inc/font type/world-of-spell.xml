@@ -7,7 +7,7 @@
 	 <helpsystem name="help">
        <fontPath>./_inc/fonts/world-of-spell.otf</fontPath>
      <pos>0.01 0.973</pos>
-     <fontSize>0.024</fontSize>
+     <fontSize>0.0228</fontSize>
      </helpsystem>
 </view>
 <view name=" basic, detailed, video, grid, gamecarousel">
@@ -17,7 +17,7 @@
 	<helpsystem name="help">
        <fontPath>./_inc/fonts/world-of-spell.otf</fontPath>
      <pos>0.01 0.973</pos>
-     <fontSize>0.024</fontSize>
+     <fontSize>0.0228</fontSize>
      </helpsystem>
  </view>
 </theme>

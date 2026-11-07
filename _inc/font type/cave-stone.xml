@@ -6,8 +6,8 @@
       </text> 
 	 <helpsystem name="help">
        <fontPath>./_inc/fonts/cave-stone.otf</fontPath>
-     <pos>0.01 0.972</pos>
-     <fontSize>0.023</fontSize>
+     <pos>0.01 0.9725</pos>
+     <fontSize>0.0225</fontSize>
      </helpsystem>
 </view>
 <view name=" basic, detailed, video, grid, gamecarousel">
@@ -16,8 +16,8 @@
       </text>
 	<helpsystem name="help">
        <fontPath>./_inc/fonts/cave-stone.otf</fontPath>
-     <pos>0.01 0.972</pos>
-     <fontSize>0.023</fontSize>
+     <pos>0.01 0.9725</pos>
+     <fontSize>0.0225</fontSize>
      </helpsystem>
  </view>
 </theme>
