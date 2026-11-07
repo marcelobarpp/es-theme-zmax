@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <theme defaultView="gamecarousel">
 <formatVersion>7</formatVersion>
-<include>./$system/custom.xml</include>
+
 
    <include>./basic.xml</include>
    <include>./detailed.xml</include>
@@ -294,7 +294,9 @@
    <include subset="video" name="off">./off-bg-video.xml</include>
    <include subset="video" name="on">./on-bg-video.xml</include>
 
-
+   <include>./${system.theme}/custom.xml</include>
+   <!-- <include>./CoinOps Details.xml</include> -->
+   <!-- <include>./HCoinSpin.xml</include> -->
 
 
 <!---------------------------screen----------------------------------------->

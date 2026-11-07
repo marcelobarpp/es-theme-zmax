@@ -215,9 +215,9 @@
 	    <fontSize>0.0155</fontSize>
 		<size>0.56 0</size>
 		<pos>0.576 0.564</pos>
-		<glowColor>000000</glowColor>
-		<glowSize>1.8</glowSize>
-		<zIndex>842</zIndex>
+		<glowColor>ec1c24</glowColor>
+		<glowSize>1</glowSize>
+		<zIndex>45</zIndex>
 		 <storyboard repeatAt="1">
 		 <animation property="opacity" to="1" begin="0" duration="0" mode="linear"/>
 		 <animation property="scale" from="1" to="1.05" begin="0" duration="1000" mode="easeOut"/>
@@ -811,9 +811,9 @@
 	    <fontSize>0.0155</fontSize>
 		<size>0.56 0</size>
 		<pos>0.576 0.564</pos>
-		<glowColor>000000</glowColor>
-		<glowSize>1.8</glowSize>
-		<zIndex>842</zIndex>
+		<glowColor>ec1c24</glowColor>
+		<glowSize>1</glowSize>
+		<zIndex>45</zIndex>
 		 <storyboard repeatAt="1">
 		 <animation property="opacity" to="1" begin="0" duration="0" mode="linear"/>
 		 <animation property="scale" from="1" to="1.05" begin="0" duration="1000" mode="easeOut"/>
