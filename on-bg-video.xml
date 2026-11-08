@@ -25,7 +25,7 @@
 	    <image name="logo03" extra="true">
 	<origin>0 0</origin>
 	  <color>ffffff</color>
-         <pos>0.48 0.85</pos>
+         <pos>0.45 0.85</pos>
          <maxSize>0.1 0.1</maxSize>
        <path>./_inc/logo.png</path>
        <path>./_inc/logos/${system.theme}.png</path>
@@ -286,7 +286,7 @@
     </video>
 
    	<image name="md_marquee">
-          <pos>0.48 0.85</pos>
+          <pos>0.45 0.85</pos>
 	<maxSize>0.1 0.1</maxSize>
 	<origin>0 0</origin>
 	<linearSmooth>true</linearSmooth>
