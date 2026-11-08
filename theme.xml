@@ -75,6 +75,7 @@
    <include subset="systems and lists" name="vertical screen=jury">./_inc/menus/menu-jury-vert.xml</include>
    <include subset="systems and lists" name="vertical screen=subzero">./_inc/menus/menu-subzero-vert.xml</include>
 
+
    <include subset="bot motion" name="off">./gif-off.xml</include>
    <include subset="bot motion" name="venom">./_inc/char motions/venom.xml</include>
    <include subset="bot motion" name="spider-man">./_inc/char motions/spider-man.xml</include>
@@ -287,12 +288,13 @@
    <include subset="fan" name="1">./on-fan.xml</include>
    <include subset="fan" name="2">./on-fan2.xml</include>
 
+
+
    <include subset="game media" name="off">./off-bg-video.xml</include>
    <include subset="game media" name="video">./on-bg-video.xml</include>
    <include subset="game media" name="image">./on-bg-image.xml</include>
    <include subset="game media" name="fanart">./on-bg-fanart.xml</include>
-
-
+   <include subset="game media" name="thumbnail">./on-bg-thumb.xml</include>
 
 <!---------------------------screen----------------------------------------->
 
