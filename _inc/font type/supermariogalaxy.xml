@@ -2,20 +2,20 @@
    <formatVersion>7</formatVersion>
 <view name="system, systemcarousel">
 <text name="systemInfo">
-       <fontPath>./_inc/fonts/supermariogalaxy.ttf</fontPath>
+       <fontPath>./_inc/fonts/supermariogalaxy.otf</fontPath>
       </text> 
 	<helpsystem name="help">
-       <fontPath>./_inc/fonts/supermariogalaxy.ttf</fontPath>
+       <fontPath>./_inc/fonts/supermariogalaxy.otf</fontPath>
      <pos>0.01 0.975</pos>
      <fontSize>0.019</fontSize>
      </helpsystem>
 </view>
 <view name=" basic, detailed, video, grid, gamecarousel">
 <text name="md_name">
-       <fontPath>./_inc/fonts/supermariogalaxy.ttf</fontPath>
+       <fontPath>./_inc/fonts/supermariogalaxy.otf</fontPath>
       </text>
 	 <helpsystem name="help">
-       <fontPath>./_inc/fonts/supermariogalaxy.ttf</fontPath>
+       <fontPath>./_inc/fonts/supermariogalaxy.otf</fontPath>
      <pos>0.01 0.975</pos>
      <fontSize>0.019</fontSize>
      </helpsystem>
