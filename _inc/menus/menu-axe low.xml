@@ -95,15 +95,6 @@
          <path>./_inc/video2.mp4</path>
 		 <zIndex>16</zIndex>
       </video>
-<image name="consoles001" extra="true">
-		<pos>0.12 0.67</pos>
-	    <maxSize>0.1 0.1</maxSize>
-		<color>ffffff</color>
-		<path>./_inc/retro/default.png</path>
-		<path>./_inc/retro/${system.theme}.svg</path>
-		<path>./_inc/retro/${system.theme}.png</path>
-		<zIndex>60</zIndex>
-	  </image>
 <image name="fondoblack" extra="true">
          <origin>0 0</origin>
          <pos>0. 0.001</pos>
@@ -111,6 +102,15 @@
 <path>./_inc/black004.png</path>
 <zIndex>23</zIndex>         
       </image>
+<image name="consoles001" extra="true">
+		<pos>0.83 0.62</pos>
+	    <maxSize>0.1 0.1</maxSize>
+		<color>ffffff</color>
+		<path>./_inc/retro/default.png</path>
+		<path>./_inc/retro/${system.theme}.svg</path>
+		<path>./_inc/retro/${system.theme}.png</path>
+		<zIndex>60</zIndex>
+	  </image>
 	    <image name="marqueta1" extra="true">
 <pos>0.586 0.15</pos>
 <maxSize>0.13 0.13</maxSize>
@@ -147,14 +147,6 @@
 		<color>ffffff</color>
 	    <rotation>-0</rotation>    
 		<path>./_inc/chars/char232.gif</path>
-		<zIndex>300</zIndex>
-	  </image>
-	 <image name="character08" extra="true">
-		<pos>0.81 0.58</pos>
-		<maxSize>0.3 0.3</maxSize>
-		<color>ffffff</color>
-	    <rotation>-0</rotation>    
-		<path>./_inc/chars/char237a.gif</path>
 		<zIndex>300</zIndex>
 	  </image>
 	 <image name="character06" extra="true">
@@ -205,15 +197,6 @@
 	    <size>0.07 0.2</size>
 		<zIndex>36</zIndex>
 	      </image> 
-<image name="consoles001" extra="true">
-		<pos>0.12 0.67</pos>
-	    <maxSize>0.1 0.1</maxSize>
-		<color>ffffff</color>
-		<path>./_inc/retro/default.png</path>
-		<path>./_inc/retro/${system.theme}.svg</path>
-		<path>./_inc/retro/${system.theme}.png</path>
-		<zIndex>60</zIndex>
-	  </image>
       <text name="md_name">
 <visible>true</visible> 
       </text>
@@ -309,6 +292,15 @@
      <origin>0 0</origin>
          <zIndex>70</zIndex>
       </text>
+<image name="consoles001" extra="true">
+		<pos>0.83 0.62</pos>
+	    <maxSize>0.1 0.1</maxSize>
+		<color>ffffff</color>
+		<path>./_inc/retro/default.png</path>
+		<path>./_inc/retro/${system.theme}.svg</path>
+		<path>./_inc/retro/${system.theme}.png</path>
+		<zIndex>60</zIndex>
+	  </image>
 	 <image name="character3" extra="true">
 		<pos>0.05 0.24</pos>
 		<maxSize>0.67 0.67</maxSize>
@@ -329,14 +321,6 @@
 		<color>ffffff</color>
 	    <rotation>-0</rotation>    
 		<path>./_inc/chars/char232.gif</path>
-		<zIndex>300</zIndex>
-	  </image>
-	 <image name="character08" extra="true">
-		<pos>0.81 0.58</pos>
-		<maxSize>0.3 0.3</maxSize>
-		<color>ffffff</color>
-	    <rotation>-0</rotation>    
-		<path>./_inc/chars/char237a.gif</path>
 		<zIndex>300</zIndex>
 	  </image>
 	 <image name="character06" extra="true">
