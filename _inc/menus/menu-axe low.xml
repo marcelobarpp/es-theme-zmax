@@ -63,7 +63,6 @@
 <color>FFFFFF</color>   
 <zIndex>24</zIndex>
 </video>
-
 <text name="systemInfo">
      <pos>-0.3 0.835</pos>
         <zIndex>70</zIndex>
@@ -290,13 +289,6 @@
          <size>1 1</size>  
          <path>./_inc/hyper004-b.png</path>
          <zIndex>422</zIndex>
-      </image>
-      <image name="art006" extra="true">
-		 <origin>0 0</origin>
-         <pos>0 0</pos>
-         <size>1 1</size>  
-         <path>./_inc/roxo-a.png</path>
-         <zIndex>600</zIndex>
       </image>
 <image name="fondoblack" extra="true">
          <origin>0 0</origin>
