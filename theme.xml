@@ -90,9 +90,7 @@
    <include subset="bot motion" name="sonic and tails">./_inc/char motions/sonic and tails.xml</include>
    <include subset="bot motion" name="tails">./_inc/char motions/tails.xml</include>
    <include subset="bot motion" name="may (guilty Gear)">./_inc/char motions/may (guilty Gear).xml</include>
-   <include subset="bot motion" name="k'">./_inc/char motions/k.xml</include>
    <include subset="bot motion" name="litchi faye-ling">./_inc/char motions/litchi faye-ling.xml</include>
-   <include subset="bot motion" name="ethan (take over)">./_inc/char motions/ethan (take over).xml</include>
    <include subset="bot motion" name="ramlethal valentine">./_inc/char motions/ramlethal valentine.xml</include>
    <include subset="bot motion" name="bridget">./_inc/char motions/bridget.xml</include>
    <include subset="bot motion" name="scorpion">./_inc/char motions/scorpion.xml</include>
