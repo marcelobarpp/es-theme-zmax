@@ -27,7 +27,8 @@ https://retrobat.forumgaming.fr/f4-themes
 
 ## Themes for Batocera-EmulationStation: https://batocera.org/themes.php
 
-
+## Desc
+A fantastic theme that leverages features supported by EmulationStation to display high-resolution graphics! Every file has been balanced for both performance and quality; the videos and images have been rendered to ensure a high-quality look without significantly impacting performance. After more than 5 years of testing with a vast array of assets, the project is now complete—I will only provide updates when necessary. I believe any computer capable of running PS2 and Dreamcast games will be able to handle this theme with ease! It is completely free to use, and its sale is strictly prohibited. I created this theme as my contribution to RetroBat and Batocera, helping to keep the emulation of classic games alive!
 
 ## Info
 It is now available in the download sections for both RetroBat and Batocera. I would like to thank the administration teams (lorenzolamas and getupor) for the warm welcome and for sharing this project, allowing everyone to enjoy it! If you come across any errors, please leave a comment so I can look into them; since I developed all of this in my spare time without any financial support—and given the large number of files and configurations involved—it is possible that something may have been overlooked. Thank you all for your understanding.
