@@ -124,7 +124,7 @@
 		<maxSize>0.96 0.96</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/chars/char247.gif</path>
-		<zIndex>35</zIndex>
+		<zIndex>135</zIndex>
 	  </image>
 	 <image name="character07" extra="true">
 		<pos>0.9505 0.5</pos>
@@ -282,7 +282,7 @@
 		<maxSize>0.96 0.96</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/chars/char247.gif</path>
-		<zIndex>35</zIndex>
+		<zIndex>135</zIndex>
 	  </image>
 	 <image name="character07" extra="true">
 		<pos>0.9505 0.5</pos>
