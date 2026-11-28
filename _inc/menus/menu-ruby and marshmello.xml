@@ -142,6 +142,7 @@
 		<maxSize>0.56 0.56</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/chars/char260.gif</path>
+                <reflexion>0.3 0</reflexion>
 		<zIndex>35</zIndex>
 	  </image>
 	 <image name="character10" extra="true">
@@ -149,6 +150,7 @@
 		<maxSize>0.54 0.54</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/chars/char259.gif</path>
+                <reflexion>0.3 0</reflexion>
 		<zIndex>35</zIndex>
 	  </image>
  </view>
@@ -318,6 +320,7 @@
 		<maxSize>0.56 0.56</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/chars/char260.gif</path>
+                <reflexion>0.3 0</reflexion>
 		<zIndex>35</zIndex>
 	  </image>
 	 <image name="character10" extra="true">
@@ -325,6 +328,7 @@
 		<maxSize>0.54 0.54</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/chars/char259.gif</path>
+                <reflexion>0.3 0</reflexion>
 		<zIndex>35</zIndex>
 	  </image>
 	    <image name="logo" extra="true">

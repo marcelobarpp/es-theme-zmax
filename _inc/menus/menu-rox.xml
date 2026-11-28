@@ -120,8 +120,8 @@
 		<zIndex>30</zIndex>
 	  </image>
 	 <image name="character3" extra="true">
-		<pos>0.27 0.28</pos>
-		<maxSize>0.63 0.63</maxSize>
+		<pos>0.29 0.26</pos>
+		<maxSize>0.6 0.6</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/chars/char250.gif</path>
 		<zIndex>35</zIndex>
@@ -278,8 +278,8 @@
 		<zIndex>30</zIndex>
 	  </image>
 	 <image name="character3" extra="true">
-		<pos>0.27 0.28</pos>
-		<maxSize>0.63 0.63</maxSize>
+		<pos>0.29 0.26</pos>
+		<maxSize>0.6 0.6</maxSize>
 		<color>ffffff</color>
 		<path>./_inc/chars/char250.gif</path>
 		<zIndex>35</zIndex>
